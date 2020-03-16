@@ -1,0 +1,51 @@
+{
+  "id": "1689192",
+  "name": "全国高校查询系统",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "10262050",
+      "name": "设 置",
+      "font_class": "shezhi",
+      "unicode": "e611",
+      "unicode_decimal": 58897
+    },
+    {
+      "icon_id": "1495454",
+      "name": "学士帽-实",
+      "font_class": "xueshimao-shi",
+      "unicode": "e665",
+      "unicode_decimal": 58981
+    },
+    {
+      "icon_id": "3904429",
+      "name": "柱状图",
+      "font_class": "zhuzhuangtu",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    },
+    {
+      "icon_id": "5766825",
+      "name": "列表-线条",
+      "font_class": "table",
+      "unicode": "e6b5",
+      "unicode_decimal": 59061
+    },
+    {
+      "icon_id": "8325668",
+      "name": "图表 柱状图",
+      "font_class": "statistics",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "11671987",
+      "name": "地图",
+      "font_class": "map",
+      "unicode": "e673",
+      "unicode_decimal": 58995
+    }
+  ]
+}
