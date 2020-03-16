@@ -13,7 +13,7 @@ const rankDb = low(rankAdapter);//学校排名数据库--2019某排名前800所
 const ProvinceEnum = require("../enum/ProvinceEnum");
 const LevelEnum = require("../enum/LevelEnum");
 
-const appConfig  = require("./config/config");
+const appConfig  = require("../config/config");
 /**
  * 同步数据
  */

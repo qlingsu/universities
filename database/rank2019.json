@@ -1,5600 +1,5604 @@
 {
-	"rankInAll": 1,
-	"name": "北京大学",
-	"rankInProvince": 1,
-	"type": "综合",
-	"rankInType": 1
-},
-{
-	"rankInAll": 2,
-	"name": "清华大学",
-	"rankInProvince": 2,
-	"type": "理工",
-	"rankInType": 1
-},
-{
-	"rankInAll": 3,
-	"name": "浙江大学",
-	"rankInProvince": 1,
-	"type": "综合",
-	"rankInType": 2
-},
-{
-	"rankInAll": 4,
-	"name": "上海交通大学",
-	"rankInProvince": 1,
-	"type": "理工",
-	"rankInType": 2
-},
-{
-	"rankInAll": 5,
-	"name": "武汉大学",
-	"rankInProvince": 1,
-	"type": "综合",
-	"rankInType": 3
-},
-{
-	"rankInAll": 6,
-	"name": "复旦大学",
-	"rankInProvince": 2,
-	"type": "综合",
-	"rankInType": 4
-},
-{
-	"rankInAll": 7,
-	"name": "南京大学",
-	"rankInProvince": 1,
-	"type": "综合",
-	"rankInType": 5
-},
-{
-	"rankInAll": 8,
-	"name": "吉林大学",
-	"rankInProvince": 1,
-	"type": "综合",
-	"rankInType": 6
-},
-{
-	"rankInAll": 9,
-	"name": "中山大学",
-	"rankInProvince": 1,
-	"type": "综合",
-	"rankInType": 7
-},
-{
-	"rankInAll": 10,
-	"name": "华中科技大学",
-	"rankInProvince": 2,
-	"type": "理工",
-	"rankInType": 3
-},
-{
-	"rankInAll": 11,
-	"name": "四川大学",
-	"rankInProvince": 1,
-	"type": "综合",
-	"rankInType": 8
-},
-{
-	"rankInAll": 12,
-	"name": "山东大学",
-	"rankInProvince": 1,
-	"type": "综合",
-	"rankInType": 9
-},
-{
-	"rankInAll": 13,
-	"name": "哈尔滨工业大学",
-	"rankInProvince": 1,
-	"type": "理工",
-	"rankInType": 4
-},
-{
-	"rankInAll": 14,
-	"name": "西安交通大学",
-	"rankInProvince": 1,
-	"type": "理工",
-	"rankInType": 5
-},
-{
-	"rankInAll": 15,
-	"name": "中国科学技术大学",
-	"rankInProvince": 1,
-	"type": "理工",
-	"rankInType": 6
-},
-{
-	"rankInAll": 16,
-	"name": "东南大学",
-	"rankInProvince": 2,
-	"type": "理工",
-	"rankInType": 7
-},
-{
-	"rankInAll": 17,
-	"name": "南开大学",
-	"rankInProvince": 1,
-	"type": "综合",
-	"rankInType": 10
-},
-{
-	"rankInAll": 18,
-	"name": "中南大学",
-	"rankInProvince": 1,
-	"type": "理工",
-	"rankInType": 8
-},
-{
-	"rankInAll": 19,
-	"name": "中国人民大学",
-	"rankInProvince": 3,
-	"type": "文法",
-	"rankInType": 1
-},
-{
-	"rankInAll": 20,
-	"name": "北京师范大学",
-	"rankInProvince": 4,
-	"type": "师范",
-	"rankInType": 1
-},
-{
-	"rankInAll": 21,
-	"name": "厦门大学",
-	"rankInProvince": 1,
-	"type": "综合",
-	"rankInType": 11
-},
-{
-	"rankInAll": 22,
-	"name": "同济大学",
-	"rankInProvince": 3,
-	"type": "理工",
-	"rankInType": 9
-},
-{
-	"rankInAll": 23,
-	"name": "大连理工大学",
-	"rankInProvince": 1,
-	"type": "理工",
-	"rankInType": 10
-},
-{
-	"rankInAll": 24,
-	"name": "天津大学",
-	"rankInProvince": 2,
-	"type": "理工",
-	"rankInType": 11
-},
-{
-	"rankInAll": 25,
-	"name": "华东师范大学",
-	"rankInProvince": 4,
-	"type": "师范",
-	"rankInType": 2
-},
-{
-	"rankInAll": 26,
-	"name": "北京航空航天大学",
-	"rankInProvince": 5,
-	"type": "理工",
-	"rankInType": 12
-},
-{
-	"rankInAll": 27,
-	"name": "华南理工大学",
-	"rankInProvince": 2,
-	"type": "理工",
-	"rankInType": 13
-},
-{
-	"rankInAll": 28,
-	"name": "北京理工大学",
-	"rankInProvince": 6,
-	"type": "理工",
-	"rankInType": 14
-},
-{
-	"rankInAll": 29,
-	"name": "中国农业大学",
-	"rankInProvince": 7,
-	"type": "农林",
-	"rankInType": 1
-},
-{
-	"rankInAll": 30,
-	"name": "西北工业大学",
-	"rankInProvince": 2,
-	"type": "理工",
-	"rankInType": 15
-},
-{
-	"rankInAll": 31,
-	"name": "重庆大学",
-	"rankInProvince": 1,
-	"type": "理工",
-	"rankInType": 16
-},
-{
-	"rankInAll": 32,
-	"name": "湖南大学",
-	"rankInProvince": 2,
-	"type": "理工",
-	"rankInType": 17
-},
-{
-	"rankInAll": 33,
-	"name": "兰州大学",
-	"rankInProvince": 1,
-	"type": "综合",
-	"rankInType": 12
-},
-{
-	"rankInAll": 34,
-	"name": "北京交通大学",
-	"rankInProvince": 8,
-	"type": "理工",
-	"rankInType": 18
-},
-{
-	"rankInAll": 35,
-	"name": "电子科技大学",
-	"rankInProvince": 2,
-	"type": "理工",
-	"rankInType": 19
-},
-{
-	"rankInAll": 36,
-	"name": "西南交通大学",
-	"rankInProvince": 3,
-	"type": "理工",
-	"rankInType": 20
-},
-{
-	"rankInAll": 37,
-	"name": "武汉理工大学",
-	"rankInProvince": 3,
-	"type": "理工",
-	"rankInType": 21
-},
-{
-	"rankInAll": 38,
-	"name": "东北大学",
-	"rankInProvince": 2,
-	"type": "理工",
-	"rankInType": 22
-},
-{
-	"rankInAll": 39,
-	"name": "华中师范大学",
-	"rankInProvince": 4,
-	"type": "师范",
-	"rankInType": 3
-},
-{
-	"rankInAll": 40,
-	"name": "东北师范大学",
-	"rankInProvince": 2,
-	"type": "师范",
-	"rankInType": 4
-},
-{
-	"rankInAll": 41,
-	"name": "苏州大学",
-	"rankInProvince": 3,
-	"type": "综合",
-	"rankInType": 13
-},
-{
-	"rankInAll": 42,
-	"name": "西南大学",
-	"rankInProvince": 2,
-	"type": "综合",
-	"rankInType": 14
-},
-{
-	"rankInAll": 43,
-	"name": "郑州大学",
-	"rankInProvince": 1,
-	"type": "综合",
-	"rankInType": 15
-},
-{
-	"rankInAll": 44,
-	"name": "华中农业大学",
-	"rankInProvince": 5,
-	"type": "农林",
-	"rankInType": 2
-},
-{
-	"rankInAll": 45,
-	"name": "西安电子科技大学",
-	"rankInProvince": 3,
-	"type": "理工",
-	"rankInType": 23
-},
-{
-	"rankInAll": 46,
-	"name": "华东理工大学",
-	"rankInProvince": 5,
-	"type": "理工",
-	"rankInType": 24
-},
-{
-	"rankInAll": 47,
-	"name": "南京师范大学",
-	"rankInProvince": 4,
-	"type": "师范",
-	"rankInType": 5
-},
-{
-	"rankInAll": 48,
-	"name": "中国海洋大学",
-	"rankInProvince": 2,
-	"type": "理工",
-	"rankInType": 25
-},
-{
-	"rankInAll": 49,
-	"name": "南京农业大学",
-	"rankInProvince": 5,
-	"type": "农林",
-	"rankInType": 3
-},
-{
-	"rankInAll": 50,
-	"name": "南京航空航天大学",
-	"rankInProvince": 6,
-	"type": "理工",
-	"rankInType": 26
-},
-{
-	"rankInAll": 51,
-	"name": "陕西师范大学",
-	"rankInProvince": 4,
-	"type": "师范",
-	"rankInType": 6
-},
-{
-	"rankInAll": 52,
-	"name": "北京科技大学",
-	"rankInProvince": 9,
-	"type": "理工",
-	"rankInType": 27
-},
-{
-	"rankInAll": 53,
-	"name": "西北大学",
-	"rankInProvince": 5,
-	"type": "综合",
-	"rankInType": 16
-},
-{
-	"rankInAll": 54,
-	"name": "上海大学",
-	"rankInProvince": 6,
-	"type": "综合",
-	"rankInType": 17
-},
-{
-	"rankInAll": 55,
-	"name": "南京理工大学",
-	"rankInProvince": 7,
-	"type": "理工",
-	"rankInType": 28
-},
-{
-	"rankInAll": 56,
-	"name": "北京工业大学",
-	"rankInProvince": 10,
-	"type": "理工",
-	"rankInType": 29
-},
-{
-	"rankInAll": 57,
-	"name": "北京协和医学院",
-	"rankInProvince": 11,
-	"type": "医药",
-	"rankInType": 1
-},
-{
-	"rankInAll": 58,
-	"name": "首都医科大学",
-	"rankInProvince": 12,
-	"type": "医药",
-	"rankInType": 2
-},
-{
-	"rankInAll": 59,
-	"name": "江南大学",
-	"rankInProvince": 8,
-	"type": "综合",
-	"rankInType": 18
-},
-{
-	"rankInAll": 60,
-	"name": "哈尔滨工程大学",
-	"rankInProvince": 2,
-	"type": "理工",
-	"rankInType": 30
-},
-{
-	"rankInAll": 61,
-	"name": "湖南师范大学",
-	"rankInProvince": 3,
-	"type": "师范",
-	"rankInType": 7
-},
-{
-	"rankInAll": 62,
-	"name": "河海大学",
-	"rankInProvince": 9,
-	"type": "理工",
-	"rankInType": 31
-},
-{
-	"rankInAll": 63,
-	"name": "云南大学",
-	"rankInProvince": 1,
-	"type": "综合",
-	"rankInType": 19
-},
-{
-	"rankInAll": 64,
-	"name": "浙江工业大学",
-	"rankInProvince": 2,
-	"type": "理工",
-	"rankInType": 32
-},
-{
-	"rankInAll": 65,
-	"name": "北京邮电大学",
-	"rankInProvince": 13,
-	"type": "理工",
-	"rankInType": 33
-},
-{
-	"rankInAll": 66,
-	"name": "中国政法大学",
-	"rankInProvince": 14,
-	"type": "文法",
-	"rankInType": 2
-},
-{
-	"rankInAll": 67,
-	"name": "首都师范大学",
-	"rankInProvince": 15,
-	"type": "师范",
-	"rankInType": 8
-},
-{
-	"rankInAll": 68,
-	"name": "燕山大学",
-	"rankInProvince": 1,
-	"type": "理工",
-	"rankInType": 34
-},
-{
-	"rankInAll": 69,
-	"name": "西北农林科技大学",
-	"rankInProvince": 6,
-	"type": "农林",
-	"rankInType": 4
-},
-{
-	"rankInAll": 70,
-	"name": "北京语言大学",
-	"rankInProvince": 16,
-	"type": "文法",
-	"rankInType": 3
-},
-{
-	"rankInAll": 70,
-	"name": "中央财经大学",
-	"rankInProvince": 16,
-	"type": "财经",
-	"rankInType": 1
-},
-{
-	"rankInAll": 72,
-	"name": "华南师范大学",
-	"rankInProvince": 3,
-	"type": "师范",
-	"rankInType": 9
-},
-{
-	"rankInAll": 73,
-	"name": "北京化工大学",
-	"rankInProvince": 18,
-	"type": "理工",
-	"rankInType": 35
-},
-{
-	"rankInAll": 74,
-	"name": "中央民族大学",
-	"rankInProvince": 19,
-	"type": "民族",
-	"rankInType": 1
-},
-{
-	"rankInAll": 75,
-	"name": "暨南大学",
-	"rankInProvince": 4,
-	"type": "综合",
-	"rankInType": 20
-},
-{
-	"rankInAll": 76,
-	"name": "河南大学",
-	"rankInProvince": 2,
-	"type": "综合",
-	"rankInType": 21
-},
-{
-	"rankInAll": 77,
-	"name": "合肥工业大学",
-	"rankInProvince": 2,
-	"type": "理工",
-	"rankInType": 36
-},
-{
-	"rankInAll": 78,
-	"name": "南昌大学",
-	"rankInProvince": 1,
-	"type": "综合",
-	"rankInType": 22
-},
-{
-	"rankInAll": 79,
-	"name": "南方医科大学",
-	"rankInProvince": 5,
-	"type": "医药",
-	"rankInType": 3
-},
-{
-	"rankInAll": 80,
-	"name": "东华大学",
-	"rankInProvince": 7,
-	"type": "理工",
-	"rankInType": 37
-},
-{
-	"rankInAll": 81,
-	"name": "上海财经大学",
-	"rankInProvince": 8,
-	"type": "财经",
-	"rankInType": 2
-},
-{
-	"rankInAll": 82,
-	"name": "中国矿业大学",
-	"rankInProvince": 10,
-	"type": "理工",
-	"rankInType": 38
-},
-{
-	"rankInAll": 83,
-	"name": "广西大学",
-	"rankInProvince": 1,
-	"type": "综合",
-	"rankInType": 23
-},
-{
-	"rankInAll": 84,
-	"name": "浙江师范大学",
-	"rankInProvince": 3,
-	"type": "师范",
-	"rankInType": 10
-},
-{
-	"rankInAll": 85,
-	"name": "扬州大学",
-	"rankInProvince": 11,
-	"type": "综合",
-	"rankInType": 24
-},
-{
-	"rankInAll": 86,
-	"name": "湘潭大学",
-	"rankInProvince": 4,
-	"type": "综合",
-	"rankInType": 25
-},
-{
-	"rankInAll": 87,
-	"name": "上海中医药大学",
-	"rankInProvince": 9,
-	"type": "医药",
-	"rankInType": 4
-},
-{
-	"rankInAll": 88,
-	"name": "华南农业大学",
-	"rankInProvince": 6,
-	"type": "农林",
-	"rankInType": 5
-},
-{
-	"rankInAll": 89,
-	"name": "江苏大学",
-	"rankInProvince": 12,
-	"type": "综合",
-	"rankInType": 26
-},
-{
-	"rankInAll": 90,
-	"name": "中国矿业大学(北京)",
-	"rankInProvince": 20,
-	"type": "理工",
-	"rankInType": 39
-},
-{
-	"rankInAll": 91,
-	"name": "福州大学",
-	"rankInProvince": 2,
-	"type": "综合",
-	"rankInType": 27
-},
-{
-	"rankInAll": 92,
-	"name": "天津医科大学",
-	"rankInProvince": 3,
-	"type": "医药",
-	"rankInType": 5
-},
-{
-	"rankInAll": 93,
-	"name": "南京工业大学",
-	"rankInProvince": 13,
-	"type": "理工",
-	"rankInType": 40
-},
-{
-	"rankInAll": 94,
-	"name": "中国石油大学(北京)",
-	"rankInProvince": 21,
-	"type": "理工",
-	"rankInType": 41
-},
-{
-	"rankInAll": 95,
-	"name": "中国石油大学(华东)",
-	"rankInProvince": 3,
-	"type": "理工",
-	"rankInType": 42
-},
-{
-	"rankInAll": 96,
-	"name": "中国医科大学",
-	"rankInProvince": 3,
-	"type": "医药",
-	"rankInType": 6
-},
-{
-	"rankInAll": 97,
-	"name": "哈尔滨医科大学",
-	"rankInProvince": 3,
-	"type": "医药",
-	"rankInType": 7
-},
-{
-	"rankInAll": 98,
-	"name": "中国地质大学(武汉)",
-	"rankInProvince": 6,
-	"type": "理工",
-	"rankInType": 43
-},
-{
-	"rankInAll": 99,
-	"name": "宁波大学",
-	"rankInProvince": 4,
-	"type": "综合",
-	"rankInType": 28
-},
-{
-	"rankInAll": 100,
-	"name": "北京林业大学",
-	"rankInProvince": 22,
-	"type": "农林",
-	"rankInType": 6
-},
-{
-	"rankInAll": 101,
-	"name": "长安大学",
-	"rankInProvince": 7,
-	"type": "理工",
-	"rankInType": 44
-},
-{
-	"rankInAll": 102,
-	"name": "内蒙古大学",
-	"rankInProvince": 1,
-	"type": "综合",
-	"rankInType": 29
-},
-{
-	"rankInAll": 103,
-	"name": "上海师范大学",
-	"rankInProvince": 10,
-	"type": "师范",
-	"rankInType": 11
-},
-{
-	"rankInAll": 104,
-	"name": "河北大学",
-	"rankInProvince": 2,
-	"type": "综合",
-	"rankInType": 30
-},
-{
-	"rankInAll": 105,
-	"name": "山西大学",
-	"rankInProvince": 1,
-	"type": "综合",
-	"rankInType": 31
-},
-{
-	"rankInAll": 105,
-	"name": "西安建筑科技大学",
-	"rankInProvince": 8,
-	"type": "理工",
-	"rankInType": 45
-},
-{
-	"rankInAll": 107,
-	"name": "北京中医药大学",
-	"rankInProvince": 23,
-	"type": "医药",
-	"rankInType": 8
-},
-{
-	"rankInAll": 107,
-	"name": "华北电力大学",
-	"rankInProvince": 23,
-	"type": "理工",
-	"rankInType": 46
-},
-{
-	"rankInAll": 109,
-	"name": "福建师范大学",
-	"rankInProvince": 3,
-	"type": "师范",
-	"rankInType": 12
-},
-{
-	"rankInAll": 110,
-	"name": "中国地质大学(北京)",
-	"rankInProvince": 25,
-	"type": "理工",
-	"rankInType": 47
-},
-{
-	"rankInAll": 111,
-	"name": "安徽大学",
-	"rankInProvince": 3,
-	"type": "综合",
-	"rankInType": 32
-},
-{
-	"rankInAll": 112,
-	"name": "昆明理工大学",
-	"rankInProvince": 2,
-	"type": "理工",
-	"rankInType": 48
-},
-{
-	"rankInAll": 113,
-	"name": "中南财经政法大学",
-	"rankInProvince": 7,
-	"type": "财经",
-	"rankInType": 3
-},
-{
-	"rankInAll": 114,
-	"name": "南京医科大学",
-	"rankInProvince": 14,
-	"type": "医药",
-	"rankInType": 9
-},
-{
-	"rankInAll": 115,
-	"name": "海南大学",
-	"rankInProvince": 1,
-	"type": "综合",
-	"rankInType": 33
-},
-{
-	"rankInAll": 116,
-	"name": "河南师范大学",
-	"rankInProvince": 3,
-	"type": "师范",
-	"rankInType": 13
-},
-{
-	"rankInAll": 117,
-	"name": "太原理工大学",
-	"rankInProvince": 2,
-	"type": "理工",
-	"rankInType": 49
-},
-{
-	"rankInAll": 117,
-	"name": "黑龙江大学",
-	"rankInProvince": 4,
-	"type": "综合",
-	"rankInType": 34
-},
-{
-	"rankInAll": 119,
-	"name": "山东师范大学",
-	"rankInProvince": 4,
-	"type": "师范",
-	"rankInType": 14
-},
-{
-	"rankInAll": 120,
-	"name": "深圳大学",
-	"rankInProvince": 7,
-	"type": "综合",
-	"rankInType": 35
-},
-{
-	"rankInAll": 121,
-	"name": "青岛大学",
-	"rankInProvince": 5,
-	"type": "综合",
-	"rankInType": 36
-},
-{
-	"rankInAll": 122,
-	"name": "东北财经大学",
-	"rankInProvince": 4,
-	"type": "财经",
-	"rankInType": 4
-},
-{
-	"rankInAll": 123,
-	"name": "中国传媒大学",
-	"rankInProvince": 26,
-	"type": "文法",
-	"rankInType": 4
-},
-{
-	"rankInAll": 124,
-	"name": "山东科技大学",
-	"rankInProvince": 6,
-	"type": "理工",
-	"rankInType": 50
-},
-{
-	"rankInAll": 125,
-	"name": "辽宁大学",
-	"rankInProvince": 5,
-	"type": "综合",
-	"rankInType": 37
-},
-{
-	"rankInAll": 126,
-	"name": "西南财经大学",
-	"rankInProvince": 4,
-	"type": "财经",
-	"rankInType": 5
-},
-{
-	"rankInAll": 127,
-	"name": "长沙理工大学",
-	"rankInProvince": 5,
-	"type": "理工",
-	"rankInType": 51
-},
-{
-	"rankInAll": 128,
-	"name": "山东农业大学",
-	"rankInProvince": 7,
-	"type": "农林",
-	"rankInType": 7
-},
-{
-	"rankInAll": 129,
-	"name": "四川师范大学",
-	"rankInProvince": 5,
-	"type": "师范",
-	"rankInType": 15
-},
-{
-	"rankInAll": 130,
-	"name": "云南师范大学",
-	"rankInProvince": 3,
-	"type": "师范",
-	"rankInType": 16
-},
-{
-	"rankInAll": 131,
-	"name": "安徽师范大学",
-	"rankInProvince": 4,
-	"type": "师范",
-	"rankInType": 17
-},
-{
-	"rankInAll": 132,
-	"name": "广州大学",
-	"rankInProvince": 8,
-	"type": "综合",
-	"rankInType": 38
-},
-{
-	"rankInAll": 133,
-	"name": "西北师范大学",
-	"rankInProvince": 2,
-	"type": "师范",
-	"rankInType": 18
-},
-{
-	"rankInAll": 133,
-	"name": "对外经济贸易大学",
-	"rankInProvince": 27,
-	"type": "财经",
-	"rankInType": 6
-},
-{
-	"rankInAll": 135,
-	"name": "南京邮电大学",
-	"rankInProvince": 15,
-	"type": "理工",
-	"rankInType": 52
-},
-{
-	"rankInAll": 136,
-	"name": "天津师范大学",
-	"rankInProvince": 4,
-	"type": "师范",
-	"rankInType": 19
-},
-{
-	"rankInAll": 137,
-	"name": "西安理工大学",
-	"rankInProvince": 9,
-	"type": "理工",
-	"rankInType": 53
-},
-{
-	"rankInAll": 138,
-	"name": "贵州大学",
-	"rankInProvince": 1,
-	"type": "综合",
-	"rankInType": 39
-},
-{
-	"rankInAll": 139,
-	"name": "广东工业大学",
-	"rankInProvince": 9,
-	"type": "理工",
-	"rankInType": 54
-},
-{
-	"rankInAll": 140,
-	"name": "东北农业大学",
-	"rankInProvince": 5,
-	"type": "农林",
-	"rankInType": 8
-},
-{
-	"rankInAll": 141,
-	"name": "杭州电子科技大学",
-	"rankInProvince": 5,
-	"type": "理工",
-	"rankInType": 55
-},
-{
-	"rankInAll": 142,
-	"name": "华东政法大学",
-	"rankInProvince": 11,
-	"type": "文法",
-	"rankInType": 5
-},
-{
-	"rankInAll": 143,
-	"name": "福建农林大学",
-	"rankInProvince": 4,
-	"type": "农林",
-	"rankInType": 9
-},
-{
-	"rankInAll": 144,
-	"name": "河北工业大学",
-	"rankInProvince": 3,
-	"type": "理工",
-	"rankInType": 56
-},
-{
-	"rankInAll": 145,
-	"name": "重庆医科大学",
-	"rankInProvince": 3,
-	"type": "医药",
-	"rankInType": 10
-},
-{
-	"rankInAll": 146,
-	"name": "延边大学",
-	"rankInProvince": 3,
-	"type": "综合",
-	"rankInType": 40
-},
-{
-	"rankInAll": 147,
-	"name": "北京外国语大学",
-	"rankInProvince": 28,
-	"type": "文法",
-	"rankInType": 6
-},
-{
-	"rankInAll": 148,
-	"name": "上海外国语大学",
-	"rankInProvince": 12,
-	"type": "文法",
-	"rankInType": 7
-},
-{
-	"rankInAll": 149,
-	"name": "广西师范大学",
-	"rankInProvince": 2,
-	"type": "师范",
-	"rankInType": 20
-},
-{
-	"rankInAll": 150,
-	"name": "河北农业大学",
-	"rankInProvince": 4,
-	"type": "农林",
-	"rankInType": 10
-},
-{
-	"rankInAll": 151,
-	"name": "河北师范大学",
-	"rankInProvince": 5,
-	"type": "师范",
-	"rankInType": 21
-},
-{
-	"rankInAll": 152,
-	"name": "新疆大学",
-	"rankInProvince": 1,
-	"type": "综合",
-	"rankInType": 41
-},
-{
-	"rankInAll": 153,
-	"name": "成都理工大学",
-	"rankInProvince": 6,
-	"type": "理工",
-	"rankInType": 57
-},
-{
-	"rankInAll": 154,
-	"name": "南京林业大学",
-	"rankInProvince": 16,
-	"type": "农林",
-	"rankInType": 11
-},
-{
-	"rankInAll": 155,
-	"name": "中国药科大学",
-	"rankInProvince": 17,
-	"type": "医药",
-	"rankInType": 11
-},
-{
-	"rankInAll": 156,
-	"name": "长春理工大学",
-	"rankInProvince": 4,
-	"type": "理工",
-	"rankInType": 58
-},
-{
-	"rankInAll": 157,
-	"name": "大连海事大学",
-	"rankInProvince": 6,
-	"type": "理工",
-	"rankInType": 59
-},
-{
-	"rankInAll": 157,
-	"name": "河南理工大学",
-	"rankInProvince": 4,
-	"type": "理工",
-	"rankInType": 59
-},
-{
-	"rankInAll": 159,
-	"name": "汕头大学",
-	"rankInProvince": 10,
-	"type": "综合",
-	"rankInType": 42
-},
-{
-	"rankInAll": 160,
-	"name": "重庆邮电大学",
-	"rankInProvince": 4,
-	"type": "理工",
-	"rankInType": 61
-},
-{
-	"rankInAll": 161,
-	"name": "东北林业大学",
-	"rankInProvince": 6,
-	"type": "农林",
-	"rankInType": 12
-},
-{
-	"rankInAll": 162,
-	"name": "广州中医药大学",
-	"rankInProvince": 11,
-	"type": "医药",
-	"rankInType": 12
-},
-{
-	"rankInAll": 163,
-	"name": "济南大学",
-	"rankInProvince": 8,
-	"type": "综合",
-	"rankInType": 43
-},
-{
-	"rankInAll": 164,
-	"name": "浙江理工大学",
-	"rankInProvince": 6,
-	"type": "理工",
-	"rankInType": 62
-},
-{
-	"rankInAll": 164,
-	"name": "武汉科技大学",
-	"rankInProvince": 8,
-	"type": "理工",
-	"rankInType": 62
-},
-{
-	"rankInAll": 164,
-	"name": "石河子大学",
-	"rankInProvince": 2,
-	"type": "综合",
-	"rankInType": 44
-},
-{
-	"rankInAll": 167,
-	"name": "中北大学",
-	"rankInProvince": 3,
-	"type": "理工",
-	"rankInType": 64
-},
-{
-	"rankInAll": 167,
-	"name": "湖南农业大学",
-	"rankInProvince": 6,
-	"type": "农林",
-	"rankInType": 13
-},
-{
-	"rankInAll": 169,
-	"name": "上海理工大学",
-	"rankInProvince": 13,
-	"type": "理工",
-	"rankInType": 65
-},
-{
-	"rankInAll": 170,
-	"name": "南京信息工程大学",
-	"rankInProvince": 18,
-	"type": "理工",
-	"rankInType": 66
-},
-{
-	"rankInAll": 171,
-	"name": "西南政法大学",
-	"rankInProvince": 5,
-	"type": "文法",
-	"rankInType": 8
-},
-{
-	"rankInAll": 172,
-	"name": "湖北大学",
-	"rankInProvince": 9,
-	"type": "综合",
-	"rankInType": 45
-},
-{
-	"rankInAll": 173,
-	"name": "华侨大学",
-	"rankInProvince": 5,
-	"type": "综合",
-	"rankInType": 46
-},
-{
-	"rankInAll": 174,
-	"name": "首都经济贸易大学",
-	"rankInProvince": 29,
-	"type": "财经",
-	"rankInType": 7
-},
-{
-	"rankInAll": 175,
-	"name": "青岛科技大学",
-	"rankInProvince": 9,
-	"type": "理工",
-	"rankInType": 67
-},
-{
-	"rankInAll": 176,
-	"name": "兰州交通大学",
-	"rankInProvince": 3,
-	"type": "理工",
-	"rankInType": 68
-},
-{
-	"rankInAll": 177,
-	"name": "西南石油大学",
-	"rankInProvince": 7,
-	"type": "理工",
-	"rankInType": 69
-},
-{
-	"rankInAll": 178,
-	"name": "浙江工商大学",
-	"rankInProvince": 7,
-	"type": "财经",
-	"rankInType": 8
-},
-{
-	"rankInAll": 179,
-	"name": "中国计量学院",
-	"rankInProvince": 8,
-	"type": "理工",
-	"rankInType": 70
-},
-{
-	"rankInAll": 180,
-	"name": "湖南科技大学",
-	"rankInProvince": 7,
-	"type": "理工",
-	"rankInType": 71
-},
-{
-	"rankInAll": 181,
-	"name": "河南农业大学",
-	"rankInProvince": 5,
-	"type": "农林",
-	"rankInType": 14
-},
-{
-	"rankInAll": 182,
-	"name": "中央音乐学院",
-	"rankInProvince": 30,
-	"type": "艺术",
-	"rankInType": 1
-},
-{
-	"rankInAll": 183,
-	"name": "长江大学",
-	"rankInProvince": 10,
-	"type": "综合",
-	"rankInType": 47
-},
-{
-	"rankInAll": 184,
-	"name": "重庆交通大学",
-	"rankInProvince": 6,
-	"type": "理工",
-	"rankInType": 72
-},
-{
-	"rankInAll": 185,
-	"name": "南京中医药大学",
-	"rankInProvince": 19,
-	"type": "医药",
-	"rankInType": 13
-},
-{
-	"rankInAll": 186,
-	"name": "温州医科大学",
-	"rankInProvince": 9,
-	"type": "医药",
-	"rankInType": 14
-},
-{
-	"rankInAll": 187,
-	"name": "江西师范大学",
-	"rankInProvince": 2,
-	"type": "师范",
-	"rankInType": 22
-},
-{
-	"rankInAll": 187,
-	"name": "河南科技大学",
-	"rankInProvince": 6,
-	"type": "理工",
-	"rankInType": 73
-},
-{
-	"rankInAll": 189,
-	"name": "江西财经大学",
-	"rankInProvince": 3,
-	"type": "财经",
-	"rankInType": 9
-},
-{
-	"rankInAll": 190,
-	"name": "天津科技大学",
-	"rankInProvince": 5,
-	"type": "理工",
-	"rankInType": 74
-},
-{
-	"rankInAll": 191,
-	"name": "哈尔滨理工大学",
-	"rankInProvince": 7,
-	"type": "理工",
-	"rankInType": 75
-},
-{
-	"rankInAll": 192,
-	"name": "三峡大学",
-	"rankInProvince": 11,
-	"type": "综合",
-	"rankInType": 48
-},
-{
-	"rankInAll": 193,
-	"name": "山东理工大学",
-	"rankInProvince": 10,
-	"type": "理工",
-	"rankInType": 76
-},
-{
-	"rankInAll": 194,
-	"name": "沈阳工业大学",
-	"rankInProvince": 7,
-	"type": "理工",
-	"rankInType": 77
-},
-{
-	"rankInAll": 195,
-	"name": "哈尔滨师范大学",
-	"rankInProvince": 8,
-	"type": "师范",
-	"rankInType": 23
-},
-{
-	"rankInAll": 196,
-	"name": "四川农业大学",
-	"rankInProvince": 8,
-	"type": "农林",
-	"rankInType": 15
-},
-{
-	"rankInAll": 197,
-	"name": "辽宁师范大学",
-	"rankInProvince": 8,
-	"type": "师范",
-	"rankInType": 24
-},
-{
-	"rankInAll": 198,
-	"name": "成都中医药大学",
-	"rankInProvince": 9,
-	"type": "医药",
-	"rankInType": 15
-},
-{
-	"rankInAll": 199,
-	"name": "南通大学",
-	"rankInProvince": 20,
-	"type": "综合",
-	"rankInType": 49
-},
-{
-	"rankInAll": 200,
-	"name": "外交学院",
-	"rankInProvince": 31,
-	"type": "文法",
-	"rankInType": 9
-},
-{
-	"rankInAll": 201,
-	"name": "安徽医科大学",
-	"rankInProvince": 5,
-	"type": "医药",
-	"rankInType": 16
-},
-{
-	"rankInAll": 202,
-	"name": "烟台大学",
-	"rankInProvince": 11,
-	"type": "综合",
-	"rankInType": 50
-},
-{
-	"rankInAll": 203,
-	"name": "黑龙江中医药大学",
-	"rankInProvince": 9,
-	"type": "医药",
-	"rankInType": 17
-},
-{
-	"rankInAll": 204,
-	"name": "大连医科大学",
-	"rankInProvince": 9,
-	"type": "医药",
-	"rankInType": 18
-},
-{
-	"rankInAll": 205,
-	"name": "天津中医药大学",
-	"rankInProvince": 6,
-	"type": "医药",
-	"rankInType": 19
-},
-{
-	"rankInAll": 206,
-	"name": "江苏师范大学",
-	"rankInProvince": 21,
-	"type": "师范",
-	"rankInType": 25
-},
-{
-	"rankInAll": 207,
-	"name": "浙江中医药大学",
-	"rankInProvince": 10,
-	"type": "医药",
-	"rankInType": 20
-},
-{
-	"rankInAll": 208,
-	"name": "西南科技大学",
-	"rankInProvince": 10,
-	"type": "理工",
-	"rankInType": 78
-},
-{
-	"rankInAll": 208,
-	"name": "北京体育大学",
-	"rankInProvince": 32,
-	"type": "体育",
-	"rankInType": 1
-},
-{
-	"rankInAll": 210,
-	"name": "广东外语外贸大学",
-	"rankInProvince": 12,
-	"type": "文法",
-	"rankInType": 10
-},
-{
-	"rankInAll": 211,
-	"name": "北京工商大学",
-	"rankInProvince": 33,
-	"type": "财经",
-	"rankInType": 10
-},
-{
-	"rankInAll": 212,
-	"name": "中南民族大学",
-	"rankInProvince": 12,
-	"type": "民族",
-	"rankInType": 2
-},
-{
-	"rankInAll": 213,
-	"name": "沈阳药科大学",
-	"rankInProvince": 10,
-	"type": "医药",
-	"rankInType": 21
-},
-{
-	"rankInAll": 214,
-	"name": "内蒙古农业大学",
-	"rankInProvince": 2,
-	"type": "农林",
-	"rankInType": 16
-},
-{
-	"rankInAll": 215,
-	"name": "辽宁工程技术大学",
-	"rankInProvince": 11,
-	"type": "理工",
-	"rankInType": 79
-},
-{
-	"rankInAll": 216,
-	"name": "天津工业大学",
-	"rankInProvince": 7,
-	"type": "理工",
-	"rankInType": 80
-},
-{
-	"rankInAll": 217,
-	"name": "河北医科大学",
-	"rankInProvince": 6,
-	"type": "医药",
-	"rankInType": 22
-},
-{
-	"rankInAll": 218,
-	"name": "兰州理工大学",
-	"rankInProvince": 4,
-	"type": "理工",
-	"rankInType": 81
-},
-{
-	"rankInAll": 219,
-	"name": "杭州师范大学",
-	"rankInProvince": 11,
-	"type": "师范",
-	"rankInType": 26
-},
-{
-	"rankInAll": 219,
-	"name": "曲阜师范大学",
-	"rankInProvince": 12,
-	"type": "师范",
-	"rankInType": 26
-},
-{
-	"rankInAll": 219,
-	"name": "桂林电子科技大学",
-	"rankInProvince": 3,
-	"type": "理工",
-	"rankInType": 82
-},
-{
-	"rankInAll": 222,
-	"name": "沈阳农业大学",
-	"rankInProvince": 12,
-	"type": "农林",
-	"rankInType": 17
-},
-{
-	"rankInAll": 223,
-	"name": "广西医科大学",
-	"rankInProvince": 4,
-	"type": "医药",
-	"rankInType": 23
-},
-{
-	"rankInAll": 224,
-	"name": "安徽农业大学",
-	"rankInProvince": 6,
-	"type": "农林",
-	"rankInType": 18
-},
-{
-	"rankInAll": 225,
-	"name": "武汉工程大学",
-	"rankInProvince": 13,
-	"type": "理工",
-	"rankInType": 83
-},
-{
-	"rankInAll": 226,
-	"name": "天津财经大学",
-	"rankInProvince": 8,
-	"type": "财经",
-	"rankInType": 11
-},
-{
-	"rankInAll": 227,
-	"name": "中国音乐学院",
-	"rankInProvince": 34,
-	"type": "艺术",
-	"rankInType": 2
-},
-{
-	"rankInAll": 228,
-	"name": "温州大学",
-	"rankInProvince": 12,
-	"type": "综合",
-	"rankInType": 51
-},
-{
-	"rankInAll": 229,
-	"name": "西安科技大学",
-	"rankInProvince": 10,
-	"type": "理工",
-	"rankInType": 84
-},
-{
-	"rankInAll": 230,
-	"name": "新疆医科大学",
-	"rankInProvince": 3,
-	"type": "医药",
-	"rankInType": 24
-},
-{
-	"rankInAll": 231,
-	"name": "河南工业大学",
-	"rankInProvince": 7,
-	"type": "理工",
-	"rankInType": 85
-},
-{
-	"rankInAll": 232,
-	"name": "集美大学",
-	"rankInProvince": 6,
-	"type": "综合",
-	"rankInType": 52
-},
-{
-	"rankInAll": 233,
-	"name": "青海大学",
-	"rankInProvince": 1,
-	"type": "综合",
-	"rankInType": 53
-},
-{
-	"rankInAll": 234,
-	"name": "吉林农业大学",
-	"rankInProvince": 5,
-	"type": "农林",
-	"rankInType": 19
-},
-{
-	"rankInAll": 235,
-	"name": "上海海事大学",
-	"rankInProvince": 14,
-	"type": "理工",
-	"rankInType": 86
-},
-{
-	"rankInAll": 236,
-	"name": "山西师范大学",
-	"rankInProvince": 4,
-	"type": "师范",
-	"rankInType": 28
-},
-{
-	"rankInAll": 237,
-	"name": "华北理工大学",
-	"rankInProvince": 7,
-	"type": "综合",
-	"rankInType": 54
-},
-{
-	"rankInAll": 238,
-	"name": "聊城大学",
-	"rankInProvince": 13,
-	"type": "师范",
-	"rankInType": 29
-},
-{
-	"rankInAll": 238,
-	"name": "陕西科技大学",
-	"rankInProvince": 11,
-	"type": "理工",
-	"rankInType": 87
-},
-{
-	"rankInAll": 240,
-	"name": "重庆工商大学",
-	"rankInProvince": 7,
-	"type": "财经",
-	"rankInType": 12
-},
-{
-	"rankInAll": 241,
-	"name": "中国人民公安大学",
-	"rankInProvince": 35,
-	"type": "文法",
-	"rankInType": 11
-},
-{
-	"rankInAll": 242,
-	"name": "青岛理工大学",
-	"rankInProvince": 14,
-	"type": "理工",
-	"rankInType": 88
-},
-{
-	"rankInAll": 243,
-	"name": "广西民族大学",
-	"rankInProvince": 5,
-	"type": "民族",
-	"rankInType": 3
-},
-{
-	"rankInAll": 244,
-	"name": "中央美术学院",
-	"rankInProvince": 36,
-	"type": "艺术",
-	"rankInType": 3
-},
-{
-	"rankInAll": 244,
-	"name": "广州医科大学",
-	"rankInProvince": 13,
-	"type": "医药",
-	"rankInType": 25
-},
-{
-	"rankInAll": 244,
-	"name": "宁夏大学",
-	"rankInProvince": 1,
-	"type": "综合",
-	"rankInType": 55
-},
-{
-	"rankInAll": 247,
-	"name": "中国美术学院",
-	"rankInProvince": 13,
-	"type": "艺术",
-	"rankInType": 4
-},
-{
-	"rankInAll": 248,
-	"name": "沈阳航空航天大学",
-	"rankInProvince": 13,
-	"type": "理工",
-	"rankInType": 89
-},
-{
-	"rankInAll": 249,
-	"name": "东北石油大学",
-	"rankInProvince": 10,
-	"type": "理工",
-	"rankInType": 90
-},
-{
-	"rankInAll": 250,
-	"name": "沈阳师范大学",
-	"rankInProvince": 14,
-	"type": "师范",
-	"rankInType": 30
-},
-{
-	"rankInAll": 251,
-	"name": "内蒙古师范大学",
-	"rankInProvince": 3,
-	"type": "师范",
-	"rankInType": 31
-},
-{
-	"rankInAll": 252,
-	"name": "吉首大学",
-	"rankInProvince": 8,
-	"type": "综合",
-	"rankInType": 56
-},
-{
-	"rankInAll": 253,
-	"name": "北华大学",
-	"rankInProvince": 6,
-	"type": "综合",
-	"rankInType": 57
-},
-{
-	"rankInAll": 253,
-	"name": "哈尔滨商业大学",
-	"rankInProvince": 11,
-	"type": "财经",
-	"rankInType": 13
-},
-{
-	"rankInAll": 255,
-	"name": "上海音乐学院",
-	"rankInProvince": 15,
-	"type": "艺术",
-	"rankInType": 5
-},
-{
-	"rankInAll": 256,
-	"name": "西华师范大学",
-	"rankInProvince": 11,
-	"type": "师范",
-	"rankInType": 32
-},
-{
-	"rankInAll": 257,
-	"name": "山东建筑大学",
-	"rankInProvince": 15,
-	"type": "理工",
-	"rankInType": 91
-},
-{
-	"rankInAll": 258,
-	"name": "甘肃农业大学",
-	"rankInProvince": 5,
-	"type": "农林",
-	"rankInType": 20
-},
-{
-	"rankInAll": 259,
-	"name": "南华大学",
-	"rankInProvince": 9,
-	"type": "理工",
-	"rankInType": 92
-},
-{
-	"rankInAll": 260,
-	"name": "长春工业大学",
-	"rankInProvince": 7,
-	"type": "理工",
-	"rankInType": 93
-},
-{
-	"rankInAll": 260,
-	"name": "桂林理工大学",
-	"rankInProvince": 6,
-	"type": "理工",
-	"rankInType": 93
-},
-{
-	"rankInAll": 260,
-	"name": "中南林业科技大学",
-	"rankInProvince": 10,
-	"type": "农林",
-	"rankInType": 21
-},
-{
-	"rankInAll": 263,
-	"name": "重庆理工大学",
-	"rankInProvince": 8,
-	"type": "理工",
-	"rankInType": 95
-},
-{
-	"rankInAll": 264,
-	"name": "浙江财经大学",
-	"rankInProvince": 14,
-	"type": "财经",
-	"rankInType": 14
-},
-{
-	"rankInAll": 265,
-	"name": "新疆师范大学",
-	"rankInProvince": 4,
-	"type": "师范",
-	"rankInType": 33
-},
-{
-	"rankInAll": 266,
-	"name": "北方工业大学",
-	"rankInProvince": 37,
-	"type": "理工",
-	"rankInType": 96
-},
-{
-	"rankInAll": 266,
-	"name": "上海体育学院",
-	"rankInProvince": 16,
-	"type": "体育",
-	"rankInType": 2
-},
-{
-	"rankInAll": 268,
-	"name": "天津理工大学",
-	"rankInProvince": 9,
-	"type": "理工",
-	"rankInType": 97
-},
-{
-	"rankInAll": 269,
-	"name": "天津体育学院",
-	"rankInProvince": 10,
-	"type": "体育",
-	"rankInType": 3
-},
-{
-	"rankInAll": 269,
-	"name": "北京联合大学",
-	"rankInProvince": 38,
-	"type": "综合",
-	"rankInType": 58
-},
-{
-	"rankInAll": 271,
-	"name": "南昌航空大学",
-	"rankInProvince": 4,
-	"type": "理工",
-	"rankInType": 98
-},
-{
-	"rankInAll": 272,
-	"name": "云南农业大学",
-	"rankInProvince": 4,
-	"type": "农林",
-	"rankInType": 22
-},
-{
-	"rankInAll": 273,
-	"name": "河北科技大学",
-	"rankInProvince": 8,
-	"type": "理工",
-	"rankInType": 99
-},
-{
-	"rankInAll": 273,
-	"name": "石家庄铁道大学",
-	"rankInProvince": 8,
-	"type": "理工",
-	"rankInType": 99
-},
-{
-	"rankInAll": 275,
-	"name": "山东中医药大学",
-	"rankInProvince": 16,
-	"type": "医药",
-	"rankInType": 26
-},
-{
-	"rankInAll": 276,
-	"name": "山西医科大学",
-	"rankInProvince": 5,
-	"type": "医药",
-	"rankInType": 27
-},
-{
-	"rankInAll": 277,
-	"name": "东北电力大学",
-	"rankInProvince": 8,
-	"type": "理工",
-	"rankInType": 101
-},
-{
-	"rankInAll": 277,
-	"name": "安徽理工大学",
-	"rankInProvince": 7,
-	"type": "理工",
-	"rankInType": 101
-},
-{
-	"rankInAll": 279,
-	"name": "大连大学",
-	"rankInProvince": 15,
-	"type": "综合",
-	"rankInType": 59
-},
-{
-	"rankInAll": 280,
-	"name": "重庆师范大学",
-	"rankInProvince": 9,
-	"type": "师范",
-	"rankInType": 34
-},
-{
-	"rankInAll": 280,
-	"name": "渤海大学",
-	"rankInProvince": 16,
-	"type": "综合",
-	"rankInType": 60
-},
-{
-	"rankInAll": 282,
-	"name": "南京财经大学",
-	"rankInProvince": 22,
-	"type": "财经",
-	"rankInType": 15
-},
-{
-	"rankInAll": 283,
-	"name": "安徽工业大学",
-	"rankInProvince": 8,
-	"type": "理工",
-	"rankInType": 103
-},
-{
-	"rankInAll": 284,
-	"name": "内蒙古工业大学",
-	"rankInProvince": 4,
-	"type": "理工",
-	"rankInType": 104
-},
-{
-	"rankInAll": 285,
-	"name": "山东财经大学",
-	"rankInProvince": 17,
-	"type": "财经",
-	"rankInType": 16
-},
-{
-	"rankInAll": 286,
-	"name": "中原工学院",
-	"rankInProvince": 8,
-	"type": "理工",
-	"rankInType": 105
-},
-{
-	"rankInAll": 286,
-	"name": "吉林师范大学",
-	"rankInProvince": 9,
-	"type": "师范",
-	"rankInType": 35
-},
-{
-	"rankInAll": 286,
-	"name": "新疆农业大学",
-	"rankInProvince": 5,
-	"type": "农林",
-	"rankInType": 23
-},
-{
-	"rankInAll": 289,
-	"name": "大连工业大学",
-	"rankInProvince": 17,
-	"type": "理工",
-	"rankInType": 106
-},
-{
-	"rankInAll": 290,
-	"name": "江苏科技大学",
-	"rankInProvince": 23,
-	"type": "理工",
-	"rankInType": 107
-},
-{
-	"rankInAll": 290,
-	"name": "首都体育学院",
-	"rankInProvince": 39,
-	"type": "体育",
-	"rankInType": 4
-},
-{
-	"rankInAll": 292,
-	"name": "沈阳建筑大学",
-	"rankInProvince": 18,
-	"type": "理工",
-	"rankInType": 108
-},
-{
-	"rankInAll": 293,
-	"name": "西安石油大学",
-	"rankInProvince": 12,
-	"type": "理工",
-	"rankInType": 109
-},
-{
-	"rankInAll": 293,
-	"name": "湖南工业大学",
-	"rankInProvince": 11,
-	"type": "理工",
-	"rankInType": 109
-},
-{
-	"rankInAll": 295,
-	"name": "上海戏剧学院",
-	"rankInProvince": 17,
-	"type": "艺术",
-	"rankInType": 6
-},
-{
-	"rankInAll": 296,
-	"name": "浙江农林大学",
-	"rankInProvince": 15,
-	"type": "农林",
-	"rankInType": 24
-},
-{
-	"rankInAll": 297,
-	"name": "山西财经大学",
-	"rankInProvince": 6,
-	"type": "财经",
-	"rankInType": 17
-},
-{
-	"rankInAll": 297,
-	"name": "北京信息科技大学",
-	"rankInProvince": 40,
-	"type": "理工",
-	"rankInType": 111
-},
-{
-	"rankInAll": 299,
-	"name": "河北经贸大学",
-	"rankInProvince": 10,
-	"type": "财经",
-	"rankInType": 18
-},
-{
-	"rankInAll": 300,
-	"name": "福建医科大学",
-	"rankInProvince": 7,
-	"type": "医药",
-	"rankInType": 28
-},
-{
-	"rankInAll": 301,
-	"name": "湖北工业大学",
-	"rankInProvince": 14,
-	"type": "理工",
-	"rankInType": 112
-},
-{
-	"rankInAll": 302,
-	"name": "上海海洋大学",
-	"rankInProvince": 18,
-	"type": "农林",
-	"rankInType": 25
-},
-{
-	"rankInAll": 303,
-	"name": "鲁东大学",
-	"rankInProvince": 18,
-	"type": "师范",
-	"rankInType": 36
-},
-{
-	"rankInAll": 303,
-	"name": "武汉纺织大学",
-	"rankInProvince": 15,
-	"type": "理工",
-	"rankInType": 113
-},
-{
-	"rankInAll": 305,
-	"name": "上海工程技术大学",
-	"rankInProvince": 19,
-	"type": "理工",
-	"rankInType": 114
-},
-{
-	"rankInAll": 306,
-	"name": "北京电影学院",
-	"rankInProvince": 41,
-	"type": "艺术",
-	"rankInType": 7
-},
-{
-	"rankInAll": 307,
-	"name": "四川美术学院",
-	"rankInProvince": 10,
-	"type": "艺术",
-	"rankInType": 8
-},
-{
-	"rankInAll": 308,
-	"name": "北京建筑大学",
-	"rankInProvince": 42,
-	"type": "理工",
-	"rankInType": 115
-},
-{
-	"rankInAll": 308,
-	"name": "云南民族大学",
-	"rankInProvince": 5,
-	"type": "民族",
-	"rankInType": 4
-},
-{
-	"rankInAll": 310,
-	"name": "辽宁医学院",
-	"rankInProvince": 19,
-	"type": "医药",
-	"rankInType": 29
-},
-{
-	"rankInAll": 311,
-	"name": "江西农业大学",
-	"rankInProvince": 5,
-	"type": "农林",
-	"rankInType": 26
-},
-{
-	"rankInAll": 311,
-	"name": "常州大学",
-	"rankInProvince": 24,
-	"type": "理工",
-	"rankInType": 116
-},
-{
-	"rankInAll": 311,
-	"name": "郑州轻工业学院",
-	"rankInProvince": 9,
-	"type": "理工",
-	"rankInType": 116
-},
-{
-	"rankInAll": 314,
-	"name": "佳木斯大学",
-	"rankInProvince": 12,
-	"type": "综合",
-	"rankInType": 61
-},
-{
-	"rankInAll": 315,
-	"name": "云南财经大学",
-	"rankInProvince": 6,
-	"type": "财经",
-	"rankInType": 19
-},
-{
-	"rankInAll": 316,
-	"name": "湖南中医药大学",
-	"rankInProvince": 12,
-	"type": "医药",
-	"rankInType": 30
-},
-{
-	"rankInAll": 316,
-	"name": "贵州师范大学",
-	"rankInProvince": 2,
-	"type": "师范",
-	"rankInType": 37
-},
-{
-	"rankInAll": 318,
-	"name": "大连外国语大学",
-	"rankInProvince": 20,
-	"type": "文法",
-	"rankInType": 12
-},
-{
-	"rankInAll": 318,
-	"name": "北京第二外国语学院",
-	"rankInProvince": 43,
-	"type": "文法",
-	"rankInType": 12
-},
-{
-	"rankInAll": 318,
-	"name": "天津商业大学",
-	"rankInProvince": 11,
-	"type": "财经",
-	"rankInType": 20
-},
-{
-	"rankInAll": 321,
-	"name": "辽宁中医药大学",
-	"rankInProvince": 21,
-	"type": "医药",
-	"rankInType": 31
-},
-{
-	"rankInAll": 322,
-	"name": "广东财经大学",
-	"rankInProvince": 14,
-	"type": "财经",
-	"rankInType": 21
-},
-{
-	"rankInAll": 322,
-	"name": "西安工业大学",
-	"rankInProvince": 13,
-	"type": "理工",
-	"rankInType": 118
-},
-{
-	"rankInAll": 324,
-	"name": "江西理工大学",
-	"rankInProvince": 6,
-	"type": "理工",
-	"rankInType": 119
-},
-{
-	"rankInAll": 325,
-	"name": "徐州医学院",
-	"rankInProvince": 25,
-	"type": "医药",
-	"rankInType": 32
-},
-{
-	"rankInAll": 326,
-	"name": "江西中医药大学",
-	"rankInProvince": 7,
-	"type": "医药",
-	"rankInType": 33
-},
-{
-	"rankInAll": 326,
-	"name": "东华理工大学",
-	"rankInProvince": 7,
-	"type": "理工",
-	"rankInType": 120
-},
-{
-	"rankInAll": 326,
-	"name": "信阳师范学院",
-	"rankInProvince": 10,
-	"type": "师范",
-	"rankInType": 38
-},
-{
-	"rankInAll": 329,
-	"name": "沈阳化工大学",
-	"rankInProvince": 22,
-	"type": "理工",
-	"rankInType": 121
-},
-{
-	"rankInAll": 329,
-	"name": "西北政法大学",
-	"rankInProvince": 14,
-	"type": "文法",
-	"rankInType": 14
-},
-{
-	"rankInAll": 331,
-	"name": "沈阳理工大学",
-	"rankInProvince": 23,
-	"type": "理工",
-	"rankInType": 122
-},
-{
-	"rankInAll": 332,
-	"name": "广西师范学院",
-	"rankInProvince": 7,
-	"type": "师范",
-	"rankInType": 39
-},
-{
-	"rankInAll": 333,
-	"name": "齐鲁工业大学",
-	"rankInProvince": 19,
-	"type": "理工",
-	"rankInType": 123
-},
-{
-	"rankInAll": 334,
-	"name": "景德镇陶瓷学院",
-	"rankInProvince": 9,
-	"type": "理工",
-	"rankInType": 124
-},
-{
-	"rankInAll": 335,
-	"name": "西华大学",
-	"rankInProvince": 12,
-	"type": "综合",
-	"rankInType": 62
-},
-{
-	"rankInAll": 336,
-	"name": "太原科技大学",
-	"rankInProvince": 7,
-	"type": "理工",
-	"rankInType": 125
-},
-{
-	"rankInAll": 337,
-	"name": "西北民族大学",
-	"rankInProvince": 6,
-	"type": "民族",
-	"rankInType": 5
-},
-{
-	"rankInAll": 338,
-	"name": "昆明医科大学",
-	"rankInProvince": 7,
-	"type": "医药",
-	"rankInType": 34
-},
-{
-	"rankInAll": 339,
-	"name": "大连海洋大学",
-	"rankInProvince": 24,
-	"type": "农林",
-	"rankInType": 27
-},
-{
-	"rankInAll": 340,
-	"name": "安徽财经大学",
-	"rankInProvince": 9,
-	"type": "财经",
-	"rankInType": 22
-},
-{
-	"rankInAll": 341,
-	"name": "上海应用技术学院",
-	"rankInProvince": 20,
-	"type": "理工",
-	"rankInType": 126
-},
-{
-	"rankInAll": 341,
-	"name": "贵州财经大学",
-	"rankInProvince": 3,
-	"type": "财经",
-	"rankInType": 23
-},
-{
-	"rankInAll": 343,
-	"name": "湖北中医药大学",
-	"rankInProvince": 16,
-	"type": "医药",
-	"rankInType": 35
-},
-{
-	"rankInAll": 344,
-	"name": "西南民族大学",
-	"rankInProvince": 13,
-	"type": "民族",
-	"rankInType": 6
-},
-{
-	"rankInAll": 344,
-	"name": "南京工程学院",
-	"rankInProvince": 26,
-	"type": "理工",
-	"rankInType": 127
-},
-{
-	"rankInAll": 346,
-	"name": "大连交通大学",
-	"rankInProvince": 25,
-	"type": "理工",
-	"rankInType": 128
-},
-{
-	"rankInAll": 347,
-	"name": "中央戏剧学院",
-	"rankInProvince": 44,
-	"type": "艺术",
-	"rankInType": 9
-},
-{
-	"rankInAll": 347,
-	"name": "西安邮电大学",
-	"rankInProvince": 15,
-	"type": "理工",
-	"rankInType": 129
-},
-{
-	"rankInAll": 349,
-	"name": "内蒙古科技大学",
-	"rankInProvince": 5,
-	"type": "理工",
-	"rankInType": 130
-},
-{
-	"rankInAll": 350,
-	"name": "浙江海洋学院",
-	"rankInProvince": 16,
-	"type": "农林",
-	"rankInType": 28
-},
-{
-	"rankInAll": 350,
-	"name": "苏州科技学院",
-	"rankInProvince": 27,
-	"type": "理工",
-	"rankInType": 131
-},
-{
-	"rankInAll": 350,
-	"name": "吉林财经大学",
-	"rankInProvince": 10,
-	"type": "财经",
-	"rankInType": 24
-},
-{
-	"rankInAll": 353,
-	"name": "辽宁石油化工大学",
-	"rankInProvince": 26,
-	"type": "理工",
-	"rankInType": 132
-},
-{
-	"rankInAll": 354,
-	"name": "成都信息工程大学",
-	"rankInProvince": 14,
-	"type": "理工",
-	"rankInType": 133
-},
-{
-	"rankInAll": 354,
-	"name": "河南财经政法大学",
-	"rankInProvince": 11,
-	"type": "财经",
-	"rankInType": 25
-},
-{
-	"rankInAll": 356,
-	"name": "天津外国语大学",
-	"rankInProvince": 12,
-	"type": "文法",
-	"rankInType": 15
-},
-{
-	"rankInAll": 357,
-	"name": "内蒙古民族大学",
-	"rankInProvince": 6,
-	"type": "民族",
-	"rankInType": 7
-},
-{
-	"rankInAll": 358,
-	"name": "福建中医药大学",
-	"rankInProvince": 8,
-	"type": "医药",
-	"rankInType": 36
-},
-{
-	"rankInAll": 358,
-	"name": "西安外国语大学",
-	"rankInProvince": 16,
-	"type": "文法",
-	"rankInType": 16
-},
-{
-	"rankInAll": 360,
-	"name": "遵义医学院",
-	"rankInProvince": 4,
-	"type": "医药",
-	"rankInType": 37
-},
-{
-	"rankInAll": 360,
-	"name": "华东交通大学",
-	"rankInProvince": 10,
-	"type": "理工",
-	"rankInType": 134
-},
-{
-	"rankInAll": 362,
-	"name": "齐齐哈尔大学",
-	"rankInProvince": 13,
-	"type": "综合",
-	"rankInType": 63
-},
-{
-	"rankInAll": 363,
-	"name": "内蒙古医科大学",
-	"rankInProvince": 7,
-	"type": "医药",
-	"rankInType": 38
-},
-{
-	"rankInAll": 363,
-	"name": "青海民族大学",
-	"rankInProvince": 2,
-	"type": "民族",
-	"rankInType": 8
-},
-{
-	"rankInAll": 365,
-	"name": "南京艺术学院",
-	"rankInProvince": 28,
-	"type": "艺术",
-	"rankInType": 10
-},
-{
-	"rankInAll": 366,
-	"name": "广西科技大学",
-	"rankInProvince": 8,
-	"type": "理工",
-	"rankInType": 135
-},
-{
-	"rankInAll": 366,
-	"name": "河北工程大学",
-	"rankInProvince": 11,
-	"type": "理工",
-	"rankInType": 135
-},
-{
-	"rankInAll": 368,
-	"name": "浙江传媒学院",
-	"rankInProvince": 17,
-	"type": "文法",
-	"rankInType": 17
-},
-{
-	"rankInAll": 368,
-	"name": "贵州商学院",
-	"rankInProvince": 5,
-	"type": "综合",
-	"rankInType": 64
-},
-{
-	"rankInAll": 370,
-	"name": "贵州医科大学",
-	"rankInProvince": 6,
-	"type": "医药",
-	"rankInType": 39
-},
-{
-	"rankInAll": 371,
-	"name": "北京服装学院",
-	"rankInProvince": 45,
-	"type": "理工",
-	"rankInType": 137
-},
-{
-	"rankInAll": 372,
-	"name": "辽宁科技大学",
-	"rankInProvince": 27,
-	"type": "理工",
-	"rankInType": 138
-},
-{
-	"rankInAll": 372,
-	"name": "西安工程大学",
-	"rankInProvince": 17,
-	"type": "理工",
-	"rankInType": 138
-},
-{
-	"rankInAll": 372,
-	"name": "安徽建筑大学",
-	"rankInProvince": 10,
-	"type": "理工",
-	"rankInType": 138
-},
-{
-	"rankInAll": 375,
-	"name": "天津职业技术师范大学",
-	"rankInProvince": 13,
-	"type": "师范",
-	"rankInType": 40
-},
-{
-	"rankInAll": 376,
-	"name": "黑龙江八一农垦大学",
-	"rankInProvince": 14,
-	"type": "农林",
-	"rankInType": 29
-},
-{
-	"rankInAll": 376,
-	"name": "成都体育学院",
-	"rankInProvince": 15,
-	"type": "体育",
-	"rankInType": 5
-},
-{
-	"rankInAll": 376,
-	"name": "广西中医药大学",
-	"rankInProvince": 9,
-	"type": "医药",
-	"rankInType": 40
-},
-{
-	"rankInAll": 376,
-	"name": "西安美术学院",
-	"rankInProvince": 18,
-	"type": "艺术",
-	"rankInType": 11
-},
-{
-	"rankInAll": 380,
-	"name": "广东海洋大学",
-	"rankInProvince": 15,
-	"type": "农林",
-	"rankInType": 30
-},
-{
-	"rankInAll": 381,
-	"name": "沈阳大学",
-	"rankInProvince": 28,
-	"type": "综合",
-	"rankInType": 65
-},
-{
-	"rankInAll": 382,
-	"name": "延安大学",
-	"rankInProvince": 19,
-	"type": "综合",
-	"rankInType": 66
-},
-{
-	"rankInAll": 382,
-	"name": "武汉轻工大学",
-	"rankInProvince": 17,
-	"type": "理工",
-	"rankInType": 141
-},
-{
-	"rankInAll": 384,
-	"name": "宁夏医科大学",
-	"rankInProvince": 2,
-	"type": "医药",
-	"rankInType": 41
-},
-{
-	"rankInAll": 385,
-	"name": "西安财经学院",
-	"rankInProvince": 20,
-	"type": "财经",
-	"rankInType": 26
-},
-{
-	"rankInAll": 385,
-	"name": "江西科技师范大学",
-	"rankInProvince": 11,
-	"type": "师范",
-	"rankInType": 41
-},
-{
-	"rankInAll": 387,
-	"name": "河南科技学院",
-	"rankInProvince": 12,
-	"type": "师范",
-	"rankInType": 42
-},
-{
-	"rankInAll": 388,
-	"name": "北京电子科技学院",
-	"rankInProvince": 46,
-	"type": "理工",
-	"rankInType": 142
-},
-{
-	"rankInAll": 388,
-	"name": "中国戏曲学院",
-	"rankInProvince": 46,
-	"type": "艺术",
-	"rankInType": 12
-},
-{
-	"rankInAll": 390,
-	"name": "沈阳音乐学院",
-	"rankInProvince": 29,
-	"type": "艺术",
-	"rankInType": 13
-},
-{
-	"rankInAll": 391,
-	"name": "陕西理工学院",
-	"rankInProvince": 21,
-	"type": "理工",
-	"rankInType": 143
-},
-{
-	"rankInAll": 392,
-	"name": "江汉大学",
-	"rankInProvince": 18,
-	"type": "综合",
-	"rankInType": 67
-},
-{
-	"rankInAll": 392,
-	"name": "山西农业大学",
-	"rankInProvince": 8,
-	"type": "农林",
-	"rankInType": 31
-},
-{
-	"rankInAll": 394,
-	"name": "上海立信会计学院",
-	"rankInProvince": 21,
-	"type": "财经",
-	"rankInType": 27
-},
-{
-	"rankInAll": 395,
-	"name": "青海师范大学",
-	"rankInProvince": 3,
-	"type": "师范",
-	"rankInType": 43
-},
-{
-	"rankInAll": 395,
-	"name": "长春中医药大学",
-	"rankInProvince": 11,
-	"type": "医药",
-	"rankInType": 42
-},
-{
-	"rankInAll": 397,
-	"name": "长春师范大学",
-	"rankInProvince": 12,
-	"type": "师范",
-	"rankInType": 44
-},
-{
-	"rankInAll": 397,
-	"name": "新疆财经大学",
-	"rankInProvince": 6,
-	"type": "财经",
-	"rankInType": 28
-},
-{
-	"rankInAll": 399,
-	"name": "华北水利水电大学",
-	"rankInProvince": 13,
-	"type": "理工",
-	"rankInType": 144
-},
-{
-	"rankInAll": 400,
-	"name": "广东药学院",
-	"rankInProvince": 16,
-	"type": "医药",
-	"rankInType": 43
-},
-{
-	"rankInAll": 401,
-	"name": "淮北师范大学",
-	"rankInProvince": 11,
-	"type": "师范",
-	"rankInType": 45
-},
-{
-	"rankInAll": 401,
-	"name": "安徽中医药大学",
-	"rankInProvince": 11,
-	"type": "医药",
-	"rankInType": 44
-},
-{
-	"rankInAll": 403,
-	"name": "辽宁工业大学",
-	"rankInProvince": 30,
-	"type": "理工",
-	"rankInType": 145
-},
-{
-	"rankInAll": 403,
-	"name": "江西科技学院",
-	"rankInProvince": 12,
-	"type": "理工",
-	"rankInType": 145
-},
-{
-	"rankInAll": 405,
-	"name": "阿坝师范学院",
-	"rankInProvince": 16,
-	"type": "师范",
-	"rankInType": 46
-},
-{
-	"rankInAll": 406,
-	"name": "北京石油化工学院",
-	"rankInProvince": 48,
-	"type": "理工",
-	"rankInType": 147
-},
-{
-	"rankInAll": 406,
-	"name": "宁波工程学院",
-	"rankInProvince": 18,
-	"type": "理工",
-	"rankInType": 147
-},
-{
-	"rankInAll": 408,
-	"name": "浙江科技学院",
-	"rankInProvince": 19,
-	"type": "理工",
-	"rankInType": 149
-},
-{
-	"rankInAll": 408,
-	"name": "西藏大学",
-	"rankInProvince": 1,
-	"type": "综合",
-	"rankInType": 68
-},
-{
-	"rankInAll": 408,
-	"name": "中国刑事警察学院",
-	"rankInProvince": 31,
-	"type": "文法",
-	"rankInType": 18
-},
-{
-	"rankInAll": 408,
-	"name": "青岛农业大学",
-	"rankInProvince": 20,
-	"type": "农林",
-	"rankInType": 32
-},
-{
-	"rankInAll": 412,
-	"name": "上海对外经贸大学",
-	"rankInProvince": 22,
-	"type": "财经",
-	"rankInType": 29
-},
-{
-	"rankInAll": 413,
-	"name": "河南中医学院",
-	"rankInProvince": 14,
-	"type": "医药",
-	"rankInType": 45
-},
-{
-	"rankInAll": 414,
-	"name": "安徽工程大学",
-	"rankInProvince": 13,
-	"type": "理工",
-	"rankInType": 150
-},
-{
-	"rankInAll": 415,
-	"name": "四川医科大学",
-	"rankInProvince": 17,
-	"type": "医药",
-	"rankInType": 46
-},
-{
-	"rankInAll": 415,
-	"name": "中国民航大学",
-	"rankInProvince": 14,
-	"type": "理工",
-	"rankInType": 151
-},
-{
-	"rankInAll": 415,
-	"name": "湖州师范学院",
-	"rankInProvince": 20,
-	"type": "师范",
-	"rankInType": 47
-},
-{
-	"rankInAll": 415,
-	"name": "黑龙江科技大学",
-	"rankInProvince": 15,
-	"type": "理工",
-	"rankInType": 151
-},
-{
-	"rankInAll": 419,
-	"name": "湖北师范学院",
-	"rankInProvince": 19,
-	"type": "师范",
-	"rankInType": 48
-},
-{
-	"rankInAll": 420,
-	"name": "五邑大学",
-	"rankInProvince": 17,
-	"type": "综合",
-	"rankInType": 69
-},
-{
-	"rankInAll": 421,
-	"name": "广东医学院",
-	"rankInProvince": 18,
-	"type": "医药",
-	"rankInType": 47
-},
-{
-	"rankInAll": 422,
-	"name": "新乡医学院",
-	"rankInProvince": 15,
-	"type": "医药",
-	"rankInType": 48
-},
-{
-	"rankInAll": 422,
-	"name": "山东工商学院",
-	"rankInProvince": 21,
-	"type": "财经",
-	"rankInType": 30
-},
-{
-	"rankInAll": 424,
-	"name": "南京审计学院",
-	"rankInProvince": 29,
-	"type": "财经",
-	"rankInType": 31
-},
-{
-	"rankInAll": 424,
-	"name": "鲁迅美术学院",
-	"rankInProvince": 32,
-	"type": "艺术",
-	"rankInType": 14
-},
-{
-	"rankInAll": 426,
-	"name": "武汉体育学院",
-	"rankInProvince": 20,
-	"type": "体育",
-	"rankInType": 6
-},
-{
-	"rankInAll": 427,
-	"name": "贵州民族大学",
-	"rankInProvince": 7,
-	"type": "民族",
-	"rankInType": 9
-},
-{
-	"rankInAll": 428,
-	"name": "西南林业大学",
-	"rankInProvince": 8,
-	"type": "农林",
-	"rankInType": 33
-},
-{
-	"rankInAll": 428,
-	"name": "北京印刷学院",
-	"rankInProvince": 49,
-	"type": "理工",
-	"rankInType": 153
-},
-{
-	"rankInAll": 428,
-	"name": "湖南理工学院",
-	"rankInProvince": 13,
-	"type": "理工",
-	"rankInType": 153
-},
-{
-	"rankInAll": 431,
-	"name": "重庆科技学院",
-	"rankInProvince": 11,
-	"type": "理工",
-	"rankInType": 155
-},
-{
-	"rankInAll": 432,
-	"name": "大连民族大学",
-	"rankInProvince": 33,
-	"type": "民族",
-	"rankInType": 10
-},
-{
-	"rankInAll": 433,
-	"name": "洛阳师范学院",
-	"rankInProvince": 16,
-	"type": "师范",
-	"rankInType": 49
-},
-{
-	"rankInAll": 434,
-	"name": "中国民用航空飞行学院",
-	"rankInProvince": 18,
-	"type": "理工",
-	"rankInType": 156
-},
-{
-	"rankInAll": 435,
-	"name": "重庆文理学院",
-	"rankInProvince": 12,
-	"type": "理工",
-	"rankInType": 157
-},
-{
-	"rankInAll": 436,
-	"name": "潍坊医学院",
-	"rankInProvince": 22,
-	"type": "医药",
-	"rankInType": 49
-},
-{
-	"rankInAll": 436,
-	"name": "邵阳学院",
-	"rankInProvince": 14,
-	"type": "综合",
-	"rankInType": 70
-},
-{
-	"rankInAll": 438,
-	"name": "国际关系学院",
-	"rankInProvince": 50,
-	"type": "文法",
-	"rankInType": 19
-},
-{
-	"rankInAll": 438,
-	"name": "中国劳动关系学院",
-	"rankInProvince": 50,
-	"type": "文法",
-	"rankInType": 19
-},
-{
-	"rankInAll": 440,
-	"name": "湖南商学院",
-	"rankInProvince": 15,
-	"type": "财经",
-	"rankInType": 32
-},
-{
-	"rankInAll": 441,
-	"name": "淮阴师范学院",
-	"rankInProvince": 30,
-	"type": "师范",
-	"rankInType": 50
-},
-{
-	"rankInAll": 441,
-	"name": "绍兴文理学院",
-	"rankInProvince": 21,
-	"type": "综合",
-	"rankInType": 71
-},
-{
-	"rankInAll": 443,
-	"name": "石家庄经济学院",
-	"rankInProvince": 12,
-	"type": "财经",
-	"rankInType": 33
-},
-{
-	"rankInAll": 444,
-	"name": "赣南师范学院",
-	"rankInProvince": 13,
-	"type": "师范",
-	"rankInType": 51
-},
-{
-	"rankInAll": 445,
-	"name": "泰山医学院",
-	"rankInProvince": 23,
-	"type": "医药",
-	"rankInType": 50
-},
-{
-	"rankInAll": 445,
-	"name": "中国青年政治学院",
-	"rankInProvince": 52,
-	"type": "文法",
-	"rankInType": 21
-},
-{
-	"rankInAll": 447,
-	"name": "桂林旅游学院",
-	"rankInProvince": 10,
-	"type": "综合",
-	"rankInType": 72
-},
-{
-	"rankInAll": 447,
-	"name": "内蒙古科技大学包头师范学院",
-	"rankInProvince": 8,
-	"type": "师范",
-	"rankInType": 52
-},
-{
-	"rankInAll": 449,
-	"name": "长春大学",
-	"rankInProvince": 13,
-	"type": "综合",
-	"rankInType": 73
-},
-{
-	"rankInAll": 450,
-	"name": "浙江万里学院",
-	"rankInProvince": 22,
-	"type": "理工",
-	"rankInType": 158
-},
-{
-	"rankInAll": 450,
-	"name": "星海音乐学院",
-	"rankInProvince": 19,
-	"type": "艺术",
-	"rankInType": 15
-},
-{
-	"rankInAll": 452,
-	"name": "上海电力学院",
-	"rankInProvince": 23,
-	"type": "理工",
-	"rankInType": 159
-},
-{
-	"rankInAll": 452,
-	"name": "安庆师范学院",
-	"rankInProvince": 14,
-	"type": "师范",
-	"rankInType": 53
-},
-{
-	"rankInAll": 452,
-	"name": "海南师范大学",
-	"rankInProvince": 2,
-	"type": "师范",
-	"rankInType": 53
-},
-{
-	"rankInAll": 455,
-	"name": "湖北经济学院",
-	"rankInProvince": 21,
-	"type": "财经",
-	"rankInType": 34
-},
-{
-	"rankInAll": 455,
-	"name": "湖南城市学院",
-	"rankInProvince": 16,
-	"type": "理工",
-	"rankInType": 160
-},
-{
-	"rankInAll": 455,
-	"name": "福建工程学院",
-	"rankInProvince": 9,
-	"type": "理工",
-	"rankInType": 160
-},
-{
-	"rankInAll": 455,
-	"name": "南京体育学院",
-	"rankInProvince": 31,
-	"type": "体育",
-	"rankInType": 7
-},
-{
-	"rankInAll": 459,
-	"name": "上海第二工业大学",
-	"rankInProvince": 24,
-	"type": "理工",
-	"rankInType": 162
-},
-{
-	"rankInAll": 460,
-	"name": "淮海工学院",
-	"rankInProvince": 32,
-	"type": "理工",
-	"rankInType": 163
-},
-{
-	"rankInAll": 460,
-	"name": "四川理工学院",
-	"rankInProvince": 19,
-	"type": "理工",
-	"rankInType": 163
-},
-{
-	"rankInAll": 460,
-	"name": "长治医学院",
-	"rankInProvince": 9,
-	"type": "医药",
-	"rankInType": 51
-},
-{
-	"rankInAll": 460,
-	"name": "岭南师范学院",
-	"rankInProvince": 20,
-	"type": "师范",
-	"rankInType": 55
-},
-{
-	"rankInAll": 464,
-	"name": "湖南文理学院",
-	"rankInProvince": 17,
-	"type": "师范",
-	"rankInType": 56
-},
-{
-	"rankInAll": 465,
-	"name": "广东金融学院",
-	"rankInProvince": 21,
-	"type": "财经",
-	"rankInType": 35
-},
-{
-	"rankInAll": 465,
-	"name": "上海商学院",
-	"rankInProvince": 25,
-	"type": "财经",
-	"rankInType": 35
-},
-{
-	"rankInAll": 467,
-	"name": "佛山科学技术学院",
-	"rankInProvince": 22,
-	"type": "理工",
-	"rankInType": 165
-},
-{
-	"rankInAll": 467,
-	"name": "四川外国语大学",
-	"rankInProvince": 13,
-	"type": "文法",
-	"rankInType": 22
-},
-{
-	"rankInAll": 469,
-	"name": "嘉兴学院",
-	"rankInProvince": 23,
-	"type": "综合",
-	"rankInType": 74
-},
-{
-	"rankInAll": 469,
-	"name": "浙江树人学院",
-	"rankInProvince": 23,
-	"type": "理工",
-	"rankInType": 166
-},
-{
-	"rankInAll": 469,
-	"name": "沈阳工程学院",
-	"rankInProvince": 34,
-	"type": "理工",
-	"rankInType": 166
-},
-{
-	"rankInAll": 472,
-	"name": "韶关学院",
-	"rankInProvince": 23,
-	"type": "综合",
-	"rankInType": 75
-},
-{
-	"rankInAll": 473,
-	"name": "南昌工程学院",
-	"rankInProvince": 14,
-	"type": "理工",
-	"rankInType": 168
-},
-{
-	"rankInAll": 474,
-	"name": "白城师范学院",
-	"rankInProvince": 14,
-	"type": "师范",
-	"rankInType": 57
-},
-{
-	"rankInAll": 475,
-	"name": "盐城工学院",
-	"rankInProvince": 33,
-	"type": "理工",
-	"rankInType": 169
-},
-{
-	"rankInAll": 476,
-	"name": "安阳师范学院",
-	"rankInProvince": 17,
-	"type": "师范",
-	"rankInType": 58
-},
-{
-	"rankInAll": 477,
-	"name": "黄河科技学院",
-	"rankInProvince": 18,
-	"type": "理工",
-	"rankInType": 170
-},
-{
-	"rankInAll": 478,
-	"name": "厦门理工学院",
-	"rankInProvince": 10,
-	"type": "理工",
-	"rankInType": 171
-},
-{
-	"rankInAll": 478,
-	"name": "井冈山大学",
-	"rankInProvince": 15,
-	"type": "综合",
-	"rankInType": 76
-},
-{
-	"rankInAll": 478,
-	"name": "郑州航空工业管理学院",
-	"rankInProvince": 19,
-	"type": "理工",
-	"rankInType": 171
-},
-{
-	"rankInAll": 481,
-	"name": "泰山学院",
-	"rankInProvince": 24,
-	"type": "综合",
-	"rankInType": 77
-},
-{
-	"rankInAll": 481,
-	"name": "哈尔滨体育学院",
-	"rankInProvince": 16,
-	"type": "体育",
-	"rankInType": 8
-},
-{
-	"rankInAll": 481,
-	"name": "河北科技师范学院",
-	"rankInProvince": 13,
-	"type": "师范",
-	"rankInType": 59
-},
-{
-	"rankInAll": 484,
-	"name": "北京城市学院",
-	"rankInProvince": 53,
-	"type": "综合",
-	"rankInType": 78
-},
-{
-	"rankInAll": 484,
-	"name": "西安体育学院",
-	"rankInProvince": 22,
-	"type": "体育",
-	"rankInType": 9
-},
-{
-	"rankInAll": 486,
-	"name": "北京物资学院",
-	"rankInProvince": 54,
-	"type": "财经",
-	"rankInType": 37
-},
-{
-	"rankInAll": 487,
-	"name": "湖北民族学院",
-	"rankInProvince": 22,
-	"type": "民族",
-	"rankInType": 11
-},
-{
-	"rankInAll": 487,
-	"name": "北京农学院",
-	"rankInProvince": 55,
-	"type": "农林",
-	"rankInType": 34
-},
-{
-	"rankInAll": 489,
-	"name": "华北科技学院",
-	"rankInProvince": 14,
-	"type": "理工",
-	"rankInType": 173
-},
-{
-	"rankInAll": 489,
-	"name": "吉林华桥外国语学院",
-	"rankInProvince": 15,
-	"type": "文法",
-	"rankInType": 23
-},
-{
-	"rankInAll": 491,
-	"name": "乐山师范学院",
-	"rankInProvince": 20,
-	"type": "师范",
-	"rankInType": 60
-},
-{
-	"rankInAll": 492,
-	"name": "云南中医学院",
-	"rankInProvince": 9,
-	"type": "医药",
-	"rankInType": 52
-},
-{
-	"rankInAll": 492,
-	"name": "广西财经学院",
-	"rankInProvince": 11,
-	"type": "财经",
-	"rankInType": 38
-},
-{
-	"rankInAll": 492,
-	"name": "武汉音乐学院",
-	"rankInProvince": 23,
-	"type": "艺术",
-	"rankInType": 16
-},
-{
-	"rankInAll": 492,
-	"name": "渭南师范学院",
-	"rankInProvince": 23,
-	"type": "师范",
-	"rankInType": 61
-},
-{
-	"rankInAll": 496,
-	"name": "西藏民族大学",
-	"rankInProvince": 2,
-	"type": "民族",
-	"rankInType": 12
-},
-{
-	"rankInAll": 496,
-	"name": "北方民族大学",
-	"rankInProvince": 3,
-	"type": "民族",
-	"rankInType": 12
-},
-{
-	"rankInAll": 496,
-	"name": "烟台南山学院",
-	"rankInProvince": 25,
-	"type": "综合",
-	"rankInType": 79
-},
-{
-	"rankInAll": 496,
-	"name": "北京舞蹈学院",
-	"rankInProvince": 56,
-	"type": "艺术",
-	"rankInType": 17
-},
-{
-	"rankInAll": 500,
-	"name": "济宁医学院",
-	"rankInProvince": 26,
-	"type": "医药",
-	"rankInType": 53
-},
-{
-	"rankInAll": 500,
-	"name": "肇庆学院",
-	"rankInProvince": 24,
-	"type": "综合",
-	"rankInType": 80
-},
-{
-	"rankInAll": 500,
-	"name": "兰州财经大学",
-	"rankInProvince": 7,
-	"type": "财经",
-	"rankInType": 39
-},
-{
-	"rankInAll": 503,
-	"name": "天津城建大学",
-	"rankInProvince": 15,
-	"type": "理工",
-	"rankInType": 174
-},
-{
-	"rankInAll": 503,
-	"name": "黑龙江工程学院",
-	"rankInProvince": 17,
-	"type": "理工",
-	"rankInType": 174
-},
-{
-	"rankInAll": 503,
-	"name": "泉州师范学院",
-	"rankInProvince": 11,
-	"type": "师范",
-	"rankInType": 62
-},
-{
-	"rankInAll": 503,
-	"name": "内蒙古财经大学",
-	"rankInProvince": 9,
-	"type": "财经",
-	"rankInType": 40
-},
-{
-	"rankInAll": 507,
-	"name": "广东技术师范学院",
-	"rankInProvince": 25,
-	"type": "师范",
-	"rankInType": 63
-},
-{
-	"rankInAll": 507,
-	"name": "广州美术学院",
-	"rankInProvince": 25,
-	"type": "艺术",
-	"rankInType": 18
-},
-{
-	"rankInAll": 509,
-	"name": "西京学院",
-	"rankInProvince": 24,
-	"type": "综合",
-	"rankInType": 81
-},
-{
-	"rankInAll": 510,
-	"name": "嘉应学院",
-	"rankInProvince": 27,
-	"type": "综合",
-	"rankInType": 82
-},
-{
-	"rankInAll": 510,
-	"name": "南阳师范学院",
-	"rankInProvince": 20,
-	"type": "师范",
-	"rankInType": 64
-},
-{
-	"rankInAll": 512,
-	"name": "黑龙江东方学院",
-	"rankInProvince": 18,
-	"type": "综合",
-	"rankInType": 83
-},
-{
-	"rankInAll": 513,
-	"name": "海南医学院",
-	"rankInProvince": 3,
-	"type": "医药",
-	"rankInType": 54
-},
-{
-	"rankInAll": 513,
-	"name": "淮阴工学院",
-	"rankInProvince": 34,
-	"type": "理工",
-	"rankInType": 176
-},
-{
-	"rankInAll": 513,
-	"name": "周口师范学院",
-	"rankInProvince": 21,
-	"type": "师范",
-	"rankInType": 65
-},
-{
-	"rankInAll": 516,
-	"name": "广西科技师范学院",
-	"rankInProvince": 12,
-	"type": "师范",
-	"rankInType": 66
-},
-{
-	"rankInAll": 516,
-	"name": "广东石油化工学院",
-	"rankInProvince": 28,
-	"type": "综合",
-	"rankInType": 84
-},
-{
-	"rankInAll": 518,
-	"name": "曲靖师范学院",
-	"rankInProvince": 10,
-	"type": "师范",
-	"rankInType": 67
-},
-{
-	"rankInAll": 519,
-	"name": "西安音乐学院",
-	"rankInProvince": 25,
-	"type": "艺术",
-	"rankInType": 19
-},
-{
-	"rankInAll": 519,
-	"name": "河北北方学院",
-	"rankInProvince": 15,
-	"type": "综合",
-	"rankInType": 85
-},
-{
-	"rankInAll": 521,
-	"name": "伊犁师范学院",
-	"rankInProvince": 7,
-	"type": "师范",
-	"rankInType": 68
-},
-{
-	"rankInAll": 522,
-	"name": "江苏理工学院",
-	"rankInProvince": 35,
-	"type": "师范",
-	"rankInType": 69
-},
-{
-	"rankInAll": 523,
-	"name": "湖南涉外经济学院",
-	"rankInProvince": 18,
-	"type": "财经",
-	"rankInType": 41
-},
-{
-	"rankInAll": 524,
-	"name": "洛阳理工学院",
-	"rankInProvince": 22,
-	"type": "理工",
-	"rankInType": 177
-},
-{
-	"rankInAll": 524,
-	"name": "德州学院",
-	"rankInProvince": 27,
-	"type": "综合",
-	"rankInType": 86
-},
-{
-	"rankInAll": 526,
-	"name": "滨州学院",
-	"rankInProvince": 28,
-	"type": "综合",
-	"rankInType": 87
-},
-{
-	"rankInAll": 526,
-	"name": "成都医学院",
-	"rankInProvince": 21,
-	"type": "医药",
-	"rankInType": 55
-},
-{
-	"rankInAll": 526,
-	"name": "南阳理工学院",
-	"rankInProvince": 23,
-	"type": "理工",
-	"rankInType": 178
-},
-{
-	"rankInAll": 526,
-	"name": "湖南工程学院",
-	"rankInProvince": 19,
-	"type": "理工",
-	"rankInType": 178
-},
-{
-	"rankInAll": 530,
-	"name": "河北传媒学院",
-	"rankInProvince": 16,
-	"type": "文法",
-	"rankInType": 24
-},
-{
-	"rankInAll": 531,
-	"name": "衡阳师范学院",
-	"rankInProvince": 20,
-	"type": "师范",
-	"rankInType": 70
-},
-{
-	"rankInAll": 532,
-	"name": "宝鸡文理学院",
-	"rankInProvince": 26,
-	"type": "师范",
-	"rankInType": 71
-},
-{
-	"rankInAll": 532,
-	"name": "大理大学",
-	"rankInProvince": 11,
-	"type": "综合",
-	"rankInType": 88
-},
-{
-	"rankInAll": 534,
-	"name": "长春工程学院",
-	"rankInProvince": 16,
-	"type": "理工",
-	"rankInType": 180
-},
-{
-	"rankInAll": 534,
-	"name": "沈阳体育学院",
-	"rankInProvince": 35,
-	"type": "体育",
-	"rankInType": 10
-},
-{
-	"rankInAll": 536,
-	"name": "淮南师范学院",
-	"rankInProvince": 15,
-	"type": "师范",
-	"rankInType": 72
-},
-{
-	"rankInAll": 537,
-	"name": "许昌学院",
-	"rankInProvince": 24,
-	"type": "综合",
-	"rankInType": 89
-},
-{
-	"rankInAll": 538,
-	"name": "广州体育学院",
-	"rankInProvince": 29,
-	"type": "体育",
-	"rankInType": 11
-},
-{
-	"rankInAll": 538,
-	"name": "宜春学院",
-	"rankInProvince": 16,
-	"type": "综合",
-	"rankInType": 90
-},
-{
-	"rankInAll": 538,
-	"name": "湖北美术学院",
-	"rankInProvince": 24,
-	"type": "艺术",
-	"rankInType": 20
-},
-{
-	"rankInAll": 541,
-	"name": "牡丹江师范学院",
-	"rankInProvince": 19,
-	"type": "师范",
-	"rankInType": 73
-},
-{
-	"rankInAll": 542,
-	"name": "盐城师范学院",
-	"rankInProvince": 36,
-	"type": "师范",
-	"rankInType": 74
-},
-{
-	"rankInAll": 543,
-	"name": "闽南师范大学",
-	"rankInProvince": 12,
-	"type": "师范",
-	"rankInType": 75
-},
-{
-	"rankInAll": 543,
-	"name": "湖北文理学院",
-	"rankInProvince": 25,
-	"type": "综合",
-	"rankInType": 91
-},
-{
-	"rankInAll": 545,
-	"name": "上海金融学院",
-	"rankInProvince": 26,
-	"type": "财经",
-	"rankInType": 42
-},
-{
-	"rankInAll": 546,
-	"name": "江苏警官学院",
-	"rankInProvince": 37,
-	"type": "文法",
-	"rankInType": 25
-},
-{
-	"rankInAll": 546,
-	"name": "皖南医学院",
-	"rankInProvince": 16,
-	"type": "医药",
-	"rankInType": 56
-},
-{
-	"rankInAll": 548,
-	"name": "闽江学院",
-	"rankInProvince": 13,
-	"type": "综合",
-	"rankInType": 92
-},
-{
-	"rankInAll": 548,
-	"name": "吉林建筑大学",
-	"rankInProvince": 17,
-	"type": "理工",
-	"rankInType": 181
-},
-{
-	"rankInAll": 548,
-	"name": "黄冈师范学院",
-	"rankInProvince": 26,
-	"type": "师范",
-	"rankInType": 76
-},
-{
-	"rankInAll": 551,
-	"name": "贵阳中医学院",
-	"rankInProvince": 8,
-	"type": "医药",
-	"rankInType": 57
-},
-{
-	"rankInAll": 551,
-	"name": "常熟理工学院",
-	"rankInProvince": 38,
-	"type": "理工",
-	"rankInType": 182
-},
-{
-	"rankInAll": 551,
-	"name": "潍坊学院",
-	"rankInProvince": 29,
-	"type": "综合",
-	"rankInType": 93
-},
-{
-	"rankInAll": 554,
-	"name": "九江学院",
-	"rankInProvince": 17,
-	"type": "综合",
-	"rankInType": 94
-},
-{
-	"rankInAll": 554,
-	"name": "陕西中医药大学",
-	"rankInProvince": 27,
-	"type": "医药",
-	"rankInType": 58
-},
-{
-	"rankInAll": 556,
-	"name": "无锡太湖学院",
-	"rankInProvince": 39,
-	"type": "综合",
-	"rankInType": 95
-},
-{
-	"rankInAll": 556,
-	"name": "塔里木大学",
-	"rankInProvince": 8,
-	"type": "农林",
-	"rankInType": 35
-},
-{
-	"rankInAll": 558,
-	"name": "徐州工程学院",
-	"rankInProvince": 40,
-	"type": "理工",
-	"rankInType": 183
-},
-{
-	"rankInAll": 558,
-	"name": "台州学院",
-	"rankInProvince": 25,
-	"type": "综合",
-	"rankInType": 96
-},
-{
-	"rankInAll": 558,
-	"name": "阜阳师范学院",
-	"rankInProvince": 17,
-	"type": "师范",
-	"rankInType": 77
-},
-{
-	"rankInAll": 561,
-	"name": "韩山师范学院",
-	"rankInProvince": 30,
-	"type": "师范",
-	"rankInType": 78
-},
-{
-	"rankInAll": 562,
-	"name": "三江学院",
-	"rankInProvince": 41,
-	"type": "综合",
-	"rankInType": 97
-},
-{
-	"rankInAll": 563,
-	"name": "西安外事学院",
-	"rankInProvince": 28,
-	"type": "财经",
-	"rankInType": 43
-},
-{
-	"rankInAll": 564,
-	"name": "甘肃政法学院",
-	"rankInProvince": 8,
-	"type": "文法",
-	"rankInType": 26
-},
-{
-	"rankInAll": 564,
-	"name": "莆田学院",
-	"rankInProvince": 14,
-	"type": "综合",
-	"rankInType": 98
-},
-{
-	"rankInAll": 564,
-	"name": "上海政法学院",
-	"rankInProvince": 27,
-	"type": "文法",
-	"rankInType": 26
-},
-{
-	"rankInAll": 564,
-	"name": "蚌埠医学院",
-	"rankInProvince": 18,
-	"type": "医药",
-	"rankInType": 59
-},
-{
-	"rankInAll": 564,
-	"name": "广西艺术学院",
-	"rankInProvince": 13,
-	"type": "艺术",
-	"rankInType": 21
-},
-{
-	"rankInAll": 569,
-	"name": "川北医学院",
-	"rankInProvince": 22,
-	"type": "医药",
-	"rankInType": 60
-},
-{
-	"rankInAll": 569,
-	"name": "上海电机学院",
-	"rankInProvince": 28,
-	"type": "理工",
-	"rankInType": 184
-},
-{
-	"rankInAll": 571,
-	"name": "金陵科技学院",
-	"rankInProvince": 42,
-	"type": "理工",
-	"rankInType": 185
-},
-{
-	"rankInAll": 572,
-	"name": "湖南人文科技学院",
-	"rankInProvince": 21,
-	"type": "师范",
-	"rankInType": 79
-},
-{
-	"rankInAll": 573,
-	"name": "运城学院",
-	"rankInProvince": 10,
-	"type": "综合",
-	"rankInType": 99
-},
-{
-	"rankInAll": 573,
-	"name": "滨州医学院",
-	"rankInProvince": 30,
-	"type": "医药",
-	"rankInType": 61
-},
-{
-	"rankInAll": 575,
-	"name": "吉林艺术学院",
-	"rankInProvince": 18,
-	"type": "艺术",
-	"rankInType": 22
-},
-{
-	"rankInAll": 575,
-	"name": "滇西科技师范学院",
-	"rankInProvince": 12,
-	"type": "师范",
-	"rankInType": 80
-},
-{
-	"rankInAll": 577,
-	"name": "潍坊科技学院",
-	"rankInProvince": 31,
-	"type": "理工",
-	"rankInType": 186
-},
-{
-	"rankInAll": 577,
-	"name": "湖北科技学院",
-	"rankInProvince": 27,
-	"type": "理工",
-	"rankInType": 186
-},
-{
-	"rankInAll": 579,
-	"name": "中国人民武装警察部队学院",
-	"rankInProvince": 17,
-	"type": "文法",
-	"rankInType": 28
-},
-{
-	"rankInAll": 579,
-	"name": "四川音乐学院",
-	"rankInProvince": 23,
-	"type": "艺术",
-	"rankInType": 23
-},
-{
-	"rankInAll": 581,
-	"name": "湘南学院",
-	"rankInProvince": 22,
-	"type": "综合",
-	"rankInType": 100
-},
-{
-	"rankInAll": 581,
-	"name": "甘肃医学院",
-	"rankInProvince": 9,
-	"type": "医药",
-	"rankInType": 62
-},
-{
-	"rankInAll": 583,
-	"name": "长江师范学院",
-	"rankInProvince": 14,
-	"type": "师范",
-	"rankInType": 81
-},
-{
-	"rankInAll": 583,
-	"name": "鞍山师范学院",
-	"rankInProvince": 36,
-	"type": "师范",
-	"rankInType": 81
-},
-{
-	"rankInAll": 585,
-	"name": "宁波大红鹰学院",
-	"rankInProvince": 26,
-	"type": "理工",
-	"rankInType": 188
-},
-{
-	"rankInAll": 586,
-	"name": "湖北医药学院",
-	"rankInProvince": 28,
-	"type": "医药",
-	"rankInType": 63
-},
-{
-	"rankInAll": 586,
-	"name": "吉林动画学院",
-	"rankInProvince": 19,
-	"type": "艺术",
-	"rankInType": 24
-},
-{
-	"rankInAll": 586,
-	"name": "玉林师范学院",
-	"rankInProvince": 14,
-	"type": "师范",
-	"rankInType": 83
-},
-{
-	"rankInAll": 589,
-	"name": "成都学院",
-	"rankInProvince": 24,
-	"type": "综合",
-	"rankInType": 101
-},
-{
-	"rankInAll": 590,
-	"name": "东莞理工学院",
-	"rankInProvince": 31,
-	"type": "理工",
-	"rankInType": 189
-},
-{
-	"rankInAll": 590,
-	"name": "合肥学院",
-	"rankInProvince": 19,
-	"type": "综合",
-	"rankInType": 102
-},
-{
-	"rankInAll": 590,
-	"name": "黄山学院",
-	"rankInProvince": 19,
-	"type": "综合",
-	"rankInType": 102
-},
-{
-	"rankInAll": 590,
-	"name": "山东艺术学院",
-	"rankInProvince": 32,
-	"type": "艺术",
-	"rankInType": 25
-},
-{
-	"rankInAll": 594,
-	"name": "临沂大学",
-	"rankInProvince": 33,
-	"type": "综合",
-	"rankInType": 104
-},
-{
-	"rankInAll": 594,
-	"name": "承德医学院",
-	"rankInProvince": 18,
-	"type": "医药",
-	"rankInType": 64
-},
-{
-	"rankInAll": 594,
-	"name": "怀化学院",
-	"rankInProvince": 23,
-	"type": "综合",
-	"rankInType": 104
-},
-{
-	"rankInAll": 597,
-	"name": "天津美术学院",
-	"rankInProvince": 16,
-	"type": "艺术",
-	"rankInType": 26
-},
-{
-	"rankInAll": 597,
-	"name": "山东青年政治学院",
-	"rankInProvince": 34,
-	"type": "文法",
-	"rankInType": 29
-},
-{
-	"rankInAll": 597,
-	"name": "辽东学院",
-	"rankInProvince": 37,
-	"type": "综合",
-	"rankInType": 106
-},
-{
-	"rankInAll": 597,
-	"name": "常州工学院",
-	"rankInProvince": 43,
-	"type": "理工",
-	"rankInType": 190
-},
-{
-	"rankInAll": 601,
-	"name": "仲恺农业工程学院",
-	"rankInProvince": 32,
-	"type": "农林",
-	"rankInType": 36
-},
-{
-	"rankInAll": 601,
-	"name": "宜宾学院",
-	"rankInProvince": 25,
-	"type": "综合",
-	"rankInType": 107
-},
-{
-	"rankInAll": 603,
-	"name": "太原师范学院",
-	"rankInProvince": 11,
-	"type": "师范",
-	"rankInType": 84
-},
-{
-	"rankInAll": 603,
-	"name": "忻州师范学院",
-	"rankInProvince": 11,
-	"type": "师范",
-	"rankInType": 84
-},
-{
-	"rankInAll": 603,
-	"name": "湖南科技学院",
-	"rankInProvince": 24,
-	"type": "综合",
-	"rankInType": 108
-},
-{
-	"rankInAll": 603,
-	"name": "湖北理工学院",
-	"rankInProvince": 29,
-	"type": "理工",
-	"rankInType": 191
-},
-{
-	"rankInAll": 603,
-	"name": "西藏藏医学院",
-	"rankInProvince": 3,
-	"type": "医药",
-	"rankInType": 65
-},
-{
-	"rankInAll": 608,
-	"name": "青岛滨海学院",
-	"rankInProvince": 35,
-	"type": "综合",
-	"rankInType": 109
-},
-{
-	"rankInAll": 608,
-	"name": "山东体育学院",
-	"rankInProvince": 35,
-	"type": "体育",
-	"rankInType": 12
-},
-{
-	"rankInAll": 610,
-	"name": "桂林医学院",
-	"rankInProvince": 15,
-	"type": "医药",
-	"rankInType": 66
-},
-{
-	"rankInAll": 610,
-	"name": "甘肃中医药大学",
-	"rankInProvince": 10,
-	"type": "医药",
-	"rankInType": 66
-},
-{
-	"rankInAll": 612,
-	"name": "安徽科技学院",
-	"rankInProvince": 21,
-	"type": "理工",
-	"rankInType": 192
-},
-{
-	"rankInAll": 612,
-	"name": "河南城建学院",
-	"rankInProvince": 25,
-	"type": "理工",
-	"rankInType": 192
-},
-{
-	"rankInAll": 612,
-	"name": "惠州学院",
-	"rankInProvince": 33,
-	"type": "综合",
-	"rankInType": 110
-},
-{
-	"rankInAll": 612,
-	"name": "天津农学院",
-	"rankInProvince": 17,
-	"type": "农林",
-	"rankInType": 37
-},
-{
-	"rankInAll": 612,
-	"name": "吉林化工学院",
-	"rankInProvince": 20,
-	"type": "理工",
-	"rankInType": 192
-},
-{
-	"rankInAll": 617,
-	"name": "咸阳师范学院",
-	"rankInProvince": 29,
-	"type": "师范",
-	"rankInType": 86
-},
-{
-	"rankInAll": 617,
-	"name": "攀枝花学院",
-	"rankInProvince": 26,
-	"type": "理工",
-	"rankInType": 195
-},
-{
-	"rankInAll": 619,
-	"name": "山西大同大学",
-	"rankInProvince": 13,
-	"type": "师范",
-	"rankInType": 87
-},
-{
-	"rankInAll": 620,
-	"name": "西昌学院",
-	"rankInProvince": 27,
-	"type": "综合",
-	"rankInType": 111
-},
-{
-	"rankInAll": 620,
-	"name": "滁州学院",
-	"rankInProvince": 22,
-	"type": "综合",
-	"rankInType": 111
-},
-{
-	"rankInAll": 620,
-	"name": "哈尔滨学院",
-	"rankInProvince": 20,
-	"type": "综合",
-	"rankInType": 111
-},
-{
-	"rankInAll": 623,
-	"name": "河池学院",
-	"rankInProvince": 16,
-	"type": "文法",
-	"rankInType": 30
-},
-{
-	"rankInAll": 623,
-	"name": "红河学院",
-	"rankInProvince": 13,
-	"type": "综合",
-	"rankInType": 114
-},
-{
-	"rankInAll": 625,
-	"name": "南昌理工学院",
-	"rankInProvince": 18,
-	"type": "理工",
-	"rankInType": 196
-},
-{
-	"rankInAll": 625,
-	"name": "皖西学院",
-	"rankInProvince": 23,
-	"type": "综合",
-	"rankInType": 115
-},
-{
-	"rankInAll": 625,
-	"name": "衡水学院",
-	"rankInProvince": 19,
-	"type": "师范",
-	"rankInType": 88
-},
-{
-	"rankInAll": 625,
-	"name": "吉林体育学院",
-	"rankInProvince": 21,
-	"type": "体育",
-	"rankInType": 13
-},
-{
-	"rankInAll": 629,
-	"name": "沈阳医学院",
-	"rankInProvince": 38,
-	"type": "医药",
-	"rankInType": 68
-},
-{
-	"rankInAll": 629,
-	"name": "西安欧亚学院",
-	"rankInProvince": 30,
-	"type": "财经",
-	"rankInType": 44
-},
-{
-	"rankInAll": 629,
-	"name": "吉林工商学院",
-	"rankInProvince": 22,
-	"type": "财经",
-	"rankInType": 44
-},
-{
-	"rankInAll": 632,
-	"name": "安阳工学院",
-	"rankInProvince": 26,
-	"type": "理工",
-	"rankInType": 197
-},
-{
-	"rankInAll": 633,
-	"name": "唐山师范学院",
-	"rankInProvince": 20,
-	"type": "师范",
-	"rankInType": 89
-},
-{
-	"rankInAll": 634,
-	"name": "内江师范学院",
-	"rankInProvince": 28,
-	"type": "师范",
-	"rankInType": 90
-},
-{
-	"rankInAll": 634,
-	"name": "商丘师范学院",
-	"rankInProvince": 27,
-	"type": "师范",
-	"rankInType": 90
-},
-{
-	"rankInAll": 634,
-	"name": "南京晓庄学院",
-	"rankInProvince": 44,
-	"type": "师范",
-	"rankInType": 90
-},
-{
-	"rankInAll": 637,
-	"name": "菏泽学院",
-	"rankInProvince": 37,
-	"type": "综合",
-	"rankInType": 116
-},
-{
-	"rankInAll": 638,
-	"name": "南京特殊教育师范学院",
-	"rankInProvince": 45,
-	"type": "师范",
-	"rankInType": 93
-},
-{
-	"rankInAll": 638,
-	"name": "北华航天工业学院",
-	"rankInProvince": 21,
-	"type": "理工",
-	"rankInType": 198
-},
-{
-	"rankInAll": 640,
-	"name": "云南艺术学院",
-	"rankInProvince": 14,
-	"type": "艺术",
-	"rankInType": 27
-},
-{
-	"rankInAll": 641,
-	"name": "梧州学院",
-	"rankInProvince": 17,
-	"type": "综合",
-	"rankInType": 117
-},
-{
-	"rankInAll": 642,
-	"name": "合肥师范学院",
-	"rankInProvince": 24,
-	"type": "师范",
-	"rankInType": 94
-},
-{
-	"rankInAll": 642,
-	"name": "绥化学院",
-	"rankInProvince": 21,
-	"type": "综合",
-	"rankInType": 118
-},
-{
-	"rankInAll": 644,
-	"name": "铜陵学院",
-	"rankInProvince": 25,
-	"type": "综合",
-	"rankInType": 119
-},
-{
-	"rankInAll": 644,
-	"name": "喀什大学",
-	"rankInProvince": 9,
-	"type": "师范",
-	"rankInType": 95
-},
-{
-	"rankInAll": 644,
-	"name": "玉溪师范学院",
-	"rankInProvince": 15,
-	"type": "师范",
-	"rankInType": 95
-},
-{
-	"rankInAll": 647,
-	"name": "呼伦贝尔学院",
-	"rankInProvince": 10,
-	"type": "综合",
-	"rankInType": 120
-},
-{
-	"rankInAll": 648,
-	"name": "三明学院",
-	"rankInProvince": 15,
-	"type": "师范",
-	"rankInType": 97
-},
-{
-	"rankInAll": 648,
-	"name": "长治学院",
-	"rankInProvince": 14,
-	"type": "师范",
-	"rankInType": 97
-},
-{
-	"rankInAll": 650,
-	"name": "荆楚理工学院",
-	"rankInProvince": 30,
-	"type": "理工",
-	"rankInType": 199
-},
-{
-	"rankInAll": 650,
-	"name": "长沙学院",
-	"rankInProvince": 25,
-	"type": "综合",
-	"rankInType": 121
-},
-{
-	"rankInAll": 650,
-	"name": "钦州学院",
-	"rankInProvince": 18,
-	"type": "师范",
-	"rankInType": 99
-},
-{
-	"rankInAll": 653,
-	"name": "中华女子学院",
-	"rankInProvince": 57,
-	"type": "综合",
-	"rankInType": 122
-},
-{
-	"rankInAll": 653,
-	"name": "西安翻译学院",
-	"rankInProvince": 31,
-	"type": "文法",
-	"rankInType": 31
-},
-{
-	"rankInAll": 653,
-	"name": "湖北汽车工业学院",
-	"rankInProvince": 31,
-	"type": "理工",
-	"rankInType": 200
-},
-{
-	"rankInAll": 653,
-	"name": "湖北工程学院",
-	"rankInProvince": 31,
-	"type": "理工",
-	"rankInType": 200
-},
-{
-	"rankInAll": 657,
-	"name": "郑州工业应用技术学院",
-	"rankInProvince": 28,
-	"type": "理工",
-	"rankInType": 202
-},
-{
-	"rankInAll": 658,
-	"name": "山东工艺美术学院",
-	"rankInProvince": 38,
-	"type": "艺术",
-	"rankInType": 28
-},
-{
-	"rankInAll": 658,
-	"name": "河西学院",
-	"rankInProvince": 11,
-	"type": "综合",
-	"rankInType": 123
-},
-{
-	"rankInAll": 658,
-	"name": "石家庄学院",
-	"rankInProvince": 22,
-	"type": "师范",
-	"rankInType": 100
-},
-{
-	"rankInAll": 658,
-	"name": "绵阳师范学院",
-	"rankInProvince": 29,
-	"type": "师范",
-	"rankInType": 100
-},
-{
-	"rankInAll": 662,
-	"name": "郑州升达经贸管理学院",
-	"rankInProvince": 29,
-	"type": "财经",
-	"rankInType": 46
-},
-{
-	"rankInAll": 662,
-	"name": "桂林航天工业学院",
-	"rankInProvince": 19,
-	"type": "理工",
-	"rankInType": 203
-},
-{
-	"rankInAll": 664,
-	"name": "黑河学院",
-	"rankInProvince": 22,
-	"type": "文法",
-	"rankInType": 32
-},
-{
-	"rankInAll": 664,
-	"name": "平顶山学院",
-	"rankInProvince": 30,
-	"type": "综合",
-	"rankInType": 124
-},
-{
-	"rankInAll": 664,
-	"name": "河北体育学院",
-	"rankInProvince": 23,
-	"type": "体育",
-	"rankInType": 14
-},
-{
-	"rankInAll": 667,
-	"name": "通化师范学院",
-	"rankInProvince": 23,
-	"type": "师范",
-	"rankInType": 102
-},
-{
-	"rankInAll": 667,
-	"name": "邯郸学院",
-	"rankInProvince": 24,
-	"type": "师范",
-	"rankInType": 102
-},
-{
-	"rankInAll": 667,
-	"name": "宿州学院",
-	"rankInProvince": 26,
-	"type": "综合",
-	"rankInType": 125
-},
-{
-	"rankInAll": 670,
-	"name": "济宁学院",
-	"rankInProvince": 39,
-	"type": "师范",
-	"rankInType": 104
-},
-{
-	"rankInAll": 670,
-	"name": "池州学院",
-	"rankInProvince": 27,
-	"type": "师范",
-	"rankInType": 104
-},
-{
-	"rankInAll": 670,
-	"name": "海南热带海洋学院",
-	"rankInProvince": 4,
-	"type": "综合",
-	"rankInType": 126
-},
-{
-	"rankInAll": 670,
-	"name": "齐齐哈尔医学院",
-	"rankInProvince": 23,
-	"type": "医药",
-	"rankInType": 69
-},
-{
-	"rankInAll": 674,
-	"name": "新乡学院",
-	"rankInProvince": 31,
-	"type": "师范",
-	"rankInType": 106
-},
-{
-	"rankInAll": 675,
-	"name": "保定学院",
-	"rankInProvince": 25,
-	"type": "师范",
-	"rankInType": 107
-},
-{
-	"rankInAll": 676,
-	"name": "牡丹江医学院",
-	"rankInProvince": 24,
-	"type": "医药",
-	"rankInType": 70
-},
-{
-	"rankInAll": 676,
-	"name": "广东警官学院",
-	"rankInProvince": 34,
-	"type": "文法",
-	"rankInType": 33
-},
-{
-	"rankInAll": 676,
-	"name": "河南工程学院",
-	"rankInProvince": 32,
-	"type": "理工",
-	"rankInType": 204
-},
-{
-	"rankInAll": 676,
-	"name": "天水师范学院",
-	"rankInProvince": 12,
-	"type": "师范",
-	"rankInType": 108
-},
-{
-	"rankInAll": 680,
-	"name": "武汉生物工程学院",
-	"rankInProvince": 33,
-	"type": "理工",
-	"rankInType": 205
-},
-{
-	"rankInAll": 680,
-	"name": "长春建筑学院",
-	"rankInProvince": 24,
-	"type": "理工",
-	"rankInType": 205
-},
-{
-	"rankInAll": 680,
-	"name": "辽宁财贸学院",
-	"rankInProvince": 39,
-	"type": "财经",
-	"rankInType": 47
-},
-{
-	"rankInAll": 680,
-	"name": "三亚学院",
-	"rankInProvince": 5,
-	"type": "综合",
-	"rankInType": 127
-},
-{
-	"rankInAll": 684,
-	"name": "山东现代学院",
-	"rankInProvince": 40,
-	"type": "综合",
-	"rankInType": 128
-},
-{
-	"rankInAll": 685,
-	"name": "重庆三峡学院",
-	"rankInProvince": 15,
-	"type": "综合",
-	"rankInType": 129
-},
-{
-	"rankInAll": 686,
-	"name": "湖北第二师范学院",
-	"rankInProvince": 34,
-	"type": "师范",
-	"rankInType": 109
-},
-{
-	"rankInAll": 686,
-	"name": "湖南财政经济学院",
-	"rankInProvince": 26,
-	"type": "财经",
-	"rankInType": 48
-},
-{
-	"rankInAll": 686,
-	"name": "山东交通学院",
-	"rankInProvince": 41,
-	"type": "理工",
-	"rankInType": 207
-},
-{
-	"rankInAll": 689,
-	"name": "西安培华学院",
-	"rankInProvince": 32,
-	"type": "文法",
-	"rankInType": 34
-},
-{
-	"rankInAll": 689,
-	"name": "仰恩大学",
-	"rankInProvince": 16,
-	"type": "综合",
-	"rankInType": 130
-},
-{
-	"rankInAll": 691,
-	"name": "四川警察学院",
-	"rankInProvince": 30,
-	"type": "文法",
-	"rankInType": 35
-},
-{
-	"rankInAll": 692,
-	"name": "天津音乐学院",
-	"rankInProvince": 18,
-	"type": "艺术",
-	"rankInType": 29
-},
-{
-	"rankInAll": 693,
-	"name": "上海科技大学",
-	"rankInProvince": 29,
-	"type": "理工",
-	"rankInType": 208
-},
-{
-	"rankInAll": 694,
-	"name": "昆明学院",
-	"rankInProvince": 16,
-	"type": "师范",
-	"rankInType": 110
-},
-{
-	"rankInAll": 694,
-	"name": "广东白云学院",
-	"rankInProvince": 35,
-	"type": "理工",
-	"rankInType": 209
-},
-{
-	"rankInAll": 696,
-	"name": "长沙医学院",
-	"rankInProvince": 27,
-	"type": "医药",
-	"rankInType": 71
-},
-{
-	"rankInAll": 696,
-	"name": "上饶师范学院",
-	"rankInProvince": 19,
-	"type": "师范",
-	"rankInType": 111
-},
-{
-	"rankInAll": 696,
-	"name": "邢台学院",
-	"rankInProvince": 26,
-	"type": "综合",
-	"rankInType": 131
-},
-{
-	"rankInAll": 699,
-	"name": "丽水学院",
-	"rankInProvince": 27,
-	"type": "综合",
-	"rankInType": 132
-},
-{
-	"rankInAll": 699,
-	"name": "西安文理学院",
-	"rankInProvince": 33,
-	"type": "师范",
-	"rankInType": 112
-},
-{
-	"rankInAll": 699,
-	"name": "北京警察学院",
-	"rankInProvince": 58,
-	"type": "文法",
-	"rankInType": 36
-},
-{
-	"rankInAll": 699,
-	"name": "广东培正学院",
-	"rankInProvince": 36,
-	"type": "财经",
-	"rankInType": 49
-},
-{
-	"rankInAll": 699,
-	"name": "黑龙江外国语学院",
-	"rankInProvince": 25,
-	"type": "师范",
-	"rankInType": 112
-},
-{
-	"rankInAll": 704,
-	"name": "浙江外国语学院",
-	"rankInProvince": 28,
-	"type": "文法",
-	"rankInType": 37
-},
-{
-	"rankInAll": 705,
-	"name": "武汉东湖学院",
-	"rankInProvince": 35,
-	"type": "理工",
-	"rankInType": 210
-},
-{
-	"rankInAll": 705,
-	"name": "上海海关学院",
-	"rankInProvince": 30,
-	"type": "文法",
-	"rankInType": 38
-},
-{
-	"rankInAll": 705,
-	"name": "黔南民族师范学院",
-	"rankInProvince": 9,
-	"type": "师范",
-	"rankInType": 114
-},
-{
-	"rankInAll": 708,
-	"name": "江西服装学院",
-	"rankInProvince": 20,
-	"type": "理工",
-	"rankInType": 211
-},
-{
-	"rankInAll": 708,
-	"name": "福建警察学院",
-	"rankInProvince": 17,
-	"type": "文法",
-	"rankInType": 39
-},
-{
-	"rankInAll": 710,
-	"name": "唐山学院",
-	"rankInProvince": 27,
-	"type": "综合",
-	"rankInType": 133
-},
-{
-	"rankInAll": 710,
-	"name": "百色学院",
-	"rankInProvince": 20,
-	"type": "师范",
-	"rankInType": 115
-},
-{
-	"rankInAll": 710,
-	"name": "吉林工程技术师范学院",
-	"rankInProvince": 25,
-	"type": "师范",
-	"rankInType": 115
-},
-{
-	"rankInAll": 713,
-	"name": "新余学院",
-	"rankInProvince": 21,
-	"type": "综合",
-	"rankInType": 134
-},
-{
-	"rankInAll": 714,
-	"name": "福建江夏学院",
-	"rankInProvince": 18,
-	"type": "财经",
-	"rankInType": 50
-},
-{
-	"rankInAll": 715,
-	"name": "辽宁科技学院",
-	"rankInProvince": 40,
-	"type": "理工",
-	"rankInType": 212
-},
-{
-	"rankInAll": 715,
-	"name": "湖南第一师范学院",
-	"rankInProvince": 28,
-	"type": "师范",
-	"rankInType": 117
-},
-{
-	"rankInAll": 717,
-	"name": "贵州师范学院",
-	"rankInProvince": 10,
-	"type": "师范",
-	"rankInType": 118
-},
-{
-	"rankInAll": 717,
-	"name": "蚌埠学院",
-	"rankInProvince": 28,
-	"type": "师范",
-	"rankInType": 118
-},
-{
-	"rankInAll": 717,
-	"name": "齐鲁医药学院",
-	"rankInProvince": 42,
-	"type": "医药",
-	"rankInType": 72
-},
-{
-	"rankInAll": 717,
-	"name": "枣庄学院",
-	"rankInProvince": 42,
-	"type": "综合",
-	"rankInType": 135
-},
-{
-	"rankInAll": 717,
-	"name": "西安航空学院",
-	"rankInProvince": 34,
-	"type": "理工",
-	"rankInType": 213
-},
-{
-	"rankInAll": 717,
-	"name": "贺州学院",
-	"rankInProvince": 21,
-	"type": "师范",
-	"rankInType": 118
-},
-{
-	"rankInAll": 717,
-	"name": "铜仁学院",
-	"rankInProvince": 10,
-	"type": "师范",
-	"rankInType": 118
-},
-{
-	"rankInAll": 724,
-	"name": "巢湖学院",
-	"rankInProvince": 29,
-	"type": "综合",
-	"rankInType": 136
-},
-{
-	"rankInAll": 724,
-	"name": "宁波诺丁汉大学",
-	"rankInProvince": 29,
-	"type": "综合",
-	"rankInType": 136
-},
-{
-	"rankInAll": 724,
-	"name": "郑州师范学院",
-	"rankInProvince": 33,
-	"type": "师范",
-	"rankInType": 122
-},
-{
-	"rankInAll": 724,
-	"name": "西安医学院",
-	"rankInProvince": 35,
-	"type": "医药",
-	"rankInType": 73
-},
-{
-	"rankInAll": 728,
-	"name": "武昌工学院",
-	"rankInProvince": 36,
-	"type": "理工",
-	"rankInType": 214
-},
-{
-	"rankInAll": 728,
-	"name": "成都工业学院",
-	"rankInProvince": 31,
-	"type": "理工",
-	"rankInType": 214
-},
-{
-	"rankInAll": 728,
-	"name": "武夷学院",
-	"rankInProvince": 19,
-	"type": "师范",
-	"rankInType": 123
-},
-{
-	"rankInAll": 731,
-	"name": "安康学院",
-	"rankInProvince": 36,
-	"type": "师范",
-	"rankInType": 124
-},
-{
-	"rankInAll": 731,
-	"name": "榆林学院",
-	"rankInProvince": 36,
-	"type": "综合",
-	"rankInType": 138
-},
-{
-	"rankInAll": 733,
-	"name": "山东政法学院",
-	"rankInProvince": 44,
-	"type": "文法",
-	"rankInType": 40
-},
-{
-	"rankInAll": 733,
-	"name": "湖南工学院",
-	"rankInProvince": 29,
-	"type": "理工",
-	"rankInType": 216
-},
-{
-	"rankInAll": 733,
-	"name": "内蒙古科技大学包头医学院",
-	"rankInProvince": 11,
-	"type": "医药",
-	"rankInType": 74
-},
-{
-	"rankInAll": 733,
-	"name": "广东第二师范学院",
-	"rankInProvince": 37,
-	"type": "师范",
-	"rankInType": 125
-},
-{
-	"rankInAll": 737,
-	"name": "黄淮学院",
-	"rankInProvince": 34,
-	"type": "师范",
-	"rankInType": 126
-},
-{
-	"rankInAll": 737,
-	"name": "昌吉学院",
-	"rankInProvince": 10,
-	"type": "师范",
-	"rankInType": 126
-},
-{
-	"rankInAll": 739,
-	"name": "贵阳学院",
-	"rankInProvince": 12,
-	"type": "综合",
-	"rankInType": 139
-},
-{
-	"rankInAll": 739,
-	"name": "山东女子学院",
-	"rankInProvince": 45,
-	"type": "文法",
-	"rankInType": 41
-},
-{
-	"rankInAll": 741,
-	"name": "大连科技学院",
-	"rankInProvince": 41,
-	"type": "理工",
-	"rankInType": 217
-},
-{
-	"rankInAll": 742,
-	"name": "山东英才学院",
-	"rankInProvince": 46,
-	"type": "综合",
-	"rankInType": 140
-},
-{
-	"rankInAll": 742,
-	"name": "北京师范大学-香港浸会大学联合国际学院",
-	"rankInProvince": 38,
-	"type": "综合",
-	"rankInType": 140
-},
-{
-	"rankInAll": 744,
-	"name": "海口经济学院",
-	"rankInProvince": 6,
-	"type": "财经",
-	"rankInType": 51
-},
-{
-	"rankInAll": 745,
-	"name": "赣南医学院",
-	"rankInProvince": 22,
-	"type": "医药",
-	"rankInType": 75
-},
-{
-	"rankInAll": 746,
-	"name": "廊坊师范学院",
-	"rankInProvince": 28,
-	"type": "师范",
-	"rankInType": 128
-},
-{
-	"rankInAll": 747,
-	"name": "晋中学院",
-	"rankInProvince": 15,
-	"type": "综合",
-	"rankInType": 142
-},
-{
-	"rankInAll": 748,
-	"name": "遵义师范学院",
-	"rankInProvince": 13,
-	"type": "师范",
-	"rankInType": 129
-},
-{
-	"rankInAll": 748,
-	"name": "集宁师范学院",
-	"rankInProvince": 12,
-	"type": "师范",
-	"rankInType": 129
-},
-{
-	"rankInAll": 748,
-	"name": "宁夏师范学院",
-	"rankInProvince": 4,
-	"type": "师范",
-	"rankInType": 129
-},
-{
-	"rankInAll": 751,
-	"name": "龙岩学院",
-	"rankInProvince": 20,
-	"type": "综合",
-	"rankInType": 143
-},
-{
-	"rankInAll": 751,
-	"name": "湖南警察学院",
-	"rankInProvince": 30,
-	"type": "文法",
-	"rankInType": 42
-},
-{
-	"rankInAll": 753,
-	"name": "商洛学院",
-	"rankInProvince": 38,
-	"type": "师范",
-	"rankInType": 132
-},
-{
-	"rankInAll": 754,
-	"name": "大庆师范学院",
-	"rankInProvince": 26,
-	"type": "师范",
-	"rankInType": 133
-},
-{
-	"rankInAll": 755,
-	"name": "四川文理学院",
-	"rankInProvince": 32,
-	"type": "师范",
-	"rankInType": 134
-},
-{
-	"rankInAll": 755,
-	"name": "辽宁对外经贸学院",
-	"rankInProvince": 42,
-	"type": "财经",
-	"rankInType": 52
-},
-{
-	"rankInAll": 755,
-	"name": "武昌理工学院",
-	"rankInProvince": 37,
-	"type": "理工",
-	"rankInType": 218
-},
-{
-	"rankInAll": 758,
-	"name": "西交利物浦大学",
-	"rankInProvince": 46,
-	"type": "综合",
-	"rankInType": 144
-},
-{
-	"rankInAll": 759,
-	"name": "汉口学院",
-	"rankInProvince": 38,
-	"type": "理工",
-	"rankInType": 219
-},
-{
-	"rankInAll": 759,
-	"name": "上海建桥学院",
-	"rankInProvince": 31,
-	"type": "综合",
-	"rankInType": 145
-},
-{
-	"rankInAll": 761,
-	"name": "山西中医学院",
-	"rankInProvince": 16,
-	"type": "医药",
-	"rankInType": 76
-},
-{
-	"rankInAll": 761,
-	"name": "陇东学院",
-	"rankInProvince": 13,
-	"type": "师范",
-	"rankInType": 135
-},
-{
-	"rankInAll": 761,
-	"name": "沧州师范学院",
-	"rankInProvince": 29,
-	"type": "师范",
-	"rankInType": 135
-},
-{
-	"rankInAll": 764,
-	"name": "重庆第二师范学院",
-	"rankInProvince": 16,
-	"type": "师范",
-	"rankInType": 137
-},
-{
-	"rankInAll": 764,
-	"name": "成都师范学院",
-	"rankInProvince": 33,
-	"type": "师范",
-	"rankInType": 137
-},
-{
-	"rankInAll": 766,
-	"name": "哈尔滨华德学院",
-	"rankInProvince": 27,
-	"type": "理工",
-	"rankInType": 220
-},
-{
-	"rankInAll": 766,
-	"name": "山东警察学院",
-	"rankInProvince": 47,
-	"type": "文法",
-	"rankInType": 43
-},
-{
-	"rankInAll": 768,
-	"name": "湖北商贸学院",
-	"rankInProvince": 39,
-	"type": "综合",
-	"rankInType": 146
-},
-{
-	"rankInAll": 769,
-	"name": "云南警官学院",
-	"rankInProvince": 17,
-	"type": "文法",
-	"rankInType": 44
-},
-{
-	"rankInAll": 769,
-	"name": "太原工业学院",
-	"rankInProvince": 17,
-	"type": "理工",
-	"rankInType": 221
-},
-{
-	"rankInAll": 769,
-	"name": "赤峰学院",
-	"rankInProvince": 13,
-	"type": "师范",
-	"rankInType": 139
-},
-{
-	"rankInAll": 772,
-	"name": "燕京理工学院",
-	"rankInProvince": 30,
-	"type": "综合",
-	"rankInType": 147
-},
-{
-	"rankInAll": 772,
-	"name": "浙江警察学院",
-	"rankInProvince": 30,
-	"type": "文法",
-	"rankInType": 45
-},
-{
-	"rankInAll": 772,
-	"name": "吉林医药学院",
-	"rankInProvince": 26,
-	"type": "医药",
-	"rankInType": 77
-},
-{
-	"rankInAll": 775,
-	"name": "六盘水师范学院",
-	"rankInProvince": 14,
-	"type": "师范",
-	"rankInType": 140
-},
-{
-	"rankInAll": 775,
-	"name": "河南警察学院",
-	"rankInProvince": 35,
-	"type": "文法",
-	"rankInType": 46
-},
-{
-	"rankInAll": 775,
-	"name": "西安思源学院",
-	"rankInProvince": 39,
-	"type": "理工",
-	"rankInType": 222
-},
-{
-	"rankInAll": 775,
-	"name": "陕西国际商贸学院",
-	"rankInProvince": 39,
-	"type": "财经",
-	"rankInType": 53
-},
-{
-	"rankInAll": 779,
-	"name": "郑州科技学院",
-	"rankInProvince": 36,
-	"type": "理工",
-	"rankInType": 223
-},
-{
-	"rankInAll": 779,
-	"name": "黑龙江财经学院",
-	"rankInProvince": 28,
-	"type": "财经",
-	"rankInType": 54
-},
-{
-	"rankInAll": 779,
-	"name": "兰州城市学院",
-	"rankInProvince": 14,
-	"type": "师范",
-	"rankInType": 141
-},
-{
-	"rankInAll": 782,
-	"name": "安徽三联学院",
-	"rankInProvince": 30,
-	"type": "理工",
-	"rankInType": 224
-},
-{
-	"rankInAll": 782,
-	"name": "兴义民族师范学院",
-	"rankInProvince": 15,
-	"type": "民族",
-	"rankInType": 14
-},
-{
-	"rankInAll": 784,
-	"name": "商丘学院",
-	"rankInProvince": 37,
-	"type": "综合",
-	"rankInType": 148
-},
-{
-	"rankInAll": 784,
-	"name": "南昌工学院",
-	"rankInProvince": 23,
-	"type": "理工",
-	"rankInType": 225
-},
-{
-	"rankInAll": 786,
-	"name": "大连东软信息学院",
-	"rankInProvince": 43,
-	"type": "理工",
-	"rankInType": 226
-},
-{
-	"rankInAll": 786,
-	"name": "浙江越秀外国语学院",
-	"rankInProvince": 31,
-	"type": "文法",
-	"rankInType": 47
-},
-{
-	"rankInAll": 786,
-	"name": "云南工商学院",
-	"rankInProvince": 18,
-	"type": "财经",
-	"rankInType": 55
-},
-{
-	"rankInAll": 786,
-	"name": "河南牧业经济学院",
-	"rankInProvince": 38,
-	"type": "农林",
-	"rankInType": 38
-},
-{
-	"rankInAll": 790,
-	"name": "福州理工学院",
-	"rankInProvince": 21,
-	"type": "综合",
-	"rankInType": 149
-},
-{
-	"rankInAll": 790,
-	"name": "安徽新华学院",
-	"rankInProvince": 31,
-	"type": "理工",
-	"rankInType": 227
-},
-{
-	"rankInAll": 790,
-	"name": "吉林农业科技学院",
-	"rankInProvince": 27,
-	"type": "农林",
-	"rankInType": 39
-},
-{
-	"rankInAll": 793,
-	"name": "山东协和学院",
-	"rankInProvince": 48,
-	"type": "医药",
-	"rankInType": 78
-},
-{
-	"rankInAll": 793,
-	"name": "普洱学院",
-	"rankInProvince": 19,
-	"type": "师范",
-	"rankInType": 142
-},
-{
-	"rankInAll": 793,
-	"name": "安徽外国语学院",
-	"rankInProvince": 32,
-	"type": "文法",
-	"rankInType": 48
-},
-{
-	"rankInAll": 793,
-	"name": "凯里学院",
-	"rankInProvince": 16,
-	"type": "师范",
-	"rankInType": 142
-},
-{
-	"rankInAll": 797,
-	"name": "湖北警官学院",
-	"rankInProvince": 40,
-	"type": "文法",
-	"rankInType": 49
-},
-{
-	"rankInAll": 798,
-	"name": "河北民族师范学院",
-	"rankInProvince": 31,
-	"type": "师范",
-	"rankInType": 144
-},
-{
-	"rankInAll": 799,
-	"name": "重庆人文科技学院",
-	"rankInProvince": 17,
-	"type": "综合",
-	"rankInType": 150
-},
-{
-	"rankInAll": 800,
-	"name": "贵州理工学院",
-	"rankInProvince": 17,
-	"type": "理工",
-	"rankInType": 228
+	"data": [
+		{
+			"rankInAll": 1,
+			"name": "北京大学",
+			"rankInProvince": 1,
+			"type": "综合",
+			"rankInType": 1
+		},
+		{
+			"rankInAll": 2,
+			"name": "清华大学",
+			"rankInProvince": 2,
+			"type": "理工",
+			"rankInType": 1
+		},
+		{
+			"rankInAll": 3,
+			"name": "浙江大学",
+			"rankInProvince": 1,
+			"type": "综合",
+			"rankInType": 2
+		},
+		{
+			"rankInAll": 4,
+			"name": "上海交通大学",
+			"rankInProvince": 1,
+			"type": "理工",
+			"rankInType": 2
+		},
+		{
+			"rankInAll": 5,
+			"name": "武汉大学",
+			"rankInProvince": 1,
+			"type": "综合",
+			"rankInType": 3
+		},
+		{
+			"rankInAll": 6,
+			"name": "复旦大学",
+			"rankInProvince": 2,
+			"type": "综合",
+			"rankInType": 4
+		},
+		{
+			"rankInAll": 7,
+			"name": "南京大学",
+			"rankInProvince": 1,
+			"type": "综合",
+			"rankInType": 5
+		},
+		{
+			"rankInAll": 8,
+			"name": "吉林大学",
+			"rankInProvince": 1,
+			"type": "综合",
+			"rankInType": 6
+		},
+		{
+			"rankInAll": 9,
+			"name": "中山大学",
+			"rankInProvince": 1,
+			"type": "综合",
+			"rankInType": 7
+		},
+		{
+			"rankInAll": 10,
+			"name": "华中科技大学",
+			"rankInProvince": 2,
+			"type": "理工",
+			"rankInType": 3
+		},
+		{
+			"rankInAll": 11,
+			"name": "四川大学",
+			"rankInProvince": 1,
+			"type": "综合",
+			"rankInType": 8
+		},
+		{
+			"rankInAll": 12,
+			"name": "山东大学",
+			"rankInProvince": 1,
+			"type": "综合",
+			"rankInType": 9
+		},
+		{
+			"rankInAll": 13,
+			"name": "哈尔滨工业大学",
+			"rankInProvince": 1,
+			"type": "理工",
+			"rankInType": 4
+		},
+		{
+			"rankInAll": 14,
+			"name": "西安交通大学",
+			"rankInProvince": 1,
+			"type": "理工",
+			"rankInType": 5
+		},
+		{
+			"rankInAll": 15,
+			"name": "中国科学技术大学",
+			"rankInProvince": 1,
+			"type": "理工",
+			"rankInType": 6
+		},
+		{
+			"rankInAll": 16,
+			"name": "东南大学",
+			"rankInProvince": 2,
+			"type": "理工",
+			"rankInType": 7
+		},
+		{
+			"rankInAll": 17,
+			"name": "南开大学",
+			"rankInProvince": 1,
+			"type": "综合",
+			"rankInType": 10
+		},
+		{
+			"rankInAll": 18,
+			"name": "中南大学",
+			"rankInProvince": 1,
+			"type": "理工",
+			"rankInType": 8
+		},
+		{
+			"rankInAll": 19,
+			"name": "中国人民大学",
+			"rankInProvince": 3,
+			"type": "文法",
+			"rankInType": 1
+		},
+		{
+			"rankInAll": 20,
+			"name": "北京师范大学",
+			"rankInProvince": 4,
+			"type": "师范",
+			"rankInType": 1
+		},
+		{
+			"rankInAll": 21,
+			"name": "厦门大学",
+			"rankInProvince": 1,
+			"type": "综合",
+			"rankInType": 11
+		},
+		{
+			"rankInAll": 22,
+			"name": "同济大学",
+			"rankInProvince": 3,
+			"type": "理工",
+			"rankInType": 9
+		},
+		{
+			"rankInAll": 23,
+			"name": "大连理工大学",
+			"rankInProvince": 1,
+			"type": "理工",
+			"rankInType": 10
+		},
+		{
+			"rankInAll": 24,
+			"name": "天津大学",
+			"rankInProvince": 2,
+			"type": "理工",
+			"rankInType": 11
+		},
+		{
+			"rankInAll": 25,
+			"name": "华东师范大学",
+			"rankInProvince": 4,
+			"type": "师范",
+			"rankInType": 2
+		},
+		{
+			"rankInAll": 26,
+			"name": "北京航空航天大学",
+			"rankInProvince": 5,
+			"type": "理工",
+			"rankInType": 12
+		},
+		{
+			"rankInAll": 27,
+			"name": "华南理工大学",
+			"rankInProvince": 2,
+			"type": "理工",
+			"rankInType": 13
+		},
+		{
+			"rankInAll": 28,
+			"name": "北京理工大学",
+			"rankInProvince": 6,
+			"type": "理工",
+			"rankInType": 14
+		},
+		{
+			"rankInAll": 29,
+			"name": "中国农业大学",
+			"rankInProvince": 7,
+			"type": "农林",
+			"rankInType": 1
+		},
+		{
+			"rankInAll": 30,
+			"name": "西北工业大学",
+			"rankInProvince": 2,
+			"type": "理工",
+			"rankInType": 15
+		},
+		{
+			"rankInAll": 31,
+			"name": "重庆大学",
+			"rankInProvince": 1,
+			"type": "理工",
+			"rankInType": 16
+		},
+		{
+			"rankInAll": 32,
+			"name": "湖南大学",
+			"rankInProvince": 2,
+			"type": "理工",
+			"rankInType": 17
+		},
+		{
+			"rankInAll": 33,
+			"name": "兰州大学",
+			"rankInProvince": 1,
+			"type": "综合",
+			"rankInType": 12
+		},
+		{
+			"rankInAll": 34,
+			"name": "北京交通大学",
+			"rankInProvince": 8,
+			"type": "理工",
+			"rankInType": 18
+		},
+		{
+			"rankInAll": 35,
+			"name": "电子科技大学",
+			"rankInProvince": 2,
+			"type": "理工",
+			"rankInType": 19
+		},
+		{
+			"rankInAll": 36,
+			"name": "西南交通大学",
+			"rankInProvince": 3,
+			"type": "理工",
+			"rankInType": 20
+		},
+		{
+			"rankInAll": 37,
+			"name": "武汉理工大学",
+			"rankInProvince": 3,
+			"type": "理工",
+			"rankInType": 21
+		},
+		{
+			"rankInAll": 38,
+			"name": "东北大学",
+			"rankInProvince": 2,
+			"type": "理工",
+			"rankInType": 22
+		},
+		{
+			"rankInAll": 39,
+			"name": "华中师范大学",
+			"rankInProvince": 4,
+			"type": "师范",
+			"rankInType": 3
+		},
+		{
+			"rankInAll": 40,
+			"name": "东北师范大学",
+			"rankInProvince": 2,
+			"type": "师范",
+			"rankInType": 4
+		},
+		{
+			"rankInAll": 41,
+			"name": "苏州大学",
+			"rankInProvince": 3,
+			"type": "综合",
+			"rankInType": 13
+		},
+		{
+			"rankInAll": 42,
+			"name": "西南大学",
+			"rankInProvince": 2,
+			"type": "综合",
+			"rankInType": 14
+		},
+		{
+			"rankInAll": 43,
+			"name": "郑州大学",
+			"rankInProvince": 1,
+			"type": "综合",
+			"rankInType": 15
+		},
+		{
+			"rankInAll": 44,
+			"name": "华中农业大学",
+			"rankInProvince": 5,
+			"type": "农林",
+			"rankInType": 2
+		},
+		{
+			"rankInAll": 45,
+			"name": "西安电子科技大学",
+			"rankInProvince": 3,
+			"type": "理工",
+			"rankInType": 23
+		},
+		{
+			"rankInAll": 46,
+			"name": "华东理工大学",
+			"rankInProvince": 5,
+			"type": "理工",
+			"rankInType": 24
+		},
+		{
+			"rankInAll": 47,
+			"name": "南京师范大学",
+			"rankInProvince": 4,
+			"type": "师范",
+			"rankInType": 5
+		},
+		{
+			"rankInAll": 48,
+			"name": "中国海洋大学",
+			"rankInProvince": 2,
+			"type": "理工",
+			"rankInType": 25
+		},
+		{
+			"rankInAll": 49,
+			"name": "南京农业大学",
+			"rankInProvince": 5,
+			"type": "农林",
+			"rankInType": 3
+		},
+		{
+			"rankInAll": 50,
+			"name": "南京航空航天大学",
+			"rankInProvince": 6,
+			"type": "理工",
+			"rankInType": 26
+		},
+		{
+			"rankInAll": 51,
+			"name": "陕西师范大学",
+			"rankInProvince": 4,
+			"type": "师范",
+			"rankInType": 6
+		},
+		{
+			"rankInAll": 52,
+			"name": "北京科技大学",
+			"rankInProvince": 9,
+			"type": "理工",
+			"rankInType": 27
+		},
+		{
+			"rankInAll": 53,
+			"name": "西北大学",
+			"rankInProvince": 5,
+			"type": "综合",
+			"rankInType": 16
+		},
+		{
+			"rankInAll": 54,
+			"name": "上海大学",
+			"rankInProvince": 6,
+			"type": "综合",
+			"rankInType": 17
+		},
+		{
+			"rankInAll": 55,
+			"name": "南京理工大学",
+			"rankInProvince": 7,
+			"type": "理工",
+			"rankInType": 28
+		},
+		{
+			"rankInAll": 56,
+			"name": "北京工业大学",
+			"rankInProvince": 10,
+			"type": "理工",
+			"rankInType": 29
+		},
+		{
+			"rankInAll": 57,
+			"name": "北京协和医学院",
+			"rankInProvince": 11,
+			"type": "医药",
+			"rankInType": 1
+		},
+		{
+			"rankInAll": 58,
+			"name": "首都医科大学",
+			"rankInProvince": 12,
+			"type": "医药",
+			"rankInType": 2
+		},
+		{
+			"rankInAll": 59,
+			"name": "江南大学",
+			"rankInProvince": 8,
+			"type": "综合",
+			"rankInType": 18
+		},
+		{
+			"rankInAll": 60,
+			"name": "哈尔滨工程大学",
+			"rankInProvince": 2,
+			"type": "理工",
+			"rankInType": 30
+		},
+		{
+			"rankInAll": 61,
+			"name": "湖南师范大学",
+			"rankInProvince": 3,
+			"type": "师范",
+			"rankInType": 7
+		},
+		{
+			"rankInAll": 62,
+			"name": "河海大学",
+			"rankInProvince": 9,
+			"type": "理工",
+			"rankInType": 31
+		},
+		{
+			"rankInAll": 63,
+			"name": "云南大学",
+			"rankInProvince": 1,
+			"type": "综合",
+			"rankInType": 19
+		},
+		{
+			"rankInAll": 64,
+			"name": "浙江工业大学",
+			"rankInProvince": 2,
+			"type": "理工",
+			"rankInType": 32
+		},
+		{
+			"rankInAll": 65,
+			"name": "北京邮电大学",
+			"rankInProvince": 13,
+			"type": "理工",
+			"rankInType": 33
+		},
+		{
+			"rankInAll": 66,
+			"name": "中国政法大学",
+			"rankInProvince": 14,
+			"type": "文法",
+			"rankInType": 2
+		},
+		{
+			"rankInAll": 67,
+			"name": "首都师范大学",
+			"rankInProvince": 15,
+			"type": "师范",
+			"rankInType": 8
+		},
+		{
+			"rankInAll": 68,
+			"name": "燕山大学",
+			"rankInProvince": 1,
+			"type": "理工",
+			"rankInType": 34
+		},
+		{
+			"rankInAll": 69,
+			"name": "西北农林科技大学",
+			"rankInProvince": 6,
+			"type": "农林",
+			"rankInType": 4
+		},
+		{
+			"rankInAll": 70,
+			"name": "北京语言大学",
+			"rankInProvince": 16,
+			"type": "文法",
+			"rankInType": 3
+		},
+		{
+			"rankInAll": 70,
+			"name": "中央财经大学",
+			"rankInProvince": 16,
+			"type": "财经",
+			"rankInType": 1
+		},
+		{
+			"rankInAll": 72,
+			"name": "华南师范大学",
+			"rankInProvince": 3,
+			"type": "师范",
+			"rankInType": 9
+		},
+		{
+			"rankInAll": 73,
+			"name": "北京化工大学",
+			"rankInProvince": 18,
+			"type": "理工",
+			"rankInType": 35
+		},
+		{
+			"rankInAll": 74,
+			"name": "中央民族大学",
+			"rankInProvince": 19,
+			"type": "民族",
+			"rankInType": 1
+		},
+		{
+			"rankInAll": 75,
+			"name": "暨南大学",
+			"rankInProvince": 4,
+			"type": "综合",
+			"rankInType": 20
+		},
+		{
+			"rankInAll": 76,
+			"name": "河南大学",
+			"rankInProvince": 2,
+			"type": "综合",
+			"rankInType": 21
+		},
+		{
+			"rankInAll": 77,
+			"name": "合肥工业大学",
+			"rankInProvince": 2,
+			"type": "理工",
+			"rankInType": 36
+		},
+		{
+			"rankInAll": 78,
+			"name": "南昌大学",
+			"rankInProvince": 1,
+			"type": "综合",
+			"rankInType": 22
+		},
+		{
+			"rankInAll": 79,
+			"name": "南方医科大学",
+			"rankInProvince": 5,
+			"type": "医药",
+			"rankInType": 3
+		},
+		{
+			"rankInAll": 80,
+			"name": "东华大学",
+			"rankInProvince": 7,
+			"type": "理工",
+			"rankInType": 37
+		},
+		{
+			"rankInAll": 81,
+			"name": "上海财经大学",
+			"rankInProvince": 8,
+			"type": "财经",
+			"rankInType": 2
+		},
+		{
+			"rankInAll": 82,
+			"name": "中国矿业大学",
+			"rankInProvince": 10,
+			"type": "理工",
+			"rankInType": 38
+		},
+		{
+			"rankInAll": 83,
+			"name": "广西大学",
+			"rankInProvince": 1,
+			"type": "综合",
+			"rankInType": 23
+		},
+		{
+			"rankInAll": 84,
+			"name": "浙江师范大学",
+			"rankInProvince": 3,
+			"type": "师范",
+			"rankInType": 10
+		},
+		{
+			"rankInAll": 85,
+			"name": "扬州大学",
+			"rankInProvince": 11,
+			"type": "综合",
+			"rankInType": 24
+		},
+		{
+			"rankInAll": 86,
+			"name": "湘潭大学",
+			"rankInProvince": 4,
+			"type": "综合",
+			"rankInType": 25
+		},
+		{
+			"rankInAll": 87,
+			"name": "上海中医药大学",
+			"rankInProvince": 9,
+			"type": "医药",
+			"rankInType": 4
+		},
+		{
+			"rankInAll": 88,
+			"name": "华南农业大学",
+			"rankInProvince": 6,
+			"type": "农林",
+			"rankInType": 5
+		},
+		{
+			"rankInAll": 89,
+			"name": "江苏大学",
+			"rankInProvince": 12,
+			"type": "综合",
+			"rankInType": 26
+		},
+		{
+			"rankInAll": 90,
+			"name": "中国矿业大学(北京)",
+			"rankInProvince": 20,
+			"type": "理工",
+			"rankInType": 39
+		},
+		{
+			"rankInAll": 91,
+			"name": "福州大学",
+			"rankInProvince": 2,
+			"type": "综合",
+			"rankInType": 27
+		},
+		{
+			"rankInAll": 92,
+			"name": "天津医科大学",
+			"rankInProvince": 3,
+			"type": "医药",
+			"rankInType": 5
+		},
+		{
+			"rankInAll": 93,
+			"name": "南京工业大学",
+			"rankInProvince": 13,
+			"type": "理工",
+			"rankInType": 40
+		},
+		{
+			"rankInAll": 94,
+			"name": "中国石油大学(北京)",
+			"rankInProvince": 21,
+			"type": "理工",
+			"rankInType": 41
+		},
+		{
+			"rankInAll": 95,
+			"name": "中国石油大学(华东)",
+			"rankInProvince": 3,
+			"type": "理工",
+			"rankInType": 42
+		},
+		{
+			"rankInAll": 96,
+			"name": "中国医科大学",
+			"rankInProvince": 3,
+			"type": "医药",
+			"rankInType": 6
+		},
+		{
+			"rankInAll": 97,
+			"name": "哈尔滨医科大学",
+			"rankInProvince": 3,
+			"type": "医药",
+			"rankInType": 7
+		},
+		{
+			"rankInAll": 98,
+			"name": "中国地质大学(武汉)",
+			"rankInProvince": 6,
+			"type": "理工",
+			"rankInType": 43
+		},
+		{
+			"rankInAll": 99,
+			"name": "宁波大学",
+			"rankInProvince": 4,
+			"type": "综合",
+			"rankInType": 28
+		},
+		{
+			"rankInAll": 100,
+			"name": "北京林业大学",
+			"rankInProvince": 22,
+			"type": "农林",
+			"rankInType": 6
+		},
+		{
+			"rankInAll": 101,
+			"name": "长安大学",
+			"rankInProvince": 7,
+			"type": "理工",
+			"rankInType": 44
+		},
+		{
+			"rankInAll": 102,
+			"name": "内蒙古大学",
+			"rankInProvince": 1,
+			"type": "综合",
+			"rankInType": 29
+		},
+		{
+			"rankInAll": 103,
+			"name": "上海师范大学",
+			"rankInProvince": 10,
+			"type": "师范",
+			"rankInType": 11
+		},
+		{
+			"rankInAll": 104,
+			"name": "河北大学",
+			"rankInProvince": 2,
+			"type": "综合",
+			"rankInType": 30
+		},
+		{
+			"rankInAll": 105,
+			"name": "山西大学",
+			"rankInProvince": 1,
+			"type": "综合",
+			"rankInType": 31
+		},
+		{
+			"rankInAll": 105,
+			"name": "西安建筑科技大学",
+			"rankInProvince": 8,
+			"type": "理工",
+			"rankInType": 45
+		},
+		{
+			"rankInAll": 107,
+			"name": "北京中医药大学",
+			"rankInProvince": 23,
+			"type": "医药",
+			"rankInType": 8
+		},
+		{
+			"rankInAll": 107,
+			"name": "华北电力大学",
+			"rankInProvince": 23,
+			"type": "理工",
+			"rankInType": 46
+		},
+		{
+			"rankInAll": 109,
+			"name": "福建师范大学",
+			"rankInProvince": 3,
+			"type": "师范",
+			"rankInType": 12
+		},
+		{
+			"rankInAll": 110,
+			"name": "中国地质大学(北京)",
+			"rankInProvince": 25,
+			"type": "理工",
+			"rankInType": 47
+		},
+		{
+			"rankInAll": 111,
+			"name": "安徽大学",
+			"rankInProvince": 3,
+			"type": "综合",
+			"rankInType": 32
+		},
+		{
+			"rankInAll": 112,
+			"name": "昆明理工大学",
+			"rankInProvince": 2,
+			"type": "理工",
+			"rankInType": 48
+		},
+		{
+			"rankInAll": 113,
+			"name": "中南财经政法大学",
+			"rankInProvince": 7,
+			"type": "财经",
+			"rankInType": 3
+		},
+		{
+			"rankInAll": 114,
+			"name": "南京医科大学",
+			"rankInProvince": 14,
+			"type": "医药",
+			"rankInType": 9
+		},
+		{
+			"rankInAll": 115,
+			"name": "海南大学",
+			"rankInProvince": 1,
+			"type": "综合",
+			"rankInType": 33
+		},
+		{
+			"rankInAll": 116,
+			"name": "河南师范大学",
+			"rankInProvince": 3,
+			"type": "师范",
+			"rankInType": 13
+		},
+		{
+			"rankInAll": 117,
+			"name": "太原理工大学",
+			"rankInProvince": 2,
+			"type": "理工",
+			"rankInType": 49
+		},
+		{
+			"rankInAll": 117,
+			"name": "黑龙江大学",
+			"rankInProvince": 4,
+			"type": "综合",
+			"rankInType": 34
+		},
+		{
+			"rankInAll": 119,
+			"name": "山东师范大学",
+			"rankInProvince": 4,
+			"type": "师范",
+			"rankInType": 14
+		},
+		{
+			"rankInAll": 120,
+			"name": "深圳大学",
+			"rankInProvince": 7,
+			"type": "综合",
+			"rankInType": 35
+		},
+		{
+			"rankInAll": 121,
+			"name": "青岛大学",
+			"rankInProvince": 5,
+			"type": "综合",
+			"rankInType": 36
+		},
+		{
+			"rankInAll": 122,
+			"name": "东北财经大学",
+			"rankInProvince": 4,
+			"type": "财经",
+			"rankInType": 4
+		},
+		{
+			"rankInAll": 123,
+			"name": "中国传媒大学",
+			"rankInProvince": 26,
+			"type": "文法",
+			"rankInType": 4
+		},
+		{
+			"rankInAll": 124,
+			"name": "山东科技大学",
+			"rankInProvince": 6,
+			"type": "理工",
+			"rankInType": 50
+		},
+		{
+			"rankInAll": 125,
+			"name": "辽宁大学",
+			"rankInProvince": 5,
+			"type": "综合",
+			"rankInType": 37
+		},
+		{
+			"rankInAll": 126,
+			"name": "西南财经大学",
+			"rankInProvince": 4,
+			"type": "财经",
+			"rankInType": 5
+		},
+		{
+			"rankInAll": 127,
+			"name": "长沙理工大学",
+			"rankInProvince": 5,
+			"type": "理工",
+			"rankInType": 51
+		},
+		{
+			"rankInAll": 128,
+			"name": "山东农业大学",
+			"rankInProvince": 7,
+			"type": "农林",
+			"rankInType": 7
+		},
+		{
+			"rankInAll": 129,
+			"name": "四川师范大学",
+			"rankInProvince": 5,
+			"type": "师范",
+			"rankInType": 15
+		},
+		{
+			"rankInAll": 130,
+			"name": "云南师范大学",
+			"rankInProvince": 3,
+			"type": "师范",
+			"rankInType": 16
+		},
+		{
+			"rankInAll": 131,
+			"name": "安徽师范大学",
+			"rankInProvince": 4,
+			"type": "师范",
+			"rankInType": 17
+		},
+		{
+			"rankInAll": 132,
+			"name": "广州大学",
+			"rankInProvince": 8,
+			"type": "综合",
+			"rankInType": 38
+		},
+		{
+			"rankInAll": 133,
+			"name": "西北师范大学",
+			"rankInProvince": 2,
+			"type": "师范",
+			"rankInType": 18
+		},
+		{
+			"rankInAll": 133,
+			"name": "对外经济贸易大学",
+			"rankInProvince": 27,
+			"type": "财经",
+			"rankInType": 6
+		},
+		{
+			"rankInAll": 135,
+			"name": "南京邮电大学",
+			"rankInProvince": 15,
+			"type": "理工",
+			"rankInType": 52
+		},
+		{
+			"rankInAll": 136,
+			"name": "天津师范大学",
+			"rankInProvince": 4,
+			"type": "师范",
+			"rankInType": 19
+		},
+		{
+			"rankInAll": 137,
+			"name": "西安理工大学",
+			"rankInProvince": 9,
+			"type": "理工",
+			"rankInType": 53
+		},
+		{
+			"rankInAll": 138,
+			"name": "贵州大学",
+			"rankInProvince": 1,
+			"type": "综合",
+			"rankInType": 39
+		},
+		{
+			"rankInAll": 139,
+			"name": "广东工业大学",
+			"rankInProvince": 9,
+			"type": "理工",
+			"rankInType": 54
+		},
+		{
+			"rankInAll": 140,
+			"name": "东北农业大学",
+			"rankInProvince": 5,
+			"type": "农林",
+			"rankInType": 8
+		},
+		{
+			"rankInAll": 141,
+			"name": "杭州电子科技大学",
+			"rankInProvince": 5,
+			"type": "理工",
+			"rankInType": 55
+		},
+		{
+			"rankInAll": 142,
+			"name": "华东政法大学",
+			"rankInProvince": 11,
+			"type": "文法",
+			"rankInType": 5
+		},
+		{
+			"rankInAll": 143,
+			"name": "福建农林大学",
+			"rankInProvince": 4,
+			"type": "农林",
+			"rankInType": 9
+		},
+		{
+			"rankInAll": 144,
+			"name": "河北工业大学",
+			"rankInProvince": 3,
+			"type": "理工",
+			"rankInType": 56
+		},
+		{
+			"rankInAll": 145,
+			"name": "重庆医科大学",
+			"rankInProvince": 3,
+			"type": "医药",
+			"rankInType": 10
+		},
+		{
+			"rankInAll": 146,
+			"name": "延边大学",
+			"rankInProvince": 3,
+			"type": "综合",
+			"rankInType": 40
+		},
+		{
+			"rankInAll": 147,
+			"name": "北京外国语大学",
+			"rankInProvince": 28,
+			"type": "文法",
+			"rankInType": 6
+		},
+		{
+			"rankInAll": 148,
+			"name": "上海外国语大学",
+			"rankInProvince": 12,
+			"type": "文法",
+			"rankInType": 7
+		},
+		{
+			"rankInAll": 149,
+			"name": "广西师范大学",
+			"rankInProvince": 2,
+			"type": "师范",
+			"rankInType": 20
+		},
+		{
+			"rankInAll": 150,
+			"name": "河北农业大学",
+			"rankInProvince": 4,
+			"type": "农林",
+			"rankInType": 10
+		},
+		{
+			"rankInAll": 151,
+			"name": "河北师范大学",
+			"rankInProvince": 5,
+			"type": "师范",
+			"rankInType": 21
+		},
+		{
+			"rankInAll": 152,
+			"name": "新疆大学",
+			"rankInProvince": 1,
+			"type": "综合",
+			"rankInType": 41
+		},
+		{
+			"rankInAll": 153,
+			"name": "成都理工大学",
+			"rankInProvince": 6,
+			"type": "理工",
+			"rankInType": 57
+		},
+		{
+			"rankInAll": 154,
+			"name": "南京林业大学",
+			"rankInProvince": 16,
+			"type": "农林",
+			"rankInType": 11
+		},
+		{
+			"rankInAll": 155,
+			"name": "中国药科大学",
+			"rankInProvince": 17,
+			"type": "医药",
+			"rankInType": 11
+		},
+		{
+			"rankInAll": 156,
+			"name": "长春理工大学",
+			"rankInProvince": 4,
+			"type": "理工",
+			"rankInType": 58
+		},
+		{
+			"rankInAll": 157,
+			"name": "大连海事大学",
+			"rankInProvince": 6,
+			"type": "理工",
+			"rankInType": 59
+		},
+		{
+			"rankInAll": 157,
+			"name": "河南理工大学",
+			"rankInProvince": 4,
+			"type": "理工",
+			"rankInType": 59
+		},
+		{
+			"rankInAll": 159,
+			"name": "汕头大学",
+			"rankInProvince": 10,
+			"type": "综合",
+			"rankInType": 42
+		},
+		{
+			"rankInAll": 160,
+			"name": "重庆邮电大学",
+			"rankInProvince": 4,
+			"type": "理工",
+			"rankInType": 61
+		},
+		{
+			"rankInAll": 161,
+			"name": "东北林业大学",
+			"rankInProvince": 6,
+			"type": "农林",
+			"rankInType": 12
+		},
+		{
+			"rankInAll": 162,
+			"name": "广州中医药大学",
+			"rankInProvince": 11,
+			"type": "医药",
+			"rankInType": 12
+		},
+		{
+			"rankInAll": 163,
+			"name": "济南大学",
+			"rankInProvince": 8,
+			"type": "综合",
+			"rankInType": 43
+		},
+		{
+			"rankInAll": 164,
+			"name": "浙江理工大学",
+			"rankInProvince": 6,
+			"type": "理工",
+			"rankInType": 62
+		},
+		{
+			"rankInAll": 164,
+			"name": "武汉科技大学",
+			"rankInProvince": 8,
+			"type": "理工",
+			"rankInType": 62
+		},
+		{
+			"rankInAll": 164,
+			"name": "石河子大学",
+			"rankInProvince": 2,
+			"type": "综合",
+			"rankInType": 44
+		},
+		{
+			"rankInAll": 167,
+			"name": "中北大学",
+			"rankInProvince": 3,
+			"type": "理工",
+			"rankInType": 64
+		},
+		{
+			"rankInAll": 167,
+			"name": "湖南农业大学",
+			"rankInProvince": 6,
+			"type": "农林",
+			"rankInType": 13
+		},
+		{
+			"rankInAll": 169,
+			"name": "上海理工大学",
+			"rankInProvince": 13,
+			"type": "理工",
+			"rankInType": 65
+		},
+		{
+			"rankInAll": 170,
+			"name": "南京信息工程大学",
+			"rankInProvince": 18,
+			"type": "理工",
+			"rankInType": 66
+		},
+		{
+			"rankInAll": 171,
+			"name": "西南政法大学",
+			"rankInProvince": 5,
+			"type": "文法",
+			"rankInType": 8
+		},
+		{
+			"rankInAll": 172,
+			"name": "湖北大学",
+			"rankInProvince": 9,
+			"type": "综合",
+			"rankInType": 45
+		},
+		{
+			"rankInAll": 173,
+			"name": "华侨大学",
+			"rankInProvince": 5,
+			"type": "综合",
+			"rankInType": 46
+		},
+		{
+			"rankInAll": 174,
+			"name": "首都经济贸易大学",
+			"rankInProvince": 29,
+			"type": "财经",
+			"rankInType": 7
+		},
+		{
+			"rankInAll": 175,
+			"name": "青岛科技大学",
+			"rankInProvince": 9,
+			"type": "理工",
+			"rankInType": 67
+		},
+		{
+			"rankInAll": 176,
+			"name": "兰州交通大学",
+			"rankInProvince": 3,
+			"type": "理工",
+			"rankInType": 68
+		},
+		{
+			"rankInAll": 177,
+			"name": "西南石油大学",
+			"rankInProvince": 7,
+			"type": "理工",
+			"rankInType": 69
+		},
+		{
+			"rankInAll": 178,
+			"name": "浙江工商大学",
+			"rankInProvince": 7,
+			"type": "财经",
+			"rankInType": 8
+		},
+		{
+			"rankInAll": 179,
+			"name": "中国计量学院",
+			"rankInProvince": 8,
+			"type": "理工",
+			"rankInType": 70
+		},
+		{
+			"rankInAll": 180,
+			"name": "湖南科技大学",
+			"rankInProvince": 7,
+			"type": "理工",
+			"rankInType": 71
+		},
+		{
+			"rankInAll": 181,
+			"name": "河南农业大学",
+			"rankInProvince": 5,
+			"type": "农林",
+			"rankInType": 14
+		},
+		{
+			"rankInAll": 182,
+			"name": "中央音乐学院",
+			"rankInProvince": 30,
+			"type": "艺术",
+			"rankInType": 1
+		},
+		{
+			"rankInAll": 183,
+			"name": "长江大学",
+			"rankInProvince": 10,
+			"type": "综合",
+			"rankInType": 47
+		},
+		{
+			"rankInAll": 184,
+			"name": "重庆交通大学",
+			"rankInProvince": 6,
+			"type": "理工",
+			"rankInType": 72
+		},
+		{
+			"rankInAll": 185,
+			"name": "南京中医药大学",
+			"rankInProvince": 19,
+			"type": "医药",
+			"rankInType": 13
+		},
+		{
+			"rankInAll": 186,
+			"name": "温州医科大学",
+			"rankInProvince": 9,
+			"type": "医药",
+			"rankInType": 14
+		},
+		{
+			"rankInAll": 187,
+			"name": "江西师范大学",
+			"rankInProvince": 2,
+			"type": "师范",
+			"rankInType": 22
+		},
+		{
+			"rankInAll": 187,
+			"name": "河南科技大学",
+			"rankInProvince": 6,
+			"type": "理工",
+			"rankInType": 73
+		},
+		{
+			"rankInAll": 189,
+			"name": "江西财经大学",
+			"rankInProvince": 3,
+			"type": "财经",
+			"rankInType": 9
+		},
+		{
+			"rankInAll": 190,
+			"name": "天津科技大学",
+			"rankInProvince": 5,
+			"type": "理工",
+			"rankInType": 74
+		},
+		{
+			"rankInAll": 191,
+			"name": "哈尔滨理工大学",
+			"rankInProvince": 7,
+			"type": "理工",
+			"rankInType": 75
+		},
+		{
+			"rankInAll": 192,
+			"name": "三峡大学",
+			"rankInProvince": 11,
+			"type": "综合",
+			"rankInType": 48
+		},
+		{
+			"rankInAll": 193,
+			"name": "山东理工大学",
+			"rankInProvince": 10,
+			"type": "理工",
+			"rankInType": 76
+		},
+		{
+			"rankInAll": 194,
+			"name": "沈阳工业大学",
+			"rankInProvince": 7,
+			"type": "理工",
+			"rankInType": 77
+		},
+		{
+			"rankInAll": 195,
+			"name": "哈尔滨师范大学",
+			"rankInProvince": 8,
+			"type": "师范",
+			"rankInType": 23
+		},
+		{
+			"rankInAll": 196,
+			"name": "四川农业大学",
+			"rankInProvince": 8,
+			"type": "农林",
+			"rankInType": 15
+		},
+		{
+			"rankInAll": 197,
+			"name": "辽宁师范大学",
+			"rankInProvince": 8,
+			"type": "师范",
+			"rankInType": 24
+		},
+		{
+			"rankInAll": 198,
+			"name": "成都中医药大学",
+			"rankInProvince": 9,
+			"type": "医药",
+			"rankInType": 15
+		},
+		{
+			"rankInAll": 199,
+			"name": "南通大学",
+			"rankInProvince": 20,
+			"type": "综合",
+			"rankInType": 49
+		},
+		{
+			"rankInAll": 200,
+			"name": "外交学院",
+			"rankInProvince": 31,
+			"type": "文法",
+			"rankInType": 9
+		},
+		{
+			"rankInAll": 201,
+			"name": "安徽医科大学",
+			"rankInProvince": 5,
+			"type": "医药",
+			"rankInType": 16
+		},
+		{
+			"rankInAll": 202,
+			"name": "烟台大学",
+			"rankInProvince": 11,
+			"type": "综合",
+			"rankInType": 50
+		},
+		{
+			"rankInAll": 203,
+			"name": "黑龙江中医药大学",
+			"rankInProvince": 9,
+			"type": "医药",
+			"rankInType": 17
+		},
+		{
+			"rankInAll": 204,
+			"name": "大连医科大学",
+			"rankInProvince": 9,
+			"type": "医药",
+			"rankInType": 18
+		},
+		{
+			"rankInAll": 205,
+			"name": "天津中医药大学",
+			"rankInProvince": 6,
+			"type": "医药",
+			"rankInType": 19
+		},
+		{
+			"rankInAll": 206,
+			"name": "江苏师范大学",
+			"rankInProvince": 21,
+			"type": "师范",
+			"rankInType": 25
+		},
+		{
+			"rankInAll": 207,
+			"name": "浙江中医药大学",
+			"rankInProvince": 10,
+			"type": "医药",
+			"rankInType": 20
+		},
+		{
+			"rankInAll": 208,
+			"name": "西南科技大学",
+			"rankInProvince": 10,
+			"type": "理工",
+			"rankInType": 78
+		},
+		{
+			"rankInAll": 208,
+			"name": "北京体育大学",
+			"rankInProvince": 32,
+			"type": "体育",
+			"rankInType": 1
+		},
+		{
+			"rankInAll": 210,
+			"name": "广东外语外贸大学",
+			"rankInProvince": 12,
+			"type": "文法",
+			"rankInType": 10
+		},
+		{
+			"rankInAll": 211,
+			"name": "北京工商大学",
+			"rankInProvince": 33,
+			"type": "财经",
+			"rankInType": 10
+		},
+		{
+			"rankInAll": 212,
+			"name": "中南民族大学",
+			"rankInProvince": 12,
+			"type": "民族",
+			"rankInType": 2
+		},
+		{
+			"rankInAll": 213,
+			"name": "沈阳药科大学",
+			"rankInProvince": 10,
+			"type": "医药",
+			"rankInType": 21
+		},
+		{
+			"rankInAll": 214,
+			"name": "内蒙古农业大学",
+			"rankInProvince": 2,
+			"type": "农林",
+			"rankInType": 16
+		},
+		{
+			"rankInAll": 215,
+			"name": "辽宁工程技术大学",
+			"rankInProvince": 11,
+			"type": "理工",
+			"rankInType": 79
+		},
+		{
+			"rankInAll": 216,
+			"name": "天津工业大学",
+			"rankInProvince": 7,
+			"type": "理工",
+			"rankInType": 80
+		},
+		{
+			"rankInAll": 217,
+			"name": "河北医科大学",
+			"rankInProvince": 6,
+			"type": "医药",
+			"rankInType": 22
+		},
+		{
+			"rankInAll": 218,
+			"name": "兰州理工大学",
+			"rankInProvince": 4,
+			"type": "理工",
+			"rankInType": 81
+		},
+		{
+			"rankInAll": 219,
+			"name": "杭州师范大学",
+			"rankInProvince": 11,
+			"type": "师范",
+			"rankInType": 26
+		},
+		{
+			"rankInAll": 219,
+			"name": "曲阜师范大学",
+			"rankInProvince": 12,
+			"type": "师范",
+			"rankInType": 26
+		},
+		{
+			"rankInAll": 219,
+			"name": "桂林电子科技大学",
+			"rankInProvince": 3,
+			"type": "理工",
+			"rankInType": 82
+		},
+		{
+			"rankInAll": 222,
+			"name": "沈阳农业大学",
+			"rankInProvince": 12,
+			"type": "农林",
+			"rankInType": 17
+		},
+		{
+			"rankInAll": 223,
+			"name": "广西医科大学",
+			"rankInProvince": 4,
+			"type": "医药",
+			"rankInType": 23
+		},
+		{
+			"rankInAll": 224,
+			"name": "安徽农业大学",
+			"rankInProvince": 6,
+			"type": "农林",
+			"rankInType": 18
+		},
+		{
+			"rankInAll": 225,
+			"name": "武汉工程大学",
+			"rankInProvince": 13,
+			"type": "理工",
+			"rankInType": 83
+		},
+		{
+			"rankInAll": 226,
+			"name": "天津财经大学",
+			"rankInProvince": 8,
+			"type": "财经",
+			"rankInType": 11
+		},
+		{
+			"rankInAll": 227,
+			"name": "中国音乐学院",
+			"rankInProvince": 34,
+			"type": "艺术",
+			"rankInType": 2
+		},
+		{
+			"rankInAll": 228,
+			"name": "温州大学",
+			"rankInProvince": 12,
+			"type": "综合",
+			"rankInType": 51
+		},
+		{
+			"rankInAll": 229,
+			"name": "西安科技大学",
+			"rankInProvince": 10,
+			"type": "理工",
+			"rankInType": 84
+		},
+		{
+			"rankInAll": 230,
+			"name": "新疆医科大学",
+			"rankInProvince": 3,
+			"type": "医药",
+			"rankInType": 24
+		},
+		{
+			"rankInAll": 231,
+			"name": "河南工业大学",
+			"rankInProvince": 7,
+			"type": "理工",
+			"rankInType": 85
+		},
+		{
+			"rankInAll": 232,
+			"name": "集美大学",
+			"rankInProvince": 6,
+			"type": "综合",
+			"rankInType": 52
+		},
+		{
+			"rankInAll": 233,
+			"name": "青海大学",
+			"rankInProvince": 1,
+			"type": "综合",
+			"rankInType": 53
+		},
+		{
+			"rankInAll": 234,
+			"name": "吉林农业大学",
+			"rankInProvince": 5,
+			"type": "农林",
+			"rankInType": 19
+		},
+		{
+			"rankInAll": 235,
+			"name": "上海海事大学",
+			"rankInProvince": 14,
+			"type": "理工",
+			"rankInType": 86
+		},
+		{
+			"rankInAll": 236,
+			"name": "山西师范大学",
+			"rankInProvince": 4,
+			"type": "师范",
+			"rankInType": 28
+		},
+		{
+			"rankInAll": 237,
+			"name": "华北理工大学",
+			"rankInProvince": 7,
+			"type": "综合",
+			"rankInType": 54
+		},
+		{
+			"rankInAll": 238,
+			"name": "聊城大学",
+			"rankInProvince": 13,
+			"type": "师范",
+			"rankInType": 29
+		},
+		{
+			"rankInAll": 238,
+			"name": "陕西科技大学",
+			"rankInProvince": 11,
+			"type": "理工",
+			"rankInType": 87
+		},
+		{
+			"rankInAll": 240,
+			"name": "重庆工商大学",
+			"rankInProvince": 7,
+			"type": "财经",
+			"rankInType": 12
+		},
+		{
+			"rankInAll": 241,
+			"name": "中国人民公安大学",
+			"rankInProvince": 35,
+			"type": "文法",
+			"rankInType": 11
+		},
+		{
+			"rankInAll": 242,
+			"name": "青岛理工大学",
+			"rankInProvince": 14,
+			"type": "理工",
+			"rankInType": 88
+		},
+		{
+			"rankInAll": 243,
+			"name": "广西民族大学",
+			"rankInProvince": 5,
+			"type": "民族",
+			"rankInType": 3
+		},
+		{
+			"rankInAll": 244,
+			"name": "中央美术学院",
+			"rankInProvince": 36,
+			"type": "艺术",
+			"rankInType": 3
+		},
+		{
+			"rankInAll": 244,
+			"name": "广州医科大学",
+			"rankInProvince": 13,
+			"type": "医药",
+			"rankInType": 25
+		},
+		{
+			"rankInAll": 244,
+			"name": "宁夏大学",
+			"rankInProvince": 1,
+			"type": "综合",
+			"rankInType": 55
+		},
+		{
+			"rankInAll": 247,
+			"name": "中国美术学院",
+			"rankInProvince": 13,
+			"type": "艺术",
+			"rankInType": 4
+		},
+		{
+			"rankInAll": 248,
+			"name": "沈阳航空航天大学",
+			"rankInProvince": 13,
+			"type": "理工",
+			"rankInType": 89
+		},
+		{
+			"rankInAll": 249,
+			"name": "东北石油大学",
+			"rankInProvince": 10,
+			"type": "理工",
+			"rankInType": 90
+		},
+		{
+			"rankInAll": 250,
+			"name": "沈阳师范大学",
+			"rankInProvince": 14,
+			"type": "师范",
+			"rankInType": 30
+		},
+		{
+			"rankInAll": 251,
+			"name": "内蒙古师范大学",
+			"rankInProvince": 3,
+			"type": "师范",
+			"rankInType": 31
+		},
+		{
+			"rankInAll": 252,
+			"name": "吉首大学",
+			"rankInProvince": 8,
+			"type": "综合",
+			"rankInType": 56
+		},
+		{
+			"rankInAll": 253,
+			"name": "北华大学",
+			"rankInProvince": 6,
+			"type": "综合",
+			"rankInType": 57
+		},
+		{
+			"rankInAll": 253,
+			"name": "哈尔滨商业大学",
+			"rankInProvince": 11,
+			"type": "财经",
+			"rankInType": 13
+		},
+		{
+			"rankInAll": 255,
+			"name": "上海音乐学院",
+			"rankInProvince": 15,
+			"type": "艺术",
+			"rankInType": 5
+		},
+		{
+			"rankInAll": 256,
+			"name": "西华师范大学",
+			"rankInProvince": 11,
+			"type": "师范",
+			"rankInType": 32
+		},
+		{
+			"rankInAll": 257,
+			"name": "山东建筑大学",
+			"rankInProvince": 15,
+			"type": "理工",
+			"rankInType": 91
+		},
+		{
+			"rankInAll": 258,
+			"name": "甘肃农业大学",
+			"rankInProvince": 5,
+			"type": "农林",
+			"rankInType": 20
+		},
+		{
+			"rankInAll": 259,
+			"name": "南华大学",
+			"rankInProvince": 9,
+			"type": "理工",
+			"rankInType": 92
+		},
+		{
+			"rankInAll": 260,
+			"name": "长春工业大学",
+			"rankInProvince": 7,
+			"type": "理工",
+			"rankInType": 93
+		},
+		{
+			"rankInAll": 260,
+			"name": "桂林理工大学",
+			"rankInProvince": 6,
+			"type": "理工",
+			"rankInType": 93
+		},
+		{
+			"rankInAll": 260,
+			"name": "中南林业科技大学",
+			"rankInProvince": 10,
+			"type": "农林",
+			"rankInType": 21
+		},
+		{
+			"rankInAll": 263,
+			"name": "重庆理工大学",
+			"rankInProvince": 8,
+			"type": "理工",
+			"rankInType": 95
+		},
+		{
+			"rankInAll": 264,
+			"name": "浙江财经大学",
+			"rankInProvince": 14,
+			"type": "财经",
+			"rankInType": 14
+		},
+		{
+			"rankInAll": 265,
+			"name": "新疆师范大学",
+			"rankInProvince": 4,
+			"type": "师范",
+			"rankInType": 33
+		},
+		{
+			"rankInAll": 266,
+			"name": "北方工业大学",
+			"rankInProvince": 37,
+			"type": "理工",
+			"rankInType": 96
+		},
+		{
+			"rankInAll": 266,
+			"name": "上海体育学院",
+			"rankInProvince": 16,
+			"type": "体育",
+			"rankInType": 2
+		},
+		{
+			"rankInAll": 268,
+			"name": "天津理工大学",
+			"rankInProvince": 9,
+			"type": "理工",
+			"rankInType": 97
+		},
+		{
+			"rankInAll": 269,
+			"name": "天津体育学院",
+			"rankInProvince": 10,
+			"type": "体育",
+			"rankInType": 3
+		},
+		{
+			"rankInAll": 269,
+			"name": "北京联合大学",
+			"rankInProvince": 38,
+			"type": "综合",
+			"rankInType": 58
+		},
+		{
+			"rankInAll": 271,
+			"name": "南昌航空大学",
+			"rankInProvince": 4,
+			"type": "理工",
+			"rankInType": 98
+		},
+		{
+			"rankInAll": 272,
+			"name": "云南农业大学",
+			"rankInProvince": 4,
+			"type": "农林",
+			"rankInType": 22
+		},
+		{
+			"rankInAll": 273,
+			"name": "河北科技大学",
+			"rankInProvince": 8,
+			"type": "理工",
+			"rankInType": 99
+		},
+		{
+			"rankInAll": 273,
+			"name": "石家庄铁道大学",
+			"rankInProvince": 8,
+			"type": "理工",
+			"rankInType": 99
+		},
+		{
+			"rankInAll": 275,
+			"name": "山东中医药大学",
+			"rankInProvince": 16,
+			"type": "医药",
+			"rankInType": 26
+		},
+		{
+			"rankInAll": 276,
+			"name": "山西医科大学",
+			"rankInProvince": 5,
+			"type": "医药",
+			"rankInType": 27
+		},
+		{
+			"rankInAll": 277,
+			"name": "东北电力大学",
+			"rankInProvince": 8,
+			"type": "理工",
+			"rankInType": 101
+		},
+		{
+			"rankInAll": 277,
+			"name": "安徽理工大学",
+			"rankInProvince": 7,
+			"type": "理工",
+			"rankInType": 101
+		},
+		{
+			"rankInAll": 279,
+			"name": "大连大学",
+			"rankInProvince": 15,
+			"type": "综合",
+			"rankInType": 59
+		},
+		{
+			"rankInAll": 280,
+			"name": "重庆师范大学",
+			"rankInProvince": 9,
+			"type": "师范",
+			"rankInType": 34
+		},
+		{
+			"rankInAll": 280,
+			"name": "渤海大学",
+			"rankInProvince": 16,
+			"type": "综合",
+			"rankInType": 60
+		},
+		{
+			"rankInAll": 282,
+			"name": "南京财经大学",
+			"rankInProvince": 22,
+			"type": "财经",
+			"rankInType": 15
+		},
+		{
+			"rankInAll": 283,
+			"name": "安徽工业大学",
+			"rankInProvince": 8,
+			"type": "理工",
+			"rankInType": 103
+		},
+		{
+			"rankInAll": 284,
+			"name": "内蒙古工业大学",
+			"rankInProvince": 4,
+			"type": "理工",
+			"rankInType": 104
+		},
+		{
+			"rankInAll": 285,
+			"name": "山东财经大学",
+			"rankInProvince": 17,
+			"type": "财经",
+			"rankInType": 16
+		},
+		{
+			"rankInAll": 286,
+			"name": "中原工学院",
+			"rankInProvince": 8,
+			"type": "理工",
+			"rankInType": 105
+		},
+		{
+			"rankInAll": 286,
+			"name": "吉林师范大学",
+			"rankInProvince": 9,
+			"type": "师范",
+			"rankInType": 35
+		},
+		{
+			"rankInAll": 286,
+			"name": "新疆农业大学",
+			"rankInProvince": 5,
+			"type": "农林",
+			"rankInType": 23
+		},
+		{
+			"rankInAll": 289,
+			"name": "大连工业大学",
+			"rankInProvince": 17,
+			"type": "理工",
+			"rankInType": 106
+		},
+		{
+			"rankInAll": 290,
+			"name": "江苏科技大学",
+			"rankInProvince": 23,
+			"type": "理工",
+			"rankInType": 107
+		},
+		{
+			"rankInAll": 290,
+			"name": "首都体育学院",
+			"rankInProvince": 39,
+			"type": "体育",
+			"rankInType": 4
+		},
+		{
+			"rankInAll": 292,
+			"name": "沈阳建筑大学",
+			"rankInProvince": 18,
+			"type": "理工",
+			"rankInType": 108
+		},
+		{
+			"rankInAll": 293,
+			"name": "西安石油大学",
+			"rankInProvince": 12,
+			"type": "理工",
+			"rankInType": 109
+		},
+		{
+			"rankInAll": 293,
+			"name": "湖南工业大学",
+			"rankInProvince": 11,
+			"type": "理工",
+			"rankInType": 109
+		},
+		{
+			"rankInAll": 295,
+			"name": "上海戏剧学院",
+			"rankInProvince": 17,
+			"type": "艺术",
+			"rankInType": 6
+		},
+		{
+			"rankInAll": 296,
+			"name": "浙江农林大学",
+			"rankInProvince": 15,
+			"type": "农林",
+			"rankInType": 24
+		},
+		{
+			"rankInAll": 297,
+			"name": "山西财经大学",
+			"rankInProvince": 6,
+			"type": "财经",
+			"rankInType": 17
+		},
+		{
+			"rankInAll": 297,
+			"name": "北京信息科技大学",
+			"rankInProvince": 40,
+			"type": "理工",
+			"rankInType": 111
+		},
+		{
+			"rankInAll": 299,
+			"name": "河北经贸大学",
+			"rankInProvince": 10,
+			"type": "财经",
+			"rankInType": 18
+		},
+		{
+			"rankInAll": 300,
+			"name": "福建医科大学",
+			"rankInProvince": 7,
+			"type": "医药",
+			"rankInType": 28
+		},
+		{
+			"rankInAll": 301,
+			"name": "湖北工业大学",
+			"rankInProvince": 14,
+			"type": "理工",
+			"rankInType": 112
+		},
+		{
+			"rankInAll": 302,
+			"name": "上海海洋大学",
+			"rankInProvince": 18,
+			"type": "农林",
+			"rankInType": 25
+		},
+		{
+			"rankInAll": 303,
+			"name": "鲁东大学",
+			"rankInProvince": 18,
+			"type": "师范",
+			"rankInType": 36
+		},
+		{
+			"rankInAll": 303,
+			"name": "武汉纺织大学",
+			"rankInProvince": 15,
+			"type": "理工",
+			"rankInType": 113
+		},
+		{
+			"rankInAll": 305,
+			"name": "上海工程技术大学",
+			"rankInProvince": 19,
+			"type": "理工",
+			"rankInType": 114
+		},
+		{
+			"rankInAll": 306,
+			"name": "北京电影学院",
+			"rankInProvince": 41,
+			"type": "艺术",
+			"rankInType": 7
+		},
+		{
+			"rankInAll": 307,
+			"name": "四川美术学院",
+			"rankInProvince": 10,
+			"type": "艺术",
+			"rankInType": 8
+		},
+		{
+			"rankInAll": 308,
+			"name": "北京建筑大学",
+			"rankInProvince": 42,
+			"type": "理工",
+			"rankInType": 115
+		},
+		{
+			"rankInAll": 308,
+			"name": "云南民族大学",
+			"rankInProvince": 5,
+			"type": "民族",
+			"rankInType": 4
+		},
+		{
+			"rankInAll": 310,
+			"name": "辽宁医学院",
+			"rankInProvince": 19,
+			"type": "医药",
+			"rankInType": 29
+		},
+		{
+			"rankInAll": 311,
+			"name": "江西农业大学",
+			"rankInProvince": 5,
+			"type": "农林",
+			"rankInType": 26
+		},
+		{
+			"rankInAll": 311,
+			"name": "常州大学",
+			"rankInProvince": 24,
+			"type": "理工",
+			"rankInType": 116
+		},
+		{
+			"rankInAll": 311,
+			"name": "郑州轻工业学院",
+			"rankInProvince": 9,
+			"type": "理工",
+			"rankInType": 116
+		},
+		{
+			"rankInAll": 314,
+			"name": "佳木斯大学",
+			"rankInProvince": 12,
+			"type": "综合",
+			"rankInType": 61
+		},
+		{
+			"rankInAll": 315,
+			"name": "云南财经大学",
+			"rankInProvince": 6,
+			"type": "财经",
+			"rankInType": 19
+		},
+		{
+			"rankInAll": 316,
+			"name": "湖南中医药大学",
+			"rankInProvince": 12,
+			"type": "医药",
+			"rankInType": 30
+		},
+		{
+			"rankInAll": 316,
+			"name": "贵州师范大学",
+			"rankInProvince": 2,
+			"type": "师范",
+			"rankInType": 37
+		},
+		{
+			"rankInAll": 318,
+			"name": "大连外国语大学",
+			"rankInProvince": 20,
+			"type": "文法",
+			"rankInType": 12
+		},
+		{
+			"rankInAll": 318,
+			"name": "北京第二外国语学院",
+			"rankInProvince": 43,
+			"type": "文法",
+			"rankInType": 12
+		},
+		{
+			"rankInAll": 318,
+			"name": "天津商业大学",
+			"rankInProvince": 11,
+			"type": "财经",
+			"rankInType": 20
+		},
+		{
+			"rankInAll": 321,
+			"name": "辽宁中医药大学",
+			"rankInProvince": 21,
+			"type": "医药",
+			"rankInType": 31
+		},
+		{
+			"rankInAll": 322,
+			"name": "广东财经大学",
+			"rankInProvince": 14,
+			"type": "财经",
+			"rankInType": 21
+		},
+		{
+			"rankInAll": 322,
+			"name": "西安工业大学",
+			"rankInProvince": 13,
+			"type": "理工",
+			"rankInType": 118
+		},
+		{
+			"rankInAll": 324,
+			"name": "江西理工大学",
+			"rankInProvince": 6,
+			"type": "理工",
+			"rankInType": 119
+		},
+		{
+			"rankInAll": 325,
+			"name": "徐州医学院",
+			"rankInProvince": 25,
+			"type": "医药",
+			"rankInType": 32
+		},
+		{
+			"rankInAll": 326,
+			"name": "江西中医药大学",
+			"rankInProvince": 7,
+			"type": "医药",
+			"rankInType": 33
+		},
+		{
+			"rankInAll": 326,
+			"name": "东华理工大学",
+			"rankInProvince": 7,
+			"type": "理工",
+			"rankInType": 120
+		},
+		{
+			"rankInAll": 326,
+			"name": "信阳师范学院",
+			"rankInProvince": 10,
+			"type": "师范",
+			"rankInType": 38
+		},
+		{
+			"rankInAll": 329,
+			"name": "沈阳化工大学",
+			"rankInProvince": 22,
+			"type": "理工",
+			"rankInType": 121
+		},
+		{
+			"rankInAll": 329,
+			"name": "西北政法大学",
+			"rankInProvince": 14,
+			"type": "文法",
+			"rankInType": 14
+		},
+		{
+			"rankInAll": 331,
+			"name": "沈阳理工大学",
+			"rankInProvince": 23,
+			"type": "理工",
+			"rankInType": 122
+		},
+		{
+			"rankInAll": 332,
+			"name": "广西师范学院",
+			"rankInProvince": 7,
+			"type": "师范",
+			"rankInType": 39
+		},
+		{
+			"rankInAll": 333,
+			"name": "齐鲁工业大学",
+			"rankInProvince": 19,
+			"type": "理工",
+			"rankInType": 123
+		},
+		{
+			"rankInAll": 334,
+			"name": "景德镇陶瓷学院",
+			"rankInProvince": 9,
+			"type": "理工",
+			"rankInType": 124
+		},
+		{
+			"rankInAll": 335,
+			"name": "西华大学",
+			"rankInProvince": 12,
+			"type": "综合",
+			"rankInType": 62
+		},
+		{
+			"rankInAll": 336,
+			"name": "太原科技大学",
+			"rankInProvince": 7,
+			"type": "理工",
+			"rankInType": 125
+		},
+		{
+			"rankInAll": 337,
+			"name": "西北民族大学",
+			"rankInProvince": 6,
+			"type": "民族",
+			"rankInType": 5
+		},
+		{
+			"rankInAll": 338,
+			"name": "昆明医科大学",
+			"rankInProvince": 7,
+			"type": "医药",
+			"rankInType": 34
+		},
+		{
+			"rankInAll": 339,
+			"name": "大连海洋大学",
+			"rankInProvince": 24,
+			"type": "农林",
+			"rankInType": 27
+		},
+		{
+			"rankInAll": 340,
+			"name": "安徽财经大学",
+			"rankInProvince": 9,
+			"type": "财经",
+			"rankInType": 22
+		},
+		{
+			"rankInAll": 341,
+			"name": "上海应用技术学院",
+			"rankInProvince": 20,
+			"type": "理工",
+			"rankInType": 126
+		},
+		{
+			"rankInAll": 341,
+			"name": "贵州财经大学",
+			"rankInProvince": 3,
+			"type": "财经",
+			"rankInType": 23
+		},
+		{
+			"rankInAll": 343,
+			"name": "湖北中医药大学",
+			"rankInProvince": 16,
+			"type": "医药",
+			"rankInType": 35
+		},
+		{
+			"rankInAll": 344,
+			"name": "西南民族大学",
+			"rankInProvince": 13,
+			"type": "民族",
+			"rankInType": 6
+		},
+		{
+			"rankInAll": 344,
+			"name": "南京工程学院",
+			"rankInProvince": 26,
+			"type": "理工",
+			"rankInType": 127
+		},
+		{
+			"rankInAll": 346,
+			"name": "大连交通大学",
+			"rankInProvince": 25,
+			"type": "理工",
+			"rankInType": 128
+		},
+		{
+			"rankInAll": 347,
+			"name": "中央戏剧学院",
+			"rankInProvince": 44,
+			"type": "艺术",
+			"rankInType": 9
+		},
+		{
+			"rankInAll": 347,
+			"name": "西安邮电大学",
+			"rankInProvince": 15,
+			"type": "理工",
+			"rankInType": 129
+		},
+		{
+			"rankInAll": 349,
+			"name": "内蒙古科技大学",
+			"rankInProvince": 5,
+			"type": "理工",
+			"rankInType": 130
+		},
+		{
+			"rankInAll": 350,
+			"name": "浙江海洋学院",
+			"rankInProvince": 16,
+			"type": "农林",
+			"rankInType": 28
+		},
+		{
+			"rankInAll": 350,
+			"name": "苏州科技学院",
+			"rankInProvince": 27,
+			"type": "理工",
+			"rankInType": 131
+		},
+		{
+			"rankInAll": 350,
+			"name": "吉林财经大学",
+			"rankInProvince": 10,
+			"type": "财经",
+			"rankInType": 24
+		},
+		{
+			"rankInAll": 353,
+			"name": "辽宁石油化工大学",
+			"rankInProvince": 26,
+			"type": "理工",
+			"rankInType": 132
+		},
+		{
+			"rankInAll": 354,
+			"name": "成都信息工程大学",
+			"rankInProvince": 14,
+			"type": "理工",
+			"rankInType": 133
+		},
+		{
+			"rankInAll": 354,
+			"name": "河南财经政法大学",
+			"rankInProvince": 11,
+			"type": "财经",
+			"rankInType": 25
+		},
+		{
+			"rankInAll": 356,
+			"name": "天津外国语大学",
+			"rankInProvince": 12,
+			"type": "文法",
+			"rankInType": 15
+		},
+		{
+			"rankInAll": 357,
+			"name": "内蒙古民族大学",
+			"rankInProvince": 6,
+			"type": "民族",
+			"rankInType": 7
+		},
+		{
+			"rankInAll": 358,
+			"name": "福建中医药大学",
+			"rankInProvince": 8,
+			"type": "医药",
+			"rankInType": 36
+		},
+		{
+			"rankInAll": 358,
+			"name": "西安外国语大学",
+			"rankInProvince": 16,
+			"type": "文法",
+			"rankInType": 16
+		},
+		{
+			"rankInAll": 360,
+			"name": "遵义医学院",
+			"rankInProvince": 4,
+			"type": "医药",
+			"rankInType": 37
+		},
+		{
+			"rankInAll": 360,
+			"name": "华东交通大学",
+			"rankInProvince": 10,
+			"type": "理工",
+			"rankInType": 134
+		},
+		{
+			"rankInAll": 362,
+			"name": "齐齐哈尔大学",
+			"rankInProvince": 13,
+			"type": "综合",
+			"rankInType": 63
+		},
+		{
+			"rankInAll": 363,
+			"name": "内蒙古医科大学",
+			"rankInProvince": 7,
+			"type": "医药",
+			"rankInType": 38
+		},
+		{
+			"rankInAll": 363,
+			"name": "青海民族大学",
+			"rankInProvince": 2,
+			"type": "民族",
+			"rankInType": 8
+		},
+		{
+			"rankInAll": 365,
+			"name": "南京艺术学院",
+			"rankInProvince": 28,
+			"type": "艺术",
+			"rankInType": 10
+		},
+		{
+			"rankInAll": 366,
+			"name": "广西科技大学",
+			"rankInProvince": 8,
+			"type": "理工",
+			"rankInType": 135
+		},
+		{
+			"rankInAll": 366,
+			"name": "河北工程大学",
+			"rankInProvince": 11,
+			"type": "理工",
+			"rankInType": 135
+		},
+		{
+			"rankInAll": 368,
+			"name": "浙江传媒学院",
+			"rankInProvince": 17,
+			"type": "文法",
+			"rankInType": 17
+		},
+		{
+			"rankInAll": 368,
+			"name": "贵州商学院",
+			"rankInProvince": 5,
+			"type": "综合",
+			"rankInType": 64
+		},
+		{
+			"rankInAll": 370,
+			"name": "贵州医科大学",
+			"rankInProvince": 6,
+			"type": "医药",
+			"rankInType": 39
+		},
+		{
+			"rankInAll": 371,
+			"name": "北京服装学院",
+			"rankInProvince": 45,
+			"type": "理工",
+			"rankInType": 137
+		},
+		{
+			"rankInAll": 372,
+			"name": "辽宁科技大学",
+			"rankInProvince": 27,
+			"type": "理工",
+			"rankInType": 138
+		},
+		{
+			"rankInAll": 372,
+			"name": "西安工程大学",
+			"rankInProvince": 17,
+			"type": "理工",
+			"rankInType": 138
+		},
+		{
+			"rankInAll": 372,
+			"name": "安徽建筑大学",
+			"rankInProvince": 10,
+			"type": "理工",
+			"rankInType": 138
+		},
+		{
+			"rankInAll": 375,
+			"name": "天津职业技术师范大学",
+			"rankInProvince": 13,
+			"type": "师范",
+			"rankInType": 40
+		},
+		{
+			"rankInAll": 376,
+			"name": "黑龙江八一农垦大学",
+			"rankInProvince": 14,
+			"type": "农林",
+			"rankInType": 29
+		},
+		{
+			"rankInAll": 376,
+			"name": "成都体育学院",
+			"rankInProvince": 15,
+			"type": "体育",
+			"rankInType": 5
+		},
+		{
+			"rankInAll": 376,
+			"name": "广西中医药大学",
+			"rankInProvince": 9,
+			"type": "医药",
+			"rankInType": 40
+		},
+		{
+			"rankInAll": 376,
+			"name": "西安美术学院",
+			"rankInProvince": 18,
+			"type": "艺术",
+			"rankInType": 11
+		},
+		{
+			"rankInAll": 380,
+			"name": "广东海洋大学",
+			"rankInProvince": 15,
+			"type": "农林",
+			"rankInType": 30
+		},
+		{
+			"rankInAll": 381,
+			"name": "沈阳大学",
+			"rankInProvince": 28,
+			"type": "综合",
+			"rankInType": 65
+		},
+		{
+			"rankInAll": 382,
+			"name": "延安大学",
+			"rankInProvince": 19,
+			"type": "综合",
+			"rankInType": 66
+		},
+		{
+			"rankInAll": 382,
+			"name": "武汉轻工大学",
+			"rankInProvince": 17,
+			"type": "理工",
+			"rankInType": 141
+		},
+		{
+			"rankInAll": 384,
+			"name": "宁夏医科大学",
+			"rankInProvince": 2,
+			"type": "医药",
+			"rankInType": 41
+		},
+		{
+			"rankInAll": 385,
+			"name": "西安财经学院",
+			"rankInProvince": 20,
+			"type": "财经",
+			"rankInType": 26
+		},
+		{
+			"rankInAll": 385,
+			"name": "江西科技师范大学",
+			"rankInProvince": 11,
+			"type": "师范",
+			"rankInType": 41
+		},
+		{
+			"rankInAll": 387,
+			"name": "河南科技学院",
+			"rankInProvince": 12,
+			"type": "师范",
+			"rankInType": 42
+		},
+		{
+			"rankInAll": 388,
+			"name": "北京电子科技学院",
+			"rankInProvince": 46,
+			"type": "理工",
+			"rankInType": 142
+		},
+		{
+			"rankInAll": 388,
+			"name": "中国戏曲学院",
+			"rankInProvince": 46,
+			"type": "艺术",
+			"rankInType": 12
+		},
+		{
+			"rankInAll": 390,
+			"name": "沈阳音乐学院",
+			"rankInProvince": 29,
+			"type": "艺术",
+			"rankInType": 13
+		},
+		{
+			"rankInAll": 391,
+			"name": "陕西理工学院",
+			"rankInProvince": 21,
+			"type": "理工",
+			"rankInType": 143
+		},
+		{
+			"rankInAll": 392,
+			"name": "江汉大学",
+			"rankInProvince": 18,
+			"type": "综合",
+			"rankInType": 67
+		},
+		{
+			"rankInAll": 392,
+			"name": "山西农业大学",
+			"rankInProvince": 8,
+			"type": "农林",
+			"rankInType": 31
+		},
+		{
+			"rankInAll": 394,
+			"name": "上海立信会计学院",
+			"rankInProvince": 21,
+			"type": "财经",
+			"rankInType": 27
+		},
+		{
+			"rankInAll": 395,
+			"name": "青海师范大学",
+			"rankInProvince": 3,
+			"type": "师范",
+			"rankInType": 43
+		},
+		{
+			"rankInAll": 395,
+			"name": "长春中医药大学",
+			"rankInProvince": 11,
+			"type": "医药",
+			"rankInType": 42
+		},
+		{
+			"rankInAll": 397,
+			"name": "长春师范大学",
+			"rankInProvince": 12,
+			"type": "师范",
+			"rankInType": 44
+		},
+		{
+			"rankInAll": 397,
+			"name": "新疆财经大学",
+			"rankInProvince": 6,
+			"type": "财经",
+			"rankInType": 28
+		},
+		{
+			"rankInAll": 399,
+			"name": "华北水利水电大学",
+			"rankInProvince": 13,
+			"type": "理工",
+			"rankInType": 144
+		},
+		{
+			"rankInAll": 400,
+			"name": "广东药学院",
+			"rankInProvince": 16,
+			"type": "医药",
+			"rankInType": 43
+		},
+		{
+			"rankInAll": 401,
+			"name": "淮北师范大学",
+			"rankInProvince": 11,
+			"type": "师范",
+			"rankInType": 45
+		},
+		{
+			"rankInAll": 401,
+			"name": "安徽中医药大学",
+			"rankInProvince": 11,
+			"type": "医药",
+			"rankInType": 44
+		},
+		{
+			"rankInAll": 403,
+			"name": "辽宁工业大学",
+			"rankInProvince": 30,
+			"type": "理工",
+			"rankInType": 145
+		},
+		{
+			"rankInAll": 403,
+			"name": "江西科技学院",
+			"rankInProvince": 12,
+			"type": "理工",
+			"rankInType": 145
+		},
+		{
+			"rankInAll": 405,
+			"name": "阿坝师范学院",
+			"rankInProvince": 16,
+			"type": "师范",
+			"rankInType": 46
+		},
+		{
+			"rankInAll": 406,
+			"name": "北京石油化工学院",
+			"rankInProvince": 48,
+			"type": "理工",
+			"rankInType": 147
+		},
+		{
+			"rankInAll": 406,
+			"name": "宁波工程学院",
+			"rankInProvince": 18,
+			"type": "理工",
+			"rankInType": 147
+		},
+		{
+			"rankInAll": 408,
+			"name": "浙江科技学院",
+			"rankInProvince": 19,
+			"type": "理工",
+			"rankInType": 149
+		},
+		{
+			"rankInAll": 408,
+			"name": "西藏大学",
+			"rankInProvince": 1,
+			"type": "综合",
+			"rankInType": 68
+		},
+		{
+			"rankInAll": 408,
+			"name": "中国刑事警察学院",
+			"rankInProvince": 31,
+			"type": "文法",
+			"rankInType": 18
+		},
+		{
+			"rankInAll": 408,
+			"name": "青岛农业大学",
+			"rankInProvince": 20,
+			"type": "农林",
+			"rankInType": 32
+		},
+		{
+			"rankInAll": 412,
+			"name": "上海对外经贸大学",
+			"rankInProvince": 22,
+			"type": "财经",
+			"rankInType": 29
+		},
+		{
+			"rankInAll": 413,
+			"name": "河南中医学院",
+			"rankInProvince": 14,
+			"type": "医药",
+			"rankInType": 45
+		},
+		{
+			"rankInAll": 414,
+			"name": "安徽工程大学",
+			"rankInProvince": 13,
+			"type": "理工",
+			"rankInType": 150
+		},
+		{
+			"rankInAll": 415,
+			"name": "四川医科大学",
+			"rankInProvince": 17,
+			"type": "医药",
+			"rankInType": 46
+		},
+		{
+			"rankInAll": 415,
+			"name": "中国民航大学",
+			"rankInProvince": 14,
+			"type": "理工",
+			"rankInType": 151
+		},
+		{
+			"rankInAll": 415,
+			"name": "湖州师范学院",
+			"rankInProvince": 20,
+			"type": "师范",
+			"rankInType": 47
+		},
+		{
+			"rankInAll": 415,
+			"name": "黑龙江科技大学",
+			"rankInProvince": 15,
+			"type": "理工",
+			"rankInType": 151
+		},
+		{
+			"rankInAll": 419,
+			"name": "湖北师范学院",
+			"rankInProvince": 19,
+			"type": "师范",
+			"rankInType": 48
+		},
+		{
+			"rankInAll": 420,
+			"name": "五邑大学",
+			"rankInProvince": 17,
+			"type": "综合",
+			"rankInType": 69
+		},
+		{
+			"rankInAll": 421,
+			"name": "广东医学院",
+			"rankInProvince": 18,
+			"type": "医药",
+			"rankInType": 47
+		},
+		{
+			"rankInAll": 422,
+			"name": "新乡医学院",
+			"rankInProvince": 15,
+			"type": "医药",
+			"rankInType": 48
+		},
+		{
+			"rankInAll": 422,
+			"name": "山东工商学院",
+			"rankInProvince": 21,
+			"type": "财经",
+			"rankInType": 30
+		},
+		{
+			"rankInAll": 424,
+			"name": "南京审计学院",
+			"rankInProvince": 29,
+			"type": "财经",
+			"rankInType": 31
+		},
+		{
+			"rankInAll": 424,
+			"name": "鲁迅美术学院",
+			"rankInProvince": 32,
+			"type": "艺术",
+			"rankInType": 14
+		},
+		{
+			"rankInAll": 426,
+			"name": "武汉体育学院",
+			"rankInProvince": 20,
+			"type": "体育",
+			"rankInType": 6
+		},
+		{
+			"rankInAll": 427,
+			"name": "贵州民族大学",
+			"rankInProvince": 7,
+			"type": "民族",
+			"rankInType": 9
+		},
+		{
+			"rankInAll": 428,
+			"name": "西南林业大学",
+			"rankInProvince": 8,
+			"type": "农林",
+			"rankInType": 33
+		},
+		{
+			"rankInAll": 428,
+			"name": "北京印刷学院",
+			"rankInProvince": 49,
+			"type": "理工",
+			"rankInType": 153
+		},
+		{
+			"rankInAll": 428,
+			"name": "湖南理工学院",
+			"rankInProvince": 13,
+			"type": "理工",
+			"rankInType": 153
+		},
+		{
+			"rankInAll": 431,
+			"name": "重庆科技学院",
+			"rankInProvince": 11,
+			"type": "理工",
+			"rankInType": 155
+		},
+		{
+			"rankInAll": 432,
+			"name": "大连民族大学",
+			"rankInProvince": 33,
+			"type": "民族",
+			"rankInType": 10
+		},
+		{
+			"rankInAll": 433,
+			"name": "洛阳师范学院",
+			"rankInProvince": 16,
+			"type": "师范",
+			"rankInType": 49
+		},
+		{
+			"rankInAll": 434,
+			"name": "中国民用航空飞行学院",
+			"rankInProvince": 18,
+			"type": "理工",
+			"rankInType": 156
+		},
+		{
+			"rankInAll": 435,
+			"name": "重庆文理学院",
+			"rankInProvince": 12,
+			"type": "理工",
+			"rankInType": 157
+		},
+		{
+			"rankInAll": 436,
+			"name": "潍坊医学院",
+			"rankInProvince": 22,
+			"type": "医药",
+			"rankInType": 49
+		},
+		{
+			"rankInAll": 436,
+			"name": "邵阳学院",
+			"rankInProvince": 14,
+			"type": "综合",
+			"rankInType": 70
+		},
+		{
+			"rankInAll": 438,
+			"name": "国际关系学院",
+			"rankInProvince": 50,
+			"type": "文法",
+			"rankInType": 19
+		},
+		{
+			"rankInAll": 438,
+			"name": "中国劳动关系学院",
+			"rankInProvince": 50,
+			"type": "文法",
+			"rankInType": 19
+		},
+		{
+			"rankInAll": 440,
+			"name": "湖南商学院",
+			"rankInProvince": 15,
+			"type": "财经",
+			"rankInType": 32
+		},
+		{
+			"rankInAll": 441,
+			"name": "淮阴师范学院",
+			"rankInProvince": 30,
+			"type": "师范",
+			"rankInType": 50
+		},
+		{
+			"rankInAll": 441,
+			"name": "绍兴文理学院",
+			"rankInProvince": 21,
+			"type": "综合",
+			"rankInType": 71
+		},
+		{
+			"rankInAll": 443,
+			"name": "石家庄经济学院",
+			"rankInProvince": 12,
+			"type": "财经",
+			"rankInType": 33
+		},
+		{
+			"rankInAll": 444,
+			"name": "赣南师范学院",
+			"rankInProvince": 13,
+			"type": "师范",
+			"rankInType": 51
+		},
+		{
+			"rankInAll": 445,
+			"name": "泰山医学院",
+			"rankInProvince": 23,
+			"type": "医药",
+			"rankInType": 50
+		},
+		{
+			"rankInAll": 445,
+			"name": "中国青年政治学院",
+			"rankInProvince": 52,
+			"type": "文法",
+			"rankInType": 21
+		},
+		{
+			"rankInAll": 447,
+			"name": "桂林旅游学院",
+			"rankInProvince": 10,
+			"type": "综合",
+			"rankInType": 72
+		},
+		{
+			"rankInAll": 447,
+			"name": "内蒙古科技大学包头师范学院",
+			"rankInProvince": 8,
+			"type": "师范",
+			"rankInType": 52
+		},
+		{
+			"rankInAll": 449,
+			"name": "长春大学",
+			"rankInProvince": 13,
+			"type": "综合",
+			"rankInType": 73
+		},
+		{
+			"rankInAll": 450,
+			"name": "浙江万里学院",
+			"rankInProvince": 22,
+			"type": "理工",
+			"rankInType": 158
+		},
+		{
+			"rankInAll": 450,
+			"name": "星海音乐学院",
+			"rankInProvince": 19,
+			"type": "艺术",
+			"rankInType": 15
+		},
+		{
+			"rankInAll": 452,
+			"name": "上海电力学院",
+			"rankInProvince": 23,
+			"type": "理工",
+			"rankInType": 159
+		},
+		{
+			"rankInAll": 452,
+			"name": "安庆师范学院",
+			"rankInProvince": 14,
+			"type": "师范",
+			"rankInType": 53
+		},
+		{
+			"rankInAll": 452,
+			"name": "海南师范大学",
+			"rankInProvince": 2,
+			"type": "师范",
+			"rankInType": 53
+		},
+		{
+			"rankInAll": 455,
+			"name": "湖北经济学院",
+			"rankInProvince": 21,
+			"type": "财经",
+			"rankInType": 34
+		},
+		{
+			"rankInAll": 455,
+			"name": "湖南城市学院",
+			"rankInProvince": 16,
+			"type": "理工",
+			"rankInType": 160
+		},
+		{
+			"rankInAll": 455,
+			"name": "福建工程学院",
+			"rankInProvince": 9,
+			"type": "理工",
+			"rankInType": 160
+		},
+		{
+			"rankInAll": 455,
+			"name": "南京体育学院",
+			"rankInProvince": 31,
+			"type": "体育",
+			"rankInType": 7
+		},
+		{
+			"rankInAll": 459,
+			"name": "上海第二工业大学",
+			"rankInProvince": 24,
+			"type": "理工",
+			"rankInType": 162
+		},
+		{
+			"rankInAll": 460,
+			"name": "淮海工学院",
+			"rankInProvince": 32,
+			"type": "理工",
+			"rankInType": 163
+		},
+		{
+			"rankInAll": 460,
+			"name": "四川理工学院",
+			"rankInProvince": 19,
+			"type": "理工",
+			"rankInType": 163
+		},
+		{
+			"rankInAll": 460,
+			"name": "长治医学院",
+			"rankInProvince": 9,
+			"type": "医药",
+			"rankInType": 51
+		},
+		{
+			"rankInAll": 460,
+			"name": "岭南师范学院",
+			"rankInProvince": 20,
+			"type": "师范",
+			"rankInType": 55
+		},
+		{
+			"rankInAll": 464,
+			"name": "湖南文理学院",
+			"rankInProvince": 17,
+			"type": "师范",
+			"rankInType": 56
+		},
+		{
+			"rankInAll": 465,
+			"name": "广东金融学院",
+			"rankInProvince": 21,
+			"type": "财经",
+			"rankInType": 35
+		},
+		{
+			"rankInAll": 465,
+			"name": "上海商学院",
+			"rankInProvince": 25,
+			"type": "财经",
+			"rankInType": 35
+		},
+		{
+			"rankInAll": 467,
+			"name": "佛山科学技术学院",
+			"rankInProvince": 22,
+			"type": "理工",
+			"rankInType": 165
+		},
+		{
+			"rankInAll": 467,
+			"name": "四川外国语大学",
+			"rankInProvince": 13,
+			"type": "文法",
+			"rankInType": 22
+		},
+		{
+			"rankInAll": 469,
+			"name": "嘉兴学院",
+			"rankInProvince": 23,
+			"type": "综合",
+			"rankInType": 74
+		},
+		{
+			"rankInAll": 469,
+			"name": "浙江树人学院",
+			"rankInProvince": 23,
+			"type": "理工",
+			"rankInType": 166
+		},
+		{
+			"rankInAll": 469,
+			"name": "沈阳工程学院",
+			"rankInProvince": 34,
+			"type": "理工",
+			"rankInType": 166
+		},
+		{
+			"rankInAll": 472,
+			"name": "韶关学院",
+			"rankInProvince": 23,
+			"type": "综合",
+			"rankInType": 75
+		},
+		{
+			"rankInAll": 473,
+			"name": "南昌工程学院",
+			"rankInProvince": 14,
+			"type": "理工",
+			"rankInType": 168
+		},
+		{
+			"rankInAll": 474,
+			"name": "白城师范学院",
+			"rankInProvince": 14,
+			"type": "师范",
+			"rankInType": 57
+		},
+		{
+			"rankInAll": 475,
+			"name": "盐城工学院",
+			"rankInProvince": 33,
+			"type": "理工",
+			"rankInType": 169
+		},
+		{
+			"rankInAll": 476,
+			"name": "安阳师范学院",
+			"rankInProvince": 17,
+			"type": "师范",
+			"rankInType": 58
+		},
+		{
+			"rankInAll": 477,
+			"name": "黄河科技学院",
+			"rankInProvince": 18,
+			"type": "理工",
+			"rankInType": 170
+		},
+		{
+			"rankInAll": 478,
+			"name": "厦门理工学院",
+			"rankInProvince": 10,
+			"type": "理工",
+			"rankInType": 171
+		},
+		{
+			"rankInAll": 478,
+			"name": "井冈山大学",
+			"rankInProvince": 15,
+			"type": "综合",
+			"rankInType": 76
+		},
+		{
+			"rankInAll": 478,
+			"name": "郑州航空工业管理学院",
+			"rankInProvince": 19,
+			"type": "理工",
+			"rankInType": 171
+		},
+		{
+			"rankInAll": 481,
+			"name": "泰山学院",
+			"rankInProvince": 24,
+			"type": "综合",
+			"rankInType": 77
+		},
+		{
+			"rankInAll": 481,
+			"name": "哈尔滨体育学院",
+			"rankInProvince": 16,
+			"type": "体育",
+			"rankInType": 8
+		},
+		{
+			"rankInAll": 481,
+			"name": "河北科技师范学院",
+			"rankInProvince": 13,
+			"type": "师范",
+			"rankInType": 59
+		},
+		{
+			"rankInAll": 484,
+			"name": "北京城市学院",
+			"rankInProvince": 53,
+			"type": "综合",
+			"rankInType": 78
+		},
+		{
+			"rankInAll": 484,
+			"name": "西安体育学院",
+			"rankInProvince": 22,
+			"type": "体育",
+			"rankInType": 9
+		},
+		{
+			"rankInAll": 486,
+			"name": "北京物资学院",
+			"rankInProvince": 54,
+			"type": "财经",
+			"rankInType": 37
+		},
+		{
+			"rankInAll": 487,
+			"name": "湖北民族学院",
+			"rankInProvince": 22,
+			"type": "民族",
+			"rankInType": 11
+		},
+		{
+			"rankInAll": 487,
+			"name": "北京农学院",
+			"rankInProvince": 55,
+			"type": "农林",
+			"rankInType": 34
+		},
+		{
+			"rankInAll": 489,
+			"name": "华北科技学院",
+			"rankInProvince": 14,
+			"type": "理工",
+			"rankInType": 173
+		},
+		{
+			"rankInAll": 489,
+			"name": "吉林华桥外国语学院",
+			"rankInProvince": 15,
+			"type": "文法",
+			"rankInType": 23
+		},
+		{
+			"rankInAll": 491,
+			"name": "乐山师范学院",
+			"rankInProvince": 20,
+			"type": "师范",
+			"rankInType": 60
+		},
+		{
+			"rankInAll": 492,
+			"name": "云南中医学院",
+			"rankInProvince": 9,
+			"type": "医药",
+			"rankInType": 52
+		},
+		{
+			"rankInAll": 492,
+			"name": "广西财经学院",
+			"rankInProvince": 11,
+			"type": "财经",
+			"rankInType": 38
+		},
+		{
+			"rankInAll": 492,
+			"name": "武汉音乐学院",
+			"rankInProvince": 23,
+			"type": "艺术",
+			"rankInType": 16
+		},
+		{
+			"rankInAll": 492,
+			"name": "渭南师范学院",
+			"rankInProvince": 23,
+			"type": "师范",
+			"rankInType": 61
+		},
+		{
+			"rankInAll": 496,
+			"name": "西藏民族大学",
+			"rankInProvince": 2,
+			"type": "民族",
+			"rankInType": 12
+		},
+		{
+			"rankInAll": 496,
+			"name": "北方民族大学",
+			"rankInProvince": 3,
+			"type": "民族",
+			"rankInType": 12
+		},
+		{
+			"rankInAll": 496,
+			"name": "烟台南山学院",
+			"rankInProvince": 25,
+			"type": "综合",
+			"rankInType": 79
+		},
+		{
+			"rankInAll": 496,
+			"name": "北京舞蹈学院",
+			"rankInProvince": 56,
+			"type": "艺术",
+			"rankInType": 17
+		},
+		{
+			"rankInAll": 500,
+			"name": "济宁医学院",
+			"rankInProvince": 26,
+			"type": "医药",
+			"rankInType": 53
+		},
+		{
+			"rankInAll": 500,
+			"name": "肇庆学院",
+			"rankInProvince": 24,
+			"type": "综合",
+			"rankInType": 80
+		},
+		{
+			"rankInAll": 500,
+			"name": "兰州财经大学",
+			"rankInProvince": 7,
+			"type": "财经",
+			"rankInType": 39
+		},
+		{
+			"rankInAll": 503,
+			"name": "天津城建大学",
+			"rankInProvince": 15,
+			"type": "理工",
+			"rankInType": 174
+		},
+		{
+			"rankInAll": 503,
+			"name": "黑龙江工程学院",
+			"rankInProvince": 17,
+			"type": "理工",
+			"rankInType": 174
+		},
+		{
+			"rankInAll": 503,
+			"name": "泉州师范学院",
+			"rankInProvince": 11,
+			"type": "师范",
+			"rankInType": 62
+		},
+		{
+			"rankInAll": 503,
+			"name": "内蒙古财经大学",
+			"rankInProvince": 9,
+			"type": "财经",
+			"rankInType": 40
+		},
+		{
+			"rankInAll": 507,
+			"name": "广东技术师范学院",
+			"rankInProvince": 25,
+			"type": "师范",
+			"rankInType": 63
+		},
+		{
+			"rankInAll": 507,
+			"name": "广州美术学院",
+			"rankInProvince": 25,
+			"type": "艺术",
+			"rankInType": 18
+		},
+		{
+			"rankInAll": 509,
+			"name": "西京学院",
+			"rankInProvince": 24,
+			"type": "综合",
+			"rankInType": 81
+		},
+		{
+			"rankInAll": 510,
+			"name": "嘉应学院",
+			"rankInProvince": 27,
+			"type": "综合",
+			"rankInType": 82
+		},
+		{
+			"rankInAll": 510,
+			"name": "南阳师范学院",
+			"rankInProvince": 20,
+			"type": "师范",
+			"rankInType": 64
+		},
+		{
+			"rankInAll": 512,
+			"name": "黑龙江东方学院",
+			"rankInProvince": 18,
+			"type": "综合",
+			"rankInType": 83
+		},
+		{
+			"rankInAll": 513,
+			"name": "海南医学院",
+			"rankInProvince": 3,
+			"type": "医药",
+			"rankInType": 54
+		},
+		{
+			"rankInAll": 513,
+			"name": "淮阴工学院",
+			"rankInProvince": 34,
+			"type": "理工",
+			"rankInType": 176
+		},
+		{
+			"rankInAll": 513,
+			"name": "周口师范学院",
+			"rankInProvince": 21,
+			"type": "师范",
+			"rankInType": 65
+		},
+		{
+			"rankInAll": 516,
+			"name": "广西科技师范学院",
+			"rankInProvince": 12,
+			"type": "师范",
+			"rankInType": 66
+		},
+		{
+			"rankInAll": 516,
+			"name": "广东石油化工学院",
+			"rankInProvince": 28,
+			"type": "综合",
+			"rankInType": 84
+		},
+		{
+			"rankInAll": 518,
+			"name": "曲靖师范学院",
+			"rankInProvince": 10,
+			"type": "师范",
+			"rankInType": 67
+		},
+		{
+			"rankInAll": 519,
+			"name": "西安音乐学院",
+			"rankInProvince": 25,
+			"type": "艺术",
+			"rankInType": 19
+		},
+		{
+			"rankInAll": 519,
+			"name": "河北北方学院",
+			"rankInProvince": 15,
+			"type": "综合",
+			"rankInType": 85
+		},
+		{
+			"rankInAll": 521,
+			"name": "伊犁师范学院",
+			"rankInProvince": 7,
+			"type": "师范",
+			"rankInType": 68
+		},
+		{
+			"rankInAll": 522,
+			"name": "江苏理工学院",
+			"rankInProvince": 35,
+			"type": "师范",
+			"rankInType": 69
+		},
+		{
+			"rankInAll": 523,
+			"name": "湖南涉外经济学院",
+			"rankInProvince": 18,
+			"type": "财经",
+			"rankInType": 41
+		},
+		{
+			"rankInAll": 524,
+			"name": "洛阳理工学院",
+			"rankInProvince": 22,
+			"type": "理工",
+			"rankInType": 177
+		},
+		{
+			"rankInAll": 524,
+			"name": "德州学院",
+			"rankInProvince": 27,
+			"type": "综合",
+			"rankInType": 86
+		},
+		{
+			"rankInAll": 526,
+			"name": "滨州学院",
+			"rankInProvince": 28,
+			"type": "综合",
+			"rankInType": 87
+		},
+		{
+			"rankInAll": 526,
+			"name": "成都医学院",
+			"rankInProvince": 21,
+			"type": "医药",
+			"rankInType": 55
+		},
+		{
+			"rankInAll": 526,
+			"name": "南阳理工学院",
+			"rankInProvince": 23,
+			"type": "理工",
+			"rankInType": 178
+		},
+		{
+			"rankInAll": 526,
+			"name": "湖南工程学院",
+			"rankInProvince": 19,
+			"type": "理工",
+			"rankInType": 178
+		},
+		{
+			"rankInAll": 530,
+			"name": "河北传媒学院",
+			"rankInProvince": 16,
+			"type": "文法",
+			"rankInType": 24
+		},
+		{
+			"rankInAll": 531,
+			"name": "衡阳师范学院",
+			"rankInProvince": 20,
+			"type": "师范",
+			"rankInType": 70
+		},
+		{
+			"rankInAll": 532,
+			"name": "宝鸡文理学院",
+			"rankInProvince": 26,
+			"type": "师范",
+			"rankInType": 71
+		},
+		{
+			"rankInAll": 532,
+			"name": "大理大学",
+			"rankInProvince": 11,
+			"type": "综合",
+			"rankInType": 88
+		},
+		{
+			"rankInAll": 534,
+			"name": "长春工程学院",
+			"rankInProvince": 16,
+			"type": "理工",
+			"rankInType": 180
+		},
+		{
+			"rankInAll": 534,
+			"name": "沈阳体育学院",
+			"rankInProvince": 35,
+			"type": "体育",
+			"rankInType": 10
+		},
+		{
+			"rankInAll": 536,
+			"name": "淮南师范学院",
+			"rankInProvince": 15,
+			"type": "师范",
+			"rankInType": 72
+		},
+		{
+			"rankInAll": 537,
+			"name": "许昌学院",
+			"rankInProvince": 24,
+			"type": "综合",
+			"rankInType": 89
+		},
+		{
+			"rankInAll": 538,
+			"name": "广州体育学院",
+			"rankInProvince": 29,
+			"type": "体育",
+			"rankInType": 11
+		},
+		{
+			"rankInAll": 538,
+			"name": "宜春学院",
+			"rankInProvince": 16,
+			"type": "综合",
+			"rankInType": 90
+		},
+		{
+			"rankInAll": 538,
+			"name": "湖北美术学院",
+			"rankInProvince": 24,
+			"type": "艺术",
+			"rankInType": 20
+		},
+		{
+			"rankInAll": 541,
+			"name": "牡丹江师范学院",
+			"rankInProvince": 19,
+			"type": "师范",
+			"rankInType": 73
+		},
+		{
+			"rankInAll": 542,
+			"name": "盐城师范学院",
+			"rankInProvince": 36,
+			"type": "师范",
+			"rankInType": 74
+		},
+		{
+			"rankInAll": 543,
+			"name": "闽南师范大学",
+			"rankInProvince": 12,
+			"type": "师范",
+			"rankInType": 75
+		},
+		{
+			"rankInAll": 543,
+			"name": "湖北文理学院",
+			"rankInProvince": 25,
+			"type": "综合",
+			"rankInType": 91
+		},
+		{
+			"rankInAll": 545,
+			"name": "上海金融学院",
+			"rankInProvince": 26,
+			"type": "财经",
+			"rankInType": 42
+		},
+		{
+			"rankInAll": 546,
+			"name": "江苏警官学院",
+			"rankInProvince": 37,
+			"type": "文法",
+			"rankInType": 25
+		},
+		{
+			"rankInAll": 546,
+			"name": "皖南医学院",
+			"rankInProvince": 16,
+			"type": "医药",
+			"rankInType": 56
+		},
+		{
+			"rankInAll": 548,
+			"name": "闽江学院",
+			"rankInProvince": 13,
+			"type": "综合",
+			"rankInType": 92
+		},
+		{
+			"rankInAll": 548,
+			"name": "吉林建筑大学",
+			"rankInProvince": 17,
+			"type": "理工",
+			"rankInType": 181
+		},
+		{
+			"rankInAll": 548,
+			"name": "黄冈师范学院",
+			"rankInProvince": 26,
+			"type": "师范",
+			"rankInType": 76
+		},
+		{
+			"rankInAll": 551,
+			"name": "贵阳中医学院",
+			"rankInProvince": 8,
+			"type": "医药",
+			"rankInType": 57
+		},
+		{
+			"rankInAll": 551,
+			"name": "常熟理工学院",
+			"rankInProvince": 38,
+			"type": "理工",
+			"rankInType": 182
+		},
+		{
+			"rankInAll": 551,
+			"name": "潍坊学院",
+			"rankInProvince": 29,
+			"type": "综合",
+			"rankInType": 93
+		},
+		{
+			"rankInAll": 554,
+			"name": "九江学院",
+			"rankInProvince": 17,
+			"type": "综合",
+			"rankInType": 94
+		},
+		{
+			"rankInAll": 554,
+			"name": "陕西中医药大学",
+			"rankInProvince": 27,
+			"type": "医药",
+			"rankInType": 58
+		},
+		{
+			"rankInAll": 556,
+			"name": "无锡太湖学院",
+			"rankInProvince": 39,
+			"type": "综合",
+			"rankInType": 95
+		},
+		{
+			"rankInAll": 556,
+			"name": "塔里木大学",
+			"rankInProvince": 8,
+			"type": "农林",
+			"rankInType": 35
+		},
+		{
+			"rankInAll": 558,
+			"name": "徐州工程学院",
+			"rankInProvince": 40,
+			"type": "理工",
+			"rankInType": 183
+		},
+		{
+			"rankInAll": 558,
+			"name": "台州学院",
+			"rankInProvince": 25,
+			"type": "综合",
+			"rankInType": 96
+		},
+		{
+			"rankInAll": 558,
+			"name": "阜阳师范学院",
+			"rankInProvince": 17,
+			"type": "师范",
+			"rankInType": 77
+		},
+		{
+			"rankInAll": 561,
+			"name": "韩山师范学院",
+			"rankInProvince": 30,
+			"type": "师范",
+			"rankInType": 78
+		},
+		{
+			"rankInAll": 562,
+			"name": "三江学院",
+			"rankInProvince": 41,
+			"type": "综合",
+			"rankInType": 97
+		},
+		{
+			"rankInAll": 563,
+			"name": "西安外事学院",
+			"rankInProvince": 28,
+			"type": "财经",
+			"rankInType": 43
+		},
+		{
+			"rankInAll": 564,
+			"name": "甘肃政法学院",
+			"rankInProvince": 8,
+			"type": "文法",
+			"rankInType": 26
+		},
+		{
+			"rankInAll": 564,
+			"name": "莆田学院",
+			"rankInProvince": 14,
+			"type": "综合",
+			"rankInType": 98
+		},
+		{
+			"rankInAll": 564,
+			"name": "上海政法学院",
+			"rankInProvince": 27,
+			"type": "文法",
+			"rankInType": 26
+		},
+		{
+			"rankInAll": 564,
+			"name": "蚌埠医学院",
+			"rankInProvince": 18,
+			"type": "医药",
+			"rankInType": 59
+		},
+		{
+			"rankInAll": 564,
+			"name": "广西艺术学院",
+			"rankInProvince": 13,
+			"type": "艺术",
+			"rankInType": 21
+		},
+		{
+			"rankInAll": 569,
+			"name": "川北医学院",
+			"rankInProvince": 22,
+			"type": "医药",
+			"rankInType": 60
+		},
+		{
+			"rankInAll": 569,
+			"name": "上海电机学院",
+			"rankInProvince": 28,
+			"type": "理工",
+			"rankInType": 184
+		},
+		{
+			"rankInAll": 571,
+			"name": "金陵科技学院",
+			"rankInProvince": 42,
+			"type": "理工",
+			"rankInType": 185
+		},
+		{
+			"rankInAll": 572,
+			"name": "湖南人文科技学院",
+			"rankInProvince": 21,
+			"type": "师范",
+			"rankInType": 79
+		},
+		{
+			"rankInAll": 573,
+			"name": "运城学院",
+			"rankInProvince": 10,
+			"type": "综合",
+			"rankInType": 99
+		},
+		{
+			"rankInAll": 573,
+			"name": "滨州医学院",
+			"rankInProvince": 30,
+			"type": "医药",
+			"rankInType": 61
+		},
+		{
+			"rankInAll": 575,
+			"name": "吉林艺术学院",
+			"rankInProvince": 18,
+			"type": "艺术",
+			"rankInType": 22
+		},
+		{
+			"rankInAll": 575,
+			"name": "滇西科技师范学院",
+			"rankInProvince": 12,
+			"type": "师范",
+			"rankInType": 80
+		},
+		{
+			"rankInAll": 577,
+			"name": "潍坊科技学院",
+			"rankInProvince": 31,
+			"type": "理工",
+			"rankInType": 186
+		},
+		{
+			"rankInAll": 577,
+			"name": "湖北科技学院",
+			"rankInProvince": 27,
+			"type": "理工",
+			"rankInType": 186
+		},
+		{
+			"rankInAll": 579,
+			"name": "中国人民武装警察部队学院",
+			"rankInProvince": 17,
+			"type": "文法",
+			"rankInType": 28
+		},
+		{
+			"rankInAll": 579,
+			"name": "四川音乐学院",
+			"rankInProvince": 23,
+			"type": "艺术",
+			"rankInType": 23
+		},
+		{
+			"rankInAll": 581,
+			"name": "湘南学院",
+			"rankInProvince": 22,
+			"type": "综合",
+			"rankInType": 100
+		},
+		{
+			"rankInAll": 581,
+			"name": "甘肃医学院",
+			"rankInProvince": 9,
+			"type": "医药",
+			"rankInType": 62
+		},
+		{
+			"rankInAll": 583,
+			"name": "长江师范学院",
+			"rankInProvince": 14,
+			"type": "师范",
+			"rankInType": 81
+		},
+		{
+			"rankInAll": 583,
+			"name": "鞍山师范学院",
+			"rankInProvince": 36,
+			"type": "师范",
+			"rankInType": 81
+		},
+		{
+			"rankInAll": 585,
+			"name": "宁波大红鹰学院",
+			"rankInProvince": 26,
+			"type": "理工",
+			"rankInType": 188
+		},
+		{
+			"rankInAll": 586,
+			"name": "湖北医药学院",
+			"rankInProvince": 28,
+			"type": "医药",
+			"rankInType": 63
+		},
+		{
+			"rankInAll": 586,
+			"name": "吉林动画学院",
+			"rankInProvince": 19,
+			"type": "艺术",
+			"rankInType": 24
+		},
+		{
+			"rankInAll": 586,
+			"name": "玉林师范学院",
+			"rankInProvince": 14,
+			"type": "师范",
+			"rankInType": 83
+		},
+		{
+			"rankInAll": 589,
+			"name": "成都学院",
+			"rankInProvince": 24,
+			"type": "综合",
+			"rankInType": 101
+		},
+		{
+			"rankInAll": 590,
+			"name": "东莞理工学院",
+			"rankInProvince": 31,
+			"type": "理工",
+			"rankInType": 189
+		},
+		{
+			"rankInAll": 590,
+			"name": "合肥学院",
+			"rankInProvince": 19,
+			"type": "综合",
+			"rankInType": 102
+		},
+		{
+			"rankInAll": 590,
+			"name": "黄山学院",
+			"rankInProvince": 19,
+			"type": "综合",
+			"rankInType": 102
+		},
+		{
+			"rankInAll": 590,
+			"name": "山东艺术学院",
+			"rankInProvince": 32,
+			"type": "艺术",
+			"rankInType": 25
+		},
+		{
+			"rankInAll": 594,
+			"name": "临沂大学",
+			"rankInProvince": 33,
+			"type": "综合",
+			"rankInType": 104
+		},
+		{
+			"rankInAll": 594,
+			"name": "承德医学院",
+			"rankInProvince": 18,
+			"type": "医药",
+			"rankInType": 64
+		},
+		{
+			"rankInAll": 594,
+			"name": "怀化学院",
+			"rankInProvince": 23,
+			"type": "综合",
+			"rankInType": 104
+		},
+		{
+			"rankInAll": 597,
+			"name": "天津美术学院",
+			"rankInProvince": 16,
+			"type": "艺术",
+			"rankInType": 26
+		},
+		{
+			"rankInAll": 597,
+			"name": "山东青年政治学院",
+			"rankInProvince": 34,
+			"type": "文法",
+			"rankInType": 29
+		},
+		{
+			"rankInAll": 597,
+			"name": "辽东学院",
+			"rankInProvince": 37,
+			"type": "综合",
+			"rankInType": 106
+		},
+		{
+			"rankInAll": 597,
+			"name": "常州工学院",
+			"rankInProvince": 43,
+			"type": "理工",
+			"rankInType": 190
+		},
+		{
+			"rankInAll": 601,
+			"name": "仲恺农业工程学院",
+			"rankInProvince": 32,
+			"type": "农林",
+			"rankInType": 36
+		},
+		{
+			"rankInAll": 601,
+			"name": "宜宾学院",
+			"rankInProvince": 25,
+			"type": "综合",
+			"rankInType": 107
+		},
+		{
+			"rankInAll": 603,
+			"name": "太原师范学院",
+			"rankInProvince": 11,
+			"type": "师范",
+			"rankInType": 84
+		},
+		{
+			"rankInAll": 603,
+			"name": "忻州师范学院",
+			"rankInProvince": 11,
+			"type": "师范",
+			"rankInType": 84
+		},
+		{
+			"rankInAll": 603,
+			"name": "湖南科技学院",
+			"rankInProvince": 24,
+			"type": "综合",
+			"rankInType": 108
+		},
+		{
+			"rankInAll": 603,
+			"name": "湖北理工学院",
+			"rankInProvince": 29,
+			"type": "理工",
+			"rankInType": 191
+		},
+		{
+			"rankInAll": 603,
+			"name": "西藏藏医学院",
+			"rankInProvince": 3,
+			"type": "医药",
+			"rankInType": 65
+		},
+		{
+			"rankInAll": 608,
+			"name": "青岛滨海学院",
+			"rankInProvince": 35,
+			"type": "综合",
+			"rankInType": 109
+		},
+		{
+			"rankInAll": 608,
+			"name": "山东体育学院",
+			"rankInProvince": 35,
+			"type": "体育",
+			"rankInType": 12
+		},
+		{
+			"rankInAll": 610,
+			"name": "桂林医学院",
+			"rankInProvince": 15,
+			"type": "医药",
+			"rankInType": 66
+		},
+		{
+			"rankInAll": 610,
+			"name": "甘肃中医药大学",
+			"rankInProvince": 10,
+			"type": "医药",
+			"rankInType": 66
+		},
+		{
+			"rankInAll": 612,
+			"name": "安徽科技学院",
+			"rankInProvince": 21,
+			"type": "理工",
+			"rankInType": 192
+		},
+		{
+			"rankInAll": 612,
+			"name": "河南城建学院",
+			"rankInProvince": 25,
+			"type": "理工",
+			"rankInType": 192
+		},
+		{
+			"rankInAll": 612,
+			"name": "惠州学院",
+			"rankInProvince": 33,
+			"type": "综合",
+			"rankInType": 110
+		},
+		{
+			"rankInAll": 612,
+			"name": "天津农学院",
+			"rankInProvince": 17,
+			"type": "农林",
+			"rankInType": 37
+		},
+		{
+			"rankInAll": 612,
+			"name": "吉林化工学院",
+			"rankInProvince": 20,
+			"type": "理工",
+			"rankInType": 192
+		},
+		{
+			"rankInAll": 617,
+			"name": "咸阳师范学院",
+			"rankInProvince": 29,
+			"type": "师范",
+			"rankInType": 86
+		},
+		{
+			"rankInAll": 617,
+			"name": "攀枝花学院",
+			"rankInProvince": 26,
+			"type": "理工",
+			"rankInType": 195
+		},
+		{
+			"rankInAll": 619,
+			"name": "山西大同大学",
+			"rankInProvince": 13,
+			"type": "师范",
+			"rankInType": 87
+		},
+		{
+			"rankInAll": 620,
+			"name": "西昌学院",
+			"rankInProvince": 27,
+			"type": "综合",
+			"rankInType": 111
+		},
+		{
+			"rankInAll": 620,
+			"name": "滁州学院",
+			"rankInProvince": 22,
+			"type": "综合",
+			"rankInType": 111
+		},
+		{
+			"rankInAll": 620,
+			"name": "哈尔滨学院",
+			"rankInProvince": 20,
+			"type": "综合",
+			"rankInType": 111
+		},
+		{
+			"rankInAll": 623,
+			"name": "河池学院",
+			"rankInProvince": 16,
+			"type": "文法",
+			"rankInType": 30
+		},
+		{
+			"rankInAll": 623,
+			"name": "红河学院",
+			"rankInProvince": 13,
+			"type": "综合",
+			"rankInType": 114
+		},
+		{
+			"rankInAll": 625,
+			"name": "南昌理工学院",
+			"rankInProvince": 18,
+			"type": "理工",
+			"rankInType": 196
+		},
+		{
+			"rankInAll": 625,
+			"name": "皖西学院",
+			"rankInProvince": 23,
+			"type": "综合",
+			"rankInType": 115
+		},
+		{
+			"rankInAll": 625,
+			"name": "衡水学院",
+			"rankInProvince": 19,
+			"type": "师范",
+			"rankInType": 88
+		},
+		{
+			"rankInAll": 625,
+			"name": "吉林体育学院",
+			"rankInProvince": 21,
+			"type": "体育",
+			"rankInType": 13
+		},
+		{
+			"rankInAll": 629,
+			"name": "沈阳医学院",
+			"rankInProvince": 38,
+			"type": "医药",
+			"rankInType": 68
+		},
+		{
+			"rankInAll": 629,
+			"name": "西安欧亚学院",
+			"rankInProvince": 30,
+			"type": "财经",
+			"rankInType": 44
+		},
+		{
+			"rankInAll": 629,
+			"name": "吉林工商学院",
+			"rankInProvince": 22,
+			"type": "财经",
+			"rankInType": 44
+		},
+		{
+			"rankInAll": 632,
+			"name": "安阳工学院",
+			"rankInProvince": 26,
+			"type": "理工",
+			"rankInType": 197
+		},
+		{
+			"rankInAll": 633,
+			"name": "唐山师范学院",
+			"rankInProvince": 20,
+			"type": "师范",
+			"rankInType": 89
+		},
+		{
+			"rankInAll": 634,
+			"name": "内江师范学院",
+			"rankInProvince": 28,
+			"type": "师范",
+			"rankInType": 90
+		},
+		{
+			"rankInAll": 634,
+			"name": "商丘师范学院",
+			"rankInProvince": 27,
+			"type": "师范",
+			"rankInType": 90
+		},
+		{
+			"rankInAll": 634,
+			"name": "南京晓庄学院",
+			"rankInProvince": 44,
+			"type": "师范",
+			"rankInType": 90
+		},
+		{
+			"rankInAll": 637,
+			"name": "菏泽学院",
+			"rankInProvince": 37,
+			"type": "综合",
+			"rankInType": 116
+		},
+		{
+			"rankInAll": 638,
+			"name": "南京特殊教育师范学院",
+			"rankInProvince": 45,
+			"type": "师范",
+			"rankInType": 93
+		},
+		{
+			"rankInAll": 638,
+			"name": "北华航天工业学院",
+			"rankInProvince": 21,
+			"type": "理工",
+			"rankInType": 198
+		},
+		{
+			"rankInAll": 640,
+			"name": "云南艺术学院",
+			"rankInProvince": 14,
+			"type": "艺术",
+			"rankInType": 27
+		},
+		{
+			"rankInAll": 641,
+			"name": "梧州学院",
+			"rankInProvince": 17,
+			"type": "综合",
+			"rankInType": 117
+		},
+		{
+			"rankInAll": 642,
+			"name": "合肥师范学院",
+			"rankInProvince": 24,
+			"type": "师范",
+			"rankInType": 94
+		},
+		{
+			"rankInAll": 642,
+			"name": "绥化学院",
+			"rankInProvince": 21,
+			"type": "综合",
+			"rankInType": 118
+		},
+		{
+			"rankInAll": 644,
+			"name": "铜陵学院",
+			"rankInProvince": 25,
+			"type": "综合",
+			"rankInType": 119
+		},
+		{
+			"rankInAll": 644,
+			"name": "喀什大学",
+			"rankInProvince": 9,
+			"type": "师范",
+			"rankInType": 95
+		},
+		{
+			"rankInAll": 644,
+			"name": "玉溪师范学院",
+			"rankInProvince": 15,
+			"type": "师范",
+			"rankInType": 95
+		},
+		{
+			"rankInAll": 647,
+			"name": "呼伦贝尔学院",
+			"rankInProvince": 10,
+			"type": "综合",
+			"rankInType": 120
+		},
+		{
+			"rankInAll": 648,
+			"name": "三明学院",
+			"rankInProvince": 15,
+			"type": "师范",
+			"rankInType": 97
+		},
+		{
+			"rankInAll": 648,
+			"name": "长治学院",
+			"rankInProvince": 14,
+			"type": "师范",
+			"rankInType": 97
+		},
+		{
+			"rankInAll": 650,
+			"name": "荆楚理工学院",
+			"rankInProvince": 30,
+			"type": "理工",
+			"rankInType": 199
+		},
+		{
+			"rankInAll": 650,
+			"name": "长沙学院",
+			"rankInProvince": 25,
+			"type": "综合",
+			"rankInType": 121
+		},
+		{
+			"rankInAll": 650,
+			"name": "钦州学院",
+			"rankInProvince": 18,
+			"type": "师范",
+			"rankInType": 99
+		},
+		{
+			"rankInAll": 653,
+			"name": "中华女子学院",
+			"rankInProvince": 57,
+			"type": "综合",
+			"rankInType": 122
+		},
+		{
+			"rankInAll": 653,
+			"name": "西安翻译学院",
+			"rankInProvince": 31,
+			"type": "文法",
+			"rankInType": 31
+		},
+		{
+			"rankInAll": 653,
+			"name": "湖北汽车工业学院",
+			"rankInProvince": 31,
+			"type": "理工",
+			"rankInType": 200
+		},
+		{
+			"rankInAll": 653,
+			"name": "湖北工程学院",
+			"rankInProvince": 31,
+			"type": "理工",
+			"rankInType": 200
+		},
+		{
+			"rankInAll": 657,
+			"name": "郑州工业应用技术学院",
+			"rankInProvince": 28,
+			"type": "理工",
+			"rankInType": 202
+		},
+		{
+			"rankInAll": 658,
+			"name": "山东工艺美术学院",
+			"rankInProvince": 38,
+			"type": "艺术",
+			"rankInType": 28
+		},
+		{
+			"rankInAll": 658,
+			"name": "河西学院",
+			"rankInProvince": 11,
+			"type": "综合",
+			"rankInType": 123
+		},
+		{
+			"rankInAll": 658,
+			"name": "石家庄学院",
+			"rankInProvince": 22,
+			"type": "师范",
+			"rankInType": 100
+		},
+		{
+			"rankInAll": 658,
+			"name": "绵阳师范学院",
+			"rankInProvince": 29,
+			"type": "师范",
+			"rankInType": 100
+		},
+		{
+			"rankInAll": 662,
+			"name": "郑州升达经贸管理学院",
+			"rankInProvince": 29,
+			"type": "财经",
+			"rankInType": 46
+		},
+		{
+			"rankInAll": 662,
+			"name": "桂林航天工业学院",
+			"rankInProvince": 19,
+			"type": "理工",
+			"rankInType": 203
+		},
+		{
+			"rankInAll": 664,
+			"name": "黑河学院",
+			"rankInProvince": 22,
+			"type": "文法",
+			"rankInType": 32
+		},
+		{
+			"rankInAll": 664,
+			"name": "平顶山学院",
+			"rankInProvince": 30,
+			"type": "综合",
+			"rankInType": 124
+		},
+		{
+			"rankInAll": 664,
+			"name": "河北体育学院",
+			"rankInProvince": 23,
+			"type": "体育",
+			"rankInType": 14
+		},
+		{
+			"rankInAll": 667,
+			"name": "通化师范学院",
+			"rankInProvince": 23,
+			"type": "师范",
+			"rankInType": 102
+		},
+		{
+			"rankInAll": 667,
+			"name": "邯郸学院",
+			"rankInProvince": 24,
+			"type": "师范",
+			"rankInType": 102
+		},
+		{
+			"rankInAll": 667,
+			"name": "宿州学院",
+			"rankInProvince": 26,
+			"type": "综合",
+			"rankInType": 125
+		},
+		{
+			"rankInAll": 670,
+			"name": "济宁学院",
+			"rankInProvince": 39,
+			"type": "师范",
+			"rankInType": 104
+		},
+		{
+			"rankInAll": 670,
+			"name": "池州学院",
+			"rankInProvince": 27,
+			"type": "师范",
+			"rankInType": 104
+		},
+		{
+			"rankInAll": 670,
+			"name": "海南热带海洋学院",
+			"rankInProvince": 4,
+			"type": "综合",
+			"rankInType": 126
+		},
+		{
+			"rankInAll": 670,
+			"name": "齐齐哈尔医学院",
+			"rankInProvince": 23,
+			"type": "医药",
+			"rankInType": 69
+		},
+		{
+			"rankInAll": 674,
+			"name": "新乡学院",
+			"rankInProvince": 31,
+			"type": "师范",
+			"rankInType": 106
+		},
+		{
+			"rankInAll": 675,
+			"name": "保定学院",
+			"rankInProvince": 25,
+			"type": "师范",
+			"rankInType": 107
+		},
+		{
+			"rankInAll": 676,
+			"name": "牡丹江医学院",
+			"rankInProvince": 24,
+			"type": "医药",
+			"rankInType": 70
+		},
+		{
+			"rankInAll": 676,
+			"name": "广东警官学院",
+			"rankInProvince": 34,
+			"type": "文法",
+			"rankInType": 33
+		},
+		{
+			"rankInAll": 676,
+			"name": "河南工程学院",
+			"rankInProvince": 32,
+			"type": "理工",
+			"rankInType": 204
+		},
+		{
+			"rankInAll": 676,
+			"name": "天水师范学院",
+			"rankInProvince": 12,
+			"type": "师范",
+			"rankInType": 108
+		},
+		{
+			"rankInAll": 680,
+			"name": "武汉生物工程学院",
+			"rankInProvince": 33,
+			"type": "理工",
+			"rankInType": 205
+		},
+		{
+			"rankInAll": 680,
+			"name": "长春建筑学院",
+			"rankInProvince": 24,
+			"type": "理工",
+			"rankInType": 205
+		},
+		{
+			"rankInAll": 680,
+			"name": "辽宁财贸学院",
+			"rankInProvince": 39,
+			"type": "财经",
+			"rankInType": 47
+		},
+		{
+			"rankInAll": 680,
+			"name": "三亚学院",
+			"rankInProvince": 5,
+			"type": "综合",
+			"rankInType": 127
+		},
+		{
+			"rankInAll": 684,
+			"name": "山东现代学院",
+			"rankInProvince": 40,
+			"type": "综合",
+			"rankInType": 128
+		},
+		{
+			"rankInAll": 685,
+			"name": "重庆三峡学院",
+			"rankInProvince": 15,
+			"type": "综合",
+			"rankInType": 129
+		},
+		{
+			"rankInAll": 686,
+			"name": "湖北第二师范学院",
+			"rankInProvince": 34,
+			"type": "师范",
+			"rankInType": 109
+		},
+		{
+			"rankInAll": 686,
+			"name": "湖南财政经济学院",
+			"rankInProvince": 26,
+			"type": "财经",
+			"rankInType": 48
+		},
+		{
+			"rankInAll": 686,
+			"name": "山东交通学院",
+			"rankInProvince": 41,
+			"type": "理工",
+			"rankInType": 207
+		},
+		{
+			"rankInAll": 689,
+			"name": "西安培华学院",
+			"rankInProvince": 32,
+			"type": "文法",
+			"rankInType": 34
+		},
+		{
+			"rankInAll": 689,
+			"name": "仰恩大学",
+			"rankInProvince": 16,
+			"type": "综合",
+			"rankInType": 130
+		},
+		{
+			"rankInAll": 691,
+			"name": "四川警察学院",
+			"rankInProvince": 30,
+			"type": "文法",
+			"rankInType": 35
+		},
+		{
+			"rankInAll": 692,
+			"name": "天津音乐学院",
+			"rankInProvince": 18,
+			"type": "艺术",
+			"rankInType": 29
+		},
+		{
+			"rankInAll": 693,
+			"name": "上海科技大学",
+			"rankInProvince": 29,
+			"type": "理工",
+			"rankInType": 208
+		},
+		{
+			"rankInAll": 694,
+			"name": "昆明学院",
+			"rankInProvince": 16,
+			"type": "师范",
+			"rankInType": 110
+		},
+		{
+			"rankInAll": 694,
+			"name": "广东白云学院",
+			"rankInProvince": 35,
+			"type": "理工",
+			"rankInType": 209
+		},
+		{
+			"rankInAll": 696,
+			"name": "长沙医学院",
+			"rankInProvince": 27,
+			"type": "医药",
+			"rankInType": 71
+		},
+		{
+			"rankInAll": 696,
+			"name": "上饶师范学院",
+			"rankInProvince": 19,
+			"type": "师范",
+			"rankInType": 111
+		},
+		{
+			"rankInAll": 696,
+			"name": "邢台学院",
+			"rankInProvince": 26,
+			"type": "综合",
+			"rankInType": 131
+		},
+		{
+			"rankInAll": 699,
+			"name": "丽水学院",
+			"rankInProvince": 27,
+			"type": "综合",
+			"rankInType": 132
+		},
+		{
+			"rankInAll": 699,
+			"name": "西安文理学院",
+			"rankInProvince": 33,
+			"type": "师范",
+			"rankInType": 112
+		},
+		{
+			"rankInAll": 699,
+			"name": "北京警察学院",
+			"rankInProvince": 58,
+			"type": "文法",
+			"rankInType": 36
+		},
+		{
+			"rankInAll": 699,
+			"name": "广东培正学院",
+			"rankInProvince": 36,
+			"type": "财经",
+			"rankInType": 49
+		},
+		{
+			"rankInAll": 699,
+			"name": "黑龙江外国语学院",
+			"rankInProvince": 25,
+			"type": "师范",
+			"rankInType": 112
+		},
+		{
+			"rankInAll": 704,
+			"name": "浙江外国语学院",
+			"rankInProvince": 28,
+			"type": "文法",
+			"rankInType": 37
+		},
+		{
+			"rankInAll": 705,
+			"name": "武汉东湖学院",
+			"rankInProvince": 35,
+			"type": "理工",
+			"rankInType": 210
+		},
+		{
+			"rankInAll": 705,
+			"name": "上海海关学院",
+			"rankInProvince": 30,
+			"type": "文法",
+			"rankInType": 38
+		},
+		{
+			"rankInAll": 705,
+			"name": "黔南民族师范学院",
+			"rankInProvince": 9,
+			"type": "师范",
+			"rankInType": 114
+		},
+		{
+			"rankInAll": 708,
+			"name": "江西服装学院",
+			"rankInProvince": 20,
+			"type": "理工",
+			"rankInType": 211
+		},
+		{
+			"rankInAll": 708,
+			"name": "福建警察学院",
+			"rankInProvince": 17,
+			"type": "文法",
+			"rankInType": 39
+		},
+		{
+			"rankInAll": 710,
+			"name": "唐山学院",
+			"rankInProvince": 27,
+			"type": "综合",
+			"rankInType": 133
+		},
+		{
+			"rankInAll": 710,
+			"name": "百色学院",
+			"rankInProvince": 20,
+			"type": "师范",
+			"rankInType": 115
+		},
+		{
+			"rankInAll": 710,
+			"name": "吉林工程技术师范学院",
+			"rankInProvince": 25,
+			"type": "师范",
+			"rankInType": 115
+		},
+		{
+			"rankInAll": 713,
+			"name": "新余学院",
+			"rankInProvince": 21,
+			"type": "综合",
+			"rankInType": 134
+		},
+		{
+			"rankInAll": 714,
+			"name": "福建江夏学院",
+			"rankInProvince": 18,
+			"type": "财经",
+			"rankInType": 50
+		},
+		{
+			"rankInAll": 715,
+			"name": "辽宁科技学院",
+			"rankInProvince": 40,
+			"type": "理工",
+			"rankInType": 212
+		},
+		{
+			"rankInAll": 715,
+			"name": "湖南第一师范学院",
+			"rankInProvince": 28,
+			"type": "师范",
+			"rankInType": 117
+		},
+		{
+			"rankInAll": 717,
+			"name": "贵州师范学院",
+			"rankInProvince": 10,
+			"type": "师范",
+			"rankInType": 118
+		},
+		{
+			"rankInAll": 717,
+			"name": "蚌埠学院",
+			"rankInProvince": 28,
+			"type": "师范",
+			"rankInType": 118
+		},
+		{
+			"rankInAll": 717,
+			"name": "齐鲁医药学院",
+			"rankInProvince": 42,
+			"type": "医药",
+			"rankInType": 72
+		},
+		{
+			"rankInAll": 717,
+			"name": "枣庄学院",
+			"rankInProvince": 42,
+			"type": "综合",
+			"rankInType": 135
+		},
+		{
+			"rankInAll": 717,
+			"name": "西安航空学院",
+			"rankInProvince": 34,
+			"type": "理工",
+			"rankInType": 213
+		},
+		{
+			"rankInAll": 717,
+			"name": "贺州学院",
+			"rankInProvince": 21,
+			"type": "师范",
+			"rankInType": 118
+		},
+		{
+			"rankInAll": 717,
+			"name": "铜仁学院",
+			"rankInProvince": 10,
+			"type": "师范",
+			"rankInType": 118
+		},
+		{
+			"rankInAll": 724,
+			"name": "巢湖学院",
+			"rankInProvince": 29,
+			"type": "综合",
+			"rankInType": 136
+		},
+		{
+			"rankInAll": 724,
+			"name": "宁波诺丁汉大学",
+			"rankInProvince": 29,
+			"type": "综合",
+			"rankInType": 136
+		},
+		{
+			"rankInAll": 724,
+			"name": "郑州师范学院",
+			"rankInProvince": 33,
+			"type": "师范",
+			"rankInType": 122
+		},
+		{
+			"rankInAll": 724,
+			"name": "西安医学院",
+			"rankInProvince": 35,
+			"type": "医药",
+			"rankInType": 73
+		},
+		{
+			"rankInAll": 728,
+			"name": "武昌工学院",
+			"rankInProvince": 36,
+			"type": "理工",
+			"rankInType": 214
+		},
+		{
+			"rankInAll": 728,
+			"name": "成都工业学院",
+			"rankInProvince": 31,
+			"type": "理工",
+			"rankInType": 214
+		},
+		{
+			"rankInAll": 728,
+			"name": "武夷学院",
+			"rankInProvince": 19,
+			"type": "师范",
+			"rankInType": 123
+		},
+		{
+			"rankInAll": 731,
+			"name": "安康学院",
+			"rankInProvince": 36,
+			"type": "师范",
+			"rankInType": 124
+		},
+		{
+			"rankInAll": 731,
+			"name": "榆林学院",
+			"rankInProvince": 36,
+			"type": "综合",
+			"rankInType": 138
+		},
+		{
+			"rankInAll": 733,
+			"name": "山东政法学院",
+			"rankInProvince": 44,
+			"type": "文法",
+			"rankInType": 40
+		},
+		{
+			"rankInAll": 733,
+			"name": "湖南工学院",
+			"rankInProvince": 29,
+			"type": "理工",
+			"rankInType": 216
+		},
+		{
+			"rankInAll": 733,
+			"name": "内蒙古科技大学包头医学院",
+			"rankInProvince": 11,
+			"type": "医药",
+			"rankInType": 74
+		},
+		{
+			"rankInAll": 733,
+			"name": "广东第二师范学院",
+			"rankInProvince": 37,
+			"type": "师范",
+			"rankInType": 125
+		},
+		{
+			"rankInAll": 737,
+			"name": "黄淮学院",
+			"rankInProvince": 34,
+			"type": "师范",
+			"rankInType": 126
+		},
+		{
+			"rankInAll": 737,
+			"name": "昌吉学院",
+			"rankInProvince": 10,
+			"type": "师范",
+			"rankInType": 126
+		},
+		{
+			"rankInAll": 739,
+			"name": "贵阳学院",
+			"rankInProvince": 12,
+			"type": "综合",
+			"rankInType": 139
+		},
+		{
+			"rankInAll": 739,
+			"name": "山东女子学院",
+			"rankInProvince": 45,
+			"type": "文法",
+			"rankInType": 41
+		},
+		{
+			"rankInAll": 741,
+			"name": "大连科技学院",
+			"rankInProvince": 41,
+			"type": "理工",
+			"rankInType": 217
+		},
+		{
+			"rankInAll": 742,
+			"name": "山东英才学院",
+			"rankInProvince": 46,
+			"type": "综合",
+			"rankInType": 140
+		},
+		{
+			"rankInAll": 742,
+			"name": "北京师范大学-香港浸会大学联合国际学院",
+			"rankInProvince": 38,
+			"type": "综合",
+			"rankInType": 140
+		},
+		{
+			"rankInAll": 744,
+			"name": "海口经济学院",
+			"rankInProvince": 6,
+			"type": "财经",
+			"rankInType": 51
+		},
+		{
+			"rankInAll": 745,
+			"name": "赣南医学院",
+			"rankInProvince": 22,
+			"type": "医药",
+			"rankInType": 75
+		},
+		{
+			"rankInAll": 746,
+			"name": "廊坊师范学院",
+			"rankInProvince": 28,
+			"type": "师范",
+			"rankInType": 128
+		},
+		{
+			"rankInAll": 747,
+			"name": "晋中学院",
+			"rankInProvince": 15,
+			"type": "综合",
+			"rankInType": 142
+		},
+		{
+			"rankInAll": 748,
+			"name": "遵义师范学院",
+			"rankInProvince": 13,
+			"type": "师范",
+			"rankInType": 129
+		},
+		{
+			"rankInAll": 748,
+			"name": "集宁师范学院",
+			"rankInProvince": 12,
+			"type": "师范",
+			"rankInType": 129
+		},
+		{
+			"rankInAll": 748,
+			"name": "宁夏师范学院",
+			"rankInProvince": 4,
+			"type": "师范",
+			"rankInType": 129
+		},
+		{
+			"rankInAll": 751,
+			"name": "龙岩学院",
+			"rankInProvince": 20,
+			"type": "综合",
+			"rankInType": 143
+		},
+		{
+			"rankInAll": 751,
+			"name": "湖南警察学院",
+			"rankInProvince": 30,
+			"type": "文法",
+			"rankInType": 42
+		},
+		{
+			"rankInAll": 753,
+			"name": "商洛学院",
+			"rankInProvince": 38,
+			"type": "师范",
+			"rankInType": 132
+		},
+		{
+			"rankInAll": 754,
+			"name": "大庆师范学院",
+			"rankInProvince": 26,
+			"type": "师范",
+			"rankInType": 133
+		},
+		{
+			"rankInAll": 755,
+			"name": "四川文理学院",
+			"rankInProvince": 32,
+			"type": "师范",
+			"rankInType": 134
+		},
+		{
+			"rankInAll": 755,
+			"name": "辽宁对外经贸学院",
+			"rankInProvince": 42,
+			"type": "财经",
+			"rankInType": 52
+		},
+		{
+			"rankInAll": 755,
+			"name": "武昌理工学院",
+			"rankInProvince": 37,
+			"type": "理工",
+			"rankInType": 218
+		},
+		{
+			"rankInAll": 758,
+			"name": "西交利物浦大学",
+			"rankInProvince": 46,
+			"type": "综合",
+			"rankInType": 144
+		},
+		{
+			"rankInAll": 759,
+			"name": "汉口学院",
+			"rankInProvince": 38,
+			"type": "理工",
+			"rankInType": 219
+		},
+		{
+			"rankInAll": 759,
+			"name": "上海建桥学院",
+			"rankInProvince": 31,
+			"type": "综合",
+			"rankInType": 145
+		},
+		{
+			"rankInAll": 761,
+			"name": "山西中医学院",
+			"rankInProvince": 16,
+			"type": "医药",
+			"rankInType": 76
+		},
+		{
+			"rankInAll": 761,
+			"name": "陇东学院",
+			"rankInProvince": 13,
+			"type": "师范",
+			"rankInType": 135
+		},
+		{
+			"rankInAll": 761,
+			"name": "沧州师范学院",
+			"rankInProvince": 29,
+			"type": "师范",
+			"rankInType": 135
+		},
+		{
+			"rankInAll": 764,
+			"name": "重庆第二师范学院",
+			"rankInProvince": 16,
+			"type": "师范",
+			"rankInType": 137
+		},
+		{
+			"rankInAll": 764,
+			"name": "成都师范学院",
+			"rankInProvince": 33,
+			"type": "师范",
+			"rankInType": 137
+		},
+		{
+			"rankInAll": 766,
+			"name": "哈尔滨华德学院",
+			"rankInProvince": 27,
+			"type": "理工",
+			"rankInType": 220
+		},
+		{
+			"rankInAll": 766,
+			"name": "山东警察学院",
+			"rankInProvince": 47,
+			"type": "文法",
+			"rankInType": 43
+		},
+		{
+			"rankInAll": 768,
+			"name": "湖北商贸学院",
+			"rankInProvince": 39,
+			"type": "综合",
+			"rankInType": 146
+		},
+		{
+			"rankInAll": 769,
+			"name": "云南警官学院",
+			"rankInProvince": 17,
+			"type": "文法",
+			"rankInType": 44
+		},
+		{
+			"rankInAll": 769,
+			"name": "太原工业学院",
+			"rankInProvince": 17,
+			"type": "理工",
+			"rankInType": 221
+		},
+		{
+			"rankInAll": 769,
+			"name": "赤峰学院",
+			"rankInProvince": 13,
+			"type": "师范",
+			"rankInType": 139
+		},
+		{
+			"rankInAll": 772,
+			"name": "燕京理工学院",
+			"rankInProvince": 30,
+			"type": "综合",
+			"rankInType": 147
+		},
+		{
+			"rankInAll": 772,
+			"name": "浙江警察学院",
+			"rankInProvince": 30,
+			"type": "文法",
+			"rankInType": 45
+		},
+		{
+			"rankInAll": 772,
+			"name": "吉林医药学院",
+			"rankInProvince": 26,
+			"type": "医药",
+			"rankInType": 77
+		},
+		{
+			"rankInAll": 775,
+			"name": "六盘水师范学院",
+			"rankInProvince": 14,
+			"type": "师范",
+			"rankInType": 140
+		},
+		{
+			"rankInAll": 775,
+			"name": "河南警察学院",
+			"rankInProvince": 35,
+			"type": "文法",
+			"rankInType": 46
+		},
+		{
+			"rankInAll": 775,
+			"name": "西安思源学院",
+			"rankInProvince": 39,
+			"type": "理工",
+			"rankInType": 222
+		},
+		{
+			"rankInAll": 775,
+			"name": "陕西国际商贸学院",
+			"rankInProvince": 39,
+			"type": "财经",
+			"rankInType": 53
+		},
+		{
+			"rankInAll": 779,
+			"name": "郑州科技学院",
+			"rankInProvince": 36,
+			"type": "理工",
+			"rankInType": 223
+		},
+		{
+			"rankInAll": 779,
+			"name": "黑龙江财经学院",
+			"rankInProvince": 28,
+			"type": "财经",
+			"rankInType": 54
+		},
+		{
+			"rankInAll": 779,
+			"name": "兰州城市学院",
+			"rankInProvince": 14,
+			"type": "师范",
+			"rankInType": 141
+		},
+		{
+			"rankInAll": 782,
+			"name": "安徽三联学院",
+			"rankInProvince": 30,
+			"type": "理工",
+			"rankInType": 224
+		},
+		{
+			"rankInAll": 782,
+			"name": "兴义民族师范学院",
+			"rankInProvince": 15,
+			"type": "民族",
+			"rankInType": 14
+		},
+		{
+			"rankInAll": 784,
+			"name": "商丘学院",
+			"rankInProvince": 37,
+			"type": "综合",
+			"rankInType": 148
+		},
+		{
+			"rankInAll": 784,
+			"name": "南昌工学院",
+			"rankInProvince": 23,
+			"type": "理工",
+			"rankInType": 225
+		},
+		{
+			"rankInAll": 786,
+			"name": "大连东软信息学院",
+			"rankInProvince": 43,
+			"type": "理工",
+			"rankInType": 226
+		},
+		{
+			"rankInAll": 786,
+			"name": "浙江越秀外国语学院",
+			"rankInProvince": 31,
+			"type": "文法",
+			"rankInType": 47
+		},
+		{
+			"rankInAll": 786,
+			"name": "云南工商学院",
+			"rankInProvince": 18,
+			"type": "财经",
+			"rankInType": 55
+		},
+		{
+			"rankInAll": 786,
+			"name": "河南牧业经济学院",
+			"rankInProvince": 38,
+			"type": "农林",
+			"rankInType": 38
+		},
+		{
+			"rankInAll": 790,
+			"name": "福州理工学院",
+			"rankInProvince": 21,
+			"type": "综合",
+			"rankInType": 149
+		},
+		{
+			"rankInAll": 790,
+			"name": "安徽新华学院",
+			"rankInProvince": 31,
+			"type": "理工",
+			"rankInType": 227
+		},
+		{
+			"rankInAll": 790,
+			"name": "吉林农业科技学院",
+			"rankInProvince": 27,
+			"type": "农林",
+			"rankInType": 39
+		},
+		{
+			"rankInAll": 793,
+			"name": "山东协和学院",
+			"rankInProvince": 48,
+			"type": "医药",
+			"rankInType": 78
+		},
+		{
+			"rankInAll": 793,
+			"name": "普洱学院",
+			"rankInProvince": 19,
+			"type": "师范",
+			"rankInType": 142
+		},
+		{
+			"rankInAll": 793,
+			"name": "安徽外国语学院",
+			"rankInProvince": 32,
+			"type": "文法",
+			"rankInType": 48
+		},
+		{
+			"rankInAll": 793,
+			"name": "凯里学院",
+			"rankInProvince": 16,
+			"type": "师范",
+			"rankInType": 142
+		},
+		{
+			"rankInAll": 797,
+			"name": "湖北警官学院",
+			"rankInProvince": 40,
+			"type": "文法",
+			"rankInType": 49
+		},
+		{
+			"rankInAll": 798,
+			"name": "河北民族师范学院",
+			"rankInProvince": 31,
+			"type": "师范",
+			"rankInType": 144
+		},
+		{
+			"rankInAll": 799,
+			"name": "重庆人文科技学院",
+			"rankInProvince": 17,
+			"type": "综合",
+			"rankInType": 150
+		},
+		{
+			"rankInAll": 800,
+			"name": "贵州理工学院",
+			"rankInProvince": 17,
+			"type": "理工",
+			"rankInType": 228
+		}
+	]
 }
