@@ -81,3 +81,7 @@ body {
     line-height: 60px;
     padding-left: 10px
 }
+
+.except-row{
+    background-color: #e3e0e0 !important;
+}

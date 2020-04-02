@@ -18,8 +18,11 @@ class UniversityController {
       var searchText = req.query.searchText || req.body.searchText;
       var searchProvince = req.query.searchProvince || req.body.searchProvince;
       var searchCity = req.query.searchCity || req.body.searchCity;
+      var searchType = req.query.searchType || req.body.searchType;
       var searchStatus = req.query.searchStatus || req.body.searchStatus;
       var searchLevel = req.query.searchLevel || req.body.searchLevel;
+      var searchExcept = req.query.searchExcept || req.body.searchExcept;
+      var searchRank = req.query.searchRank || req.body.searchRank;
       var tableName = req.query.tableName || req.body.tableName || "universities";
 
       var result = new Result();
@@ -30,25 +33,57 @@ class UniversityController {
           return item.name.includes(searchText);
         })
       }
+      //省份
       if (searchProvince) {
         list = list.filter((item) => {
           return item.province == searchProvince;
         })
       }
+      //城市
       if (searchCity) {
         list = list.filter((item) => {
           return item.city == searchCity;
         })
       }
+      //投递状态
       if (searchStatus) {
         list = list.filter((item) => {
           return item.status == searchStatus;
         })
       }
+      //只看本科
       if (searchLevel == 1) {
         list = list.filter((item) => {
           return item.level != 5;
         })
+      }
+      //是否显示已排除
+      if (searchExcept == 0) {
+        list = list.filter((item) => {
+          return item.except != 1;
+        })
+      }
+      //只看排名
+      if (searchRank == 1) {
+        list = list.filter((item) => {
+          return item.rankInAll;
+        })
+      }
+      //类型筛选
+      if (searchType && searchType.length > 0) {
+        let templist1 = [];
+        let templist2 = [];
+        if (searchType.includes("其他")) {//如果有其他，则返回没有类型的
+          templist1 = list.filter((item) => {
+            return !item.type;
+          })
+        }
+        //按照类型筛选
+        templist2 = list.filter((item) => {
+          return searchType.includes(item.type);
+        })
+
+        list = templist1.concat(templist2);
       }
 
       result.setResult(new Page(pageSize, pageNum, list));
@@ -142,6 +177,7 @@ class UniversityController {
       var url = req.query.url || req.body.url;
       var status = req.query.status || req.body.status;
       var remark = req.query.remark || req.body.remark;
+      var except = req.query.except || req.body.except;
 
 
 
@@ -155,6 +191,7 @@ class UniversityController {
       university.status = status;
       university.createTime = new Date().format("yyyy-MM-dd hh:mm:ss");
       university.remark = remark;
+      university.except = except;
 
       DaoService.update("universities", university);
 
@@ -223,6 +260,18 @@ class UniversityController {
     })
     app.all("/syncData", function (req, res) {
       DaoService.syncData();
+      var result = new Result();
+      result.setResult("");
+      result.setMsg("success");
+      result.setCode(0);
+
+      res.status(200).send(result);
+    })
+    /**
+     * 同步排名
+     */
+    app.all("/syncRank", function (req, res) {
+      DaoService.syncRank();
       var result = new Result();
       result.setResult("");
       result.setMsg("success");

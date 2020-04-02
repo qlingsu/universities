@@ -28,6 +28,9 @@ var mainComponent = {
                     <el-form-item label="备注">
                         <el-input type="textarea" :rows="3" v-model="form.remark"></el-input>
                     </el-form-item>
+                    <el-form-item label="是否排除">
+                        <el-switch v-model="form.except"></el-switch>
+                    </el-form-item>
                 </el-form>
                 <div style="text-align: center;">
                     <el-button type="primary" @click="handleAdd" v-show="source=='revise'||source=='add'">提交</el-button>
@@ -57,6 +60,13 @@ var mainComponent = {
                                 <el-option v-for="item in cities" :label="item.label" :value="item.value" :key="item.value"></el-option>
                             </el-select>
                         </div>
+
+                        <div style="margin-left:20px;display: flex;align-items: center;">
+                            <span>类型:</span>
+                            <el-select style="margin-left:10px;" multiple collapse-tags v-model="searchType" placeholder="请选择类型"  >
+                                <el-option v-for="item in types" :label="item.label" :value="item.value" :key="item.value"></el-option>
+                            </el-select>
+                        </div>
                     </div>
 
                     <div style="display:flex; margin-top: 20px;">
@@ -70,29 +80,52 @@ var mainComponent = {
                             <span>只看本科：</span>
                             <el-switch v-model="searchLevel"></el-switch>
                         </div>
+
+                        <div style="margin-left:20px;display: flex;align-items: center;">
+                            <span>只看有排名：</span>
+                            <el-switch v-model="searchRank"></el-switch>
+                        </div>
+
+                        <div style="margin-left:20px;display: flex;align-items: center;">
+                            <span>显示已排除：</span>
+                            <el-switch v-model="searchExcept" ></el-switch>
+                        </div>
+
                         <el-button type="primary" @click="searchEvent" style="margin-left:20px;">搜索</el-button>
                         <el-button type="primary" @click="addEvent" style="margin-left:20px;">新建</el-button>
                     </div>
                 </div>
 
-                <el-table :data="dataTable" style="width: 100%">
+                <el-table :data="dataTable" style="width: 100%" :row-class-name="rowClassName">
                     <el-table-column prop="name" label="高校名称" width="180" :show-overflow-tooltip="showOverflowTooltip"></el-table-column>
-                    <el-table-column prop="province" label="省份" width="120" :show-overflow-tooltip="showOverflowTooltip"></el-table-column>
-                    <el-table-column prop="city" label="城市" width="120" :show-overflow-tooltip="showOverflowTooltip"></el-table-column>
+                    <el-table-column prop="province" label="省份" width="100" :show-overflow-tooltip="showOverflowTooltip"></el-table-column>
+                    <el-table-column prop="city" label="城市" width="80" :show-overflow-tooltip="showOverflowTooltip"></el-table-column>
                     
-                    <el-table-column  label="网站地址" width="200" :show-overflow-tooltip="showOverflowTooltip">
+                    <el-table-column  label="网站地址"  :show-overflow-tooltip="showOverflowTooltip">
                         <template slot-scope="scope">
                             <a :href="scope.row.url" target="_blank">{{scope.row.url}}</a>
                         </template>
                     </el-table-column>
+                    <!--
                     <el-table-column prop="createTime" sortable label="条目创建时间" width="200" :show-overflow-tooltip="showOverflowTooltip"></el-table-column>
-                    <el-table-column label="状态" width="180" :show-overflow-tooltip="showOverflowTooltip" :render-header="renderHeader">
+                    -->
+                    <el-table-column label="状态" width="100" :show-overflow-tooltip="showOverflowTooltip" >
                         <template slot-scope="scope">
                             <div v-show="scope.row.status==true" style="color:green;">已投递</div>
                             <div v-show="scope.row.status!=true" style="color:red;">未投递</div>
                         </template>
                     </el-table-column>
-                    <el-table-column label="操作">
+
+                    <el-table-column label="全国排名" prop="rankInAll" width="80">
+                    </el-table-column>
+                    <el-table-column label="省内排名" prop="rankInProvince" width="80">
+                    </el-table-column>
+                    <el-table-column label="类型" prop="type" width="80">
+                    </el-table-column>
+                    <el-table-column label="类型排名" prop="rankInType" width="80">
+                    </el-table-column>
+                    
+                    <el-table-column label="操作" width="260">
                         <template slot-scope="scope">
                             <el-button size="mini" @click="handleDetail(scope.row)">查看详情</el-button>
                             <el-button size="mini" @click="handleRevise(scope.row)" type="primary">修改</el-button>
@@ -124,8 +157,11 @@ var mainComponent = {
             searchText: "",//搜索内容
             searchProvince: "",
             searchCity: "",
+            searchType: [],
             searchStatus: "",
             searchLevel: true,
+            searchExcept: true,//true---查看包括已排除 false---查看不包括以排除
+            searchRank: false,//true---只看有排名
 
             loading: false,
 
@@ -143,12 +179,27 @@ var mainComponent = {
                 url: "",//网站地址
                 status: "",//0---未投递 1---已投递
                 createTime: "",//创建时间
-                remark: ""//备注
+                remark: "",//备注
+                except: ""//是否排除
             },
             source: "",//revise---修改 detail---详情 add---添加
             logoUrl: window.config.logoUrl,
 
-            showOverflowTooltip: true
+            showOverflowTooltip: true,
+
+            types: [
+                { label: "财经", value: "财经" },
+                { label: "师范", value: "师范" },
+                { label: "理工", value: "理工" },
+                { label: "综合", value: "综合" },
+                { label: "医药", value: "医药" },
+                { label: "农林", value: "农林" },
+                { label: "民族", value: "民族" },
+                { label: "文法", value: "文法" },
+                { label: "艺术", value: "艺术" },
+                { label: "体育", value: "体育" },
+                { label: "其他", value: "其他" }
+            ]
 
         }
     },
@@ -275,7 +326,8 @@ var mainComponent = {
         handleAdd: function () {
             var self = this;
             self.showAddBtn = true;
-            self.form.status = self.form.status ? "1" : "0"
+            self.form.status = self.form.status ? "1" : "0";
+            self.form.except = self.form.except ? "1" : "0";
             if (self.source == "add") {
                 axios.get("/add", {
                     params: self.form
@@ -306,6 +358,10 @@ var mainComponent = {
                 })
             }
         },
+        /**
+         * 查看详情
+         * @param {*} row 
+         */
         handleRevise: function (row) {
             var self = this;
             self.source = "revise";
@@ -322,11 +378,16 @@ var mainComponent = {
                 if (result.code == "0") {
                     self.form = result.result[0];
                     self.form.status = self.form.status == "1" ? true : false;
+                    self.form.except = self.form.except == "1" ? true : false;
                 } else {
                     self.form = {};
                 }
             })
         },
+        /**
+         * 查看详情
+         * @param {*} row 
+         */
         handleDetail: function (row) {
             var self = this;
             self.source = "detail";
@@ -343,6 +404,7 @@ var mainComponent = {
                 if (result.code == "0") {
                     self.form = result.result[0];
                     self.form.status = self.form.status == "1" ? true : false;
+                    self.form.except = self.form.except == "1" ? true : false;
                 } else {
                     self.form = {};
                 }
@@ -393,8 +455,11 @@ var mainComponent = {
                     searchText: self.searchText,
                     searchProvince: self.searchProvince,
                     searchCity: self.searchCity,
+                    searchType: self.searchType ? self.searchType : [],
                     searchStatus: self.searchStatus,
-                    searchLevel: self.searchLevel ? "1" : "0"//true传1 代表只看本科
+                    searchLevel: self.searchLevel ? "1" : "0",//true传1 代表只看本科
+                    searchExcept: self.searchExcept ? "1" : "0",//包括已排除---传1 不包括已排除---传0
+                    searchRank: self.searchRank ? "1" : "0"
                 }
             }).then(function (data) {
                 var result = data.data;
@@ -480,6 +545,15 @@ var mainComponent = {
             var self = this;
             self.getList();
 
+        },
+        //给行赋值，排除的行给个颜色
+        rowClassName({ row, rowIndex }) {
+            // console.log("rowClassName", row);
+            if (row.except == "1") {
+                return "except-row";
+            } else {
+                return "";
+            }
         }
     }
 }

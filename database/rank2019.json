@@ -625,7 +625,7 @@
 		},
 		{
 			"rankInAll": 90,
-			"name": "中国矿业大学(北京)",
+			"name": "中国矿业大学（北京）",
 			"rankInProvince": 20,
 			"type": "理工",
 			"rankInType": 39
@@ -653,14 +653,14 @@
 		},
 		{
 			"rankInAll": 94,
-			"name": "中国石油大学(北京)",
+			"name": "中国石油大学（北京）",
 			"rankInProvince": 21,
 			"type": "理工",
 			"rankInType": 41
 		},
 		{
 			"rankInAll": 95,
-			"name": "中国石油大学(华东)",
+			"name": "中国石油大学（华东）",
 			"rankInProvince": 3,
 			"type": "理工",
 			"rankInType": 42
@@ -681,7 +681,7 @@
 		},
 		{
 			"rankInAll": 98,
-			"name": "中国地质大学(武汉)",
+			"name": "中国地质大学（武汉）",
 			"rankInProvince": 6,
 			"type": "理工",
 			"rankInType": 43
@@ -765,7 +765,7 @@
 		},
 		{
 			"rankInAll": 110,
-			"name": "中国地质大学(北京)",
+			"name": "中国地质大学（北京）",
 			"rankInProvince": 25,
 			"type": "理工",
 			"rankInType": 47
