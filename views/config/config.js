@@ -1,4 +1,3 @@
-var imgUrl = ""
 window.config = {
-    logoUrl: imgUrl + "/avatar/user/{0}/large"
+    baiduMapKey:"h9zieOjOsNs5TRy2S6sjXvbt4DHc21OG"
 }

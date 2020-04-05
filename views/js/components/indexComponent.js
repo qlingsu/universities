@@ -2,7 +2,7 @@ var indexComponent = {
   template: `
   <div class="whole-page" v-loading="loading" element-loading-text="拼命加载中"
             element-loading-spinner="el-icon-loading"
-            element-loading-background="rgba(0, 0, 0, 0.8)"> 
+            element-loading-background="rgba(0, 0, 0, 0.8)" style="overflow: hidden;"> 
     <div class="top-title">
       <div style="width: 60px;display: flex;align-items: center;justify-content: center;float: left;">
         <i class="iconfont icon-xueshimao-shi" style="font-size:30px;"></i>
@@ -11,7 +11,7 @@ var indexComponent = {
         全国高校查询系统 
       </div>
       <div style="line-height: 40px;margin-right:20px;float:right;">
-        <span style="font-size:12px;">Copyright © 2020 qlingsu All Rights Reserved.</span>
+        <span style="font-size:12px;">Copyright © 2020 <span>qlingsu@163.com</span> All Rights Reserved.</span>
       </div>
     </div>
     <div class="body-page">
@@ -51,6 +51,13 @@ var indexComponent = {
           title: "设置",
           color: "#FFFF",
           path: "/setting"
+        },
+        {
+          id:"4",
+          iconfont:"area",
+          title: "定位",
+          color: "#FFFF",
+          path: "/baiduMap"
         }
       ]
     }

@@ -2,6 +2,7 @@
 <html lang="en">
 
 <head>
+    <meta name="referrer" content="never">
     <title>全国高校查询系统</title>
     <link rel="shortcut icon" type="image/x-icon" href="/views/icons/favicon.ico?v=123">
     <script src="/views/config/config.js"></script>
@@ -30,11 +31,14 @@
     <script src="/views/js/components/mainComponent.js"></script>
     <script src="/views/js/components/mapComponent.js"></script>
     <script src="/views/js/components/settingComponent.js"></script>
-    
+    <script src="/views/js/components/baiduMapComponent.js"></script>
+
+    <script type="text/javascript"
+        src="https://api.map.baidu.com/api?v=3.0&ak=h9zieOjOsNs5TRy2S6sjXvbt4DHc21OG"></script>
 </head>
 
 <body>
-    <div id="app">
+    <div id="app" style="overflow: hidden;position: absolute;left: 0;right: 0; top: 0;bottom: 0;">
         <router-view></router-view>
     </div>
 </body>
@@ -48,15 +52,23 @@
             children: [
                 {
                     path: 'main',
+                    name: "main",
                     component: mainComponent
                 },
                 {
                     path: 'map',
+                    name: "map",
                     component: mapComponent
                 },
                 {
                     path: 'setting',
+                    name: "setting",
                     component: settingComponent
+                },
+                {
+                    path: 'baiduMap/:name?',
+                    name: "baiduMap",
+                    component: baiduMapComponent
                 }
             ]
         },

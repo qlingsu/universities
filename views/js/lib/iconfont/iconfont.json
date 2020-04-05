@@ -6,6 +6,34 @@
   "description": "",
   "glyphs": [
     {
+      "icon_id": "551537",
+      "name": "定位",
+      "font_class": "location",
+      "unicode": "e61e",
+      "unicode_decimal": 58910
+    },
+    {
+      "icon_id": "11200625",
+      "name": "地图",
+      "font_class": "area",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "6489110",
+      "name": "对号",
+      "font_class": "duihaocheckmark17-copy-copy",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "13717393",
+      "name": "对号",
+      "font_class": "duihaocheckmark17-copy-copy-copy",
+      "unicode": "e6b6",
+      "unicode_decimal": 59062
+    },
+    {
       "icon_id": "10262050",
       "name": "设 置",
       "font_class": "shezhi",

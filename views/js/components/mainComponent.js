@@ -97,7 +97,14 @@ var mainComponent = {
                 </div>
 
                 <el-table :data="dataTable" style="width: 100%" :row-class-name="rowClassName">
-                    <el-table-column prop="name" label="高校名称" width="180" :show-overflow-tooltip="showOverflowTooltip"></el-table-column>
+                    <el-table-column label="高校名称" width="180" :show-overflow-tooltip="showOverflowTooltip">
+                        <template slot-scope="scope">
+                            <div style="display:flex;">
+                                <i class="iconfont icon-location" style="font-size:26px;color:red;cursor:pointer;" @click="goToBaiduMap(scope.row)"></i>
+                                <a :href="baiduSearch.replace('searchName',scope.row.name)" target="_blank">{{scope.row.name}}</a>
+                            </div> 
+                        </template>
+                    </el-table-column>
                     <el-table-column prop="province" label="省份" width="100" :show-overflow-tooltip="showOverflowTooltip"></el-table-column>
                     <el-table-column prop="city" label="城市" width="80" :show-overflow-tooltip="showOverflowTooltip"></el-table-column>
                     
@@ -199,8 +206,8 @@ var mainComponent = {
                 { label: "艺术", value: "艺术" },
                 { label: "体育", value: "体育" },
                 { label: "其他", value: "其他" }
-            ]
-
+            ],
+            baiduSearch : `https://www.baidu.com/s?wd=searchName&rsv_spt=1&rsv_iqid=0xe2293fe700119e71&issp=1&f=8&rsv_bp=1&rsv_idx=2&ie=utf-8&tn=baiduhome_pg&rsv_enter=1&rsv_dl=tb&rsv_sug3=22&rsv_sug1=25&rsv_sug7=100&rsv_sug2=0&inputT=2580457&rsv_sug4=2582137`
         }
     },
     created: function () {
@@ -379,6 +386,7 @@ var mainComponent = {
                     self.form = result.result[0];
                     self.form.status = self.form.status == "1" ? true : false;
                     self.form.except = self.form.except == "1" ? true : false;
+                    self.form.level = new String(self.form.level).toString();
                 } else {
                     self.form = {};
                 }
@@ -405,6 +413,7 @@ var mainComponent = {
                     self.form = result.result[0];
                     self.form.status = self.form.status == "1" ? true : false;
                     self.form.except = self.form.except == "1" ? true : false;
+                    self.form.level = new String(self.form.level).toString();
                 } else {
                     self.form = {};
                 }
@@ -554,6 +563,12 @@ var mainComponent = {
             } else {
                 return "";
             }
+        },
+        //去百度地图
+        goToBaiduMap(row){
+            this.$router.push({name:"baiduMap",params:{
+                name:row.name
+            }})
         }
     }
 }
